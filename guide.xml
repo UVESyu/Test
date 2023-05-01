@@ -1,0 +1,1660 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Trans 7 - 110">
+    <display-name lang="id">Trans 7 - 110</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Trans TV - 87">
+    <display-name lang="id">Trans TV - 87</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="SCTV - 89">
+    <display-name lang="id">SCTV - 89</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="RCTI - 80">
+    <display-name lang="id">RCTI - 80</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="TVONE - 97">
+    <display-name lang="id">TVONE - 97</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="TVRI - 118">
+    <display-name lang="id">TVRI - 118</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="ZBioskop - 23">
+    <display-name lang="id">ZBioskop - 23</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="iNewsTV - 83">
+    <display-name lang="id">iNewsTV - 83</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="tvN - 166">
+    <display-name lang="id">tvN - 166</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="ANTV - 115">
+    <display-name lang="id">ANTV - 115</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="BabyTV - 40">
+    <display-name lang="id">BabyTV - 40</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Bloomberg - 338">
+    <display-name lang="id">Bloomberg - 338</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="CBeebies - 41">
+    <display-name lang="id">CBeebies - 41</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="CINEMAX - 8">
+    <display-name lang="id">CINEMAX - 8</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="CNBC - 337">
+    <display-name lang="id">CNBC - 337</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="CNN International - 333">
+    <display-name lang="id">CNN International - 333</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Cartoon Network - 47">
+    <display-name lang="id">Cartoon Network - 47</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Celestial Classic Movies - 22">
+    <display-name lang="id">Celestial Classic Movies - 22</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Celestial Movies - 20">
+    <display-name lang="id">Celestial Movies - 20</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Channel News Asia - 330">
+    <display-name lang="id">Channel News Asia - 330</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Comedy Channel - 104">
+    <display-name lang="id">Comedy Channel - 104</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Crime Investigation - 207">
+    <display-name lang="id">Crime Investigation - 207</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="FOX - 153">
+    <display-name lang="id">FOX - 153</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="FOX Action Movies - 16">
+    <display-name lang="id">FOX Action Movies - 16</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="FOX Action Movies HD - 411">
+    <display-name lang="id">FOX Action Movies HD - 411</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="FOX Family Movies - 15">
+    <display-name lang="id">FOX Family Movies - 15</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="FOX Family Movies HD - 410">
+    <display-name lang="id">FOX Family Movies HD - 410</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="FOX HD - 437">
+    <display-name lang="id">FOX HD - 437</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="FOX Movies Premium - 14">
+    <display-name lang="id">FOX Movies Premium - 14</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="FOX Movies Premium HD - 409">
+    <display-name lang="id">FOX Movies Premium HD - 409</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Games Channel - 105">
+    <display-name lang="id">Games Channel - 105</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Global TV - 81">
+    <display-name lang="id">Global TV - 81</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="HBO - 7">
+    <display-name lang="id">HBO - 7</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="HBO Family - 9">
+    <display-name lang="id">HBO Family - 9</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="HBO Family HD - 403">
+    <display-name lang="id">HBO Family HD - 403</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="HBO HD - 401">
+    <display-name lang="id">HBO HD - 401</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="HBO Hits - 10">
+    <display-name lang="id">HBO Hits - 10</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="HBO Hits HD - 404">
+    <display-name lang="id">HBO Hits HD - 404</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="HBO Signature - 6">
+    <display-name lang="id">HBO Signature - 6</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="HBO Signature HD - 405">
+    <display-name lang="id">HBO Signature HD - 405</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <programme start="20230501001500 +0700" stop="20230501020000 +0700" channel="Trans 7 - 110">
+    <title lang="id">Theater Malam</title>
+  </programme>
+  <programme start="20230501020000 +0700" stop="20230501033000 +0700" channel="Trans 7 - 110">
+    <title lang="id">Opera Van Java</title>
+  </programme>
+  <programme start="20230501033000 +0700" stop="20230501043000 +0700" channel="Trans 7 - 110">
+    <title lang="id">The Police</title>
+  </programme>
+  <programme start="20230501043000 +0700" stop="20230501051500 +0700" channel="Trans 7 - 110">
+    <title lang="id">Hikmah</title>
+  </programme>
+  <programme start="20230501051500 +0700" stop="20230501060000 +0700" channel="Trans 7 - 110">
+    <title lang="id">Ragam Indonesia</title>
+  </programme>
+  <programme start="20230501060000 +0700" stop="20230501070000 +0700" channel="Trans 7 - 110">
+    <title lang="id">Redaksi Pagi</title>
+  </programme>
+  <programme start="20230501070000 +0700" stop="20230501080000 +0700" channel="Trans 7 - 110">
+    <title lang="id">Spotlite</title>
+  </programme>
+  <programme start="20230501080000 +0700" stop="20230501083000 +0700" channel="Trans 7 - 110">
+    <title lang="id">Selebrita Pagi</title>
+  </programme>
+  <programme start="20230501083000 +0700" stop="20230501093000 +0700" channel="Trans 7 - 110">
+    <title lang="id">FYP (For Your Pagi)</title>
+  </programme>
+  <programme start="20230501093000 +0700" stop="20230501101500 +0700" channel="Trans 7 - 110">
+    <title lang="id">Selebrita Pagi</title>
+  </programme>
+  <programme start="20230501101500 +0700" stop="20230501110000 +0700" channel="Trans 7 - 110">
+    <title lang="id">OMG</title>
+  </programme>
+  <programme start="20230501110000 +0700" stop="20230501114500 +0700" channel="Trans 7 - 110">
+    <title lang="id">Trending</title>
+  </programme>
+  <programme start="20230501114500 +0700" stop="20230501123000 +0700" channel="Trans 7 - 110">
+    <title lang="id">Enah Bikin Enak</title>
+  </programme>
+  <programme start="20230501123000 +0700" stop="20230501130000 +0700" channel="Trans 7 - 110">
+    <title lang="id">Bocah Petualang</title>
+  </programme>
+  <programme start="20230501130000 +0700" stop="20230501133000 +0700" channel="Trans 7 - 110">
+    <title lang="id">Si Otan</title>
+  </programme>
+  <programme start="20230501133000 +0700" stop="20230501141500 +0700" channel="Trans 7 - 110">
+    <title lang="id">Indonesiaku</title>
+  </programme>
+  <programme start="20230501141500 +0700" stop="20230501151500 +0700" channel="Trans 7 - 110">
+    <title lang="id">Redaksi</title>
+  </programme>
+  <programme start="20230501151500 +0700" stop="20230501161500 +0700" channel="Trans 7 - 110">
+    <title lang="id">Jejak Si Gundul</title>
+  </programme>
+  <programme start="20230501161500 +0700" stop="20230501171500 +0700" channel="Trans 7 - 110">
+    <title lang="id">Makan Receh</title>
+  </programme>
+  <programme start="20230501171500 +0700" stop="20230501180000 +0700" channel="Trans 7 - 110">
+    <title lang="id">Selebrita Expose</title>
+  </programme>
+  <programme start="20230501180000 +0700" stop="20230501190000 +0700" channel="Trans 7 - 110">
+    <title lang="id">On The Spot</title>
+  </programme>
+  <programme start="20230501190000 +0700" stop="20230501194500 +0700" channel="Trans 7 - 110">
+    <title lang="id">Secret Story</title>
+  </programme>
+  <programme start="20230501194500 +0700" stop="20230501203000 +0700" channel="Trans 7 - 110">
+    <title lang="id">POV (Pasti Obrolan Viral)</title>
+  </programme>
+  <programme start="20230501203000 +0700" stop="20230501213000 +0700" channel="Trans 7 - 110">
+    <title lang="id">Arisan</title>
+  </programme>
+  <programme start="20230501213000 +0700" stop="20230501224500 +0700" channel="Trans 7 - 110">
+    <title lang="id">Lapor Pak!</title>
+  </programme>
+  <programme start="20230501224500 +0700" stop="20230501233000 +0700" channel="Trans 7 - 110">
+    <title lang="id">Krim Malam</title>
+  </programme>
+  <programme start="20230501233000 +0700" stop="20230502001500 +0700" channel="Trans 7 - 110">
+    <title lang="id">Misteri Dunia</title>
+  </programme>
+  <programme start="20230501014500 +0700" stop="20230501021500 +0700" channel="Trans TV - 87">
+    <title lang="id">CNN Indonesia Connected</title>
+  </programme>
+  <programme start="20230501021500 +0700" stop="20230501050000 +0700" channel="Trans TV - 87">
+    <title lang="id">Program Dini Hari</title>
+  </programme>
+  <programme start="20230501050000 +0700" stop="20230501063000 +0700" channel="Trans TV - 87">
+    <title lang="id">Islam Itu Indah</title>
+  </programme>
+  <programme start="20230501063000 +0700" stop="20230501073000 +0700" channel="Trans TV - 87">
+    <title lang="id">Insert Pagi (L)</title>
+  </programme>
+  <programme start="20230501073000 +0700" stop="20230501083000 +0700" channel="Trans TV - 87">
+    <title lang="id">CNN Indonesia Good Morning</title>
+  </programme>
+  <programme start="20230501083000 +0700" stop="20230501103000 +0700" channel="Trans TV - 87">
+    <title lang="id">Sinema Spesial Liburan Pagi</title>
+  </programme>
+  <programme start="20230501103000 +0700" stop="20230501110000 +0700" channel="Trans TV - 87">
+    <title lang="id">Mr. Bean</title>
+  </programme>
+  <programme start="20230501110000 +0700" stop="20230501113000 +0700" channel="Trans TV - 87">
+    <title lang="id">Catatan Harian Dewi Sandra</title>
+  </programme>
+  <programme start="20230501113000 +0700" stop="20230501123000 +0700" channel="Trans TV - 87">
+    <title lang="id">Insert Siang</title>
+  </programme>
+  <programme start="20230501123000 +0700" stop="20230501140000 +0700" channel="Trans TV - 87">
+    <title lang="id">Brownis (Obrowlan Manis)</title>
+  </programme>
+  <programme start="20230501140000 +0700" stop="20230501150000 +0700" channel="Trans TV - 87">
+    <title lang="id">Rumpi: No Secret</title>
+  </programme>
+  <programme start="20230501150000 +0700" stop="20230501160000 +0700" channel="Trans TV - 87">
+    <title lang="id">Insert Today</title>
+  </programme>
+  <programme start="20230501160000 +0700" stop="20230501163000 +0700" channel="Trans TV - 87">
+    <title lang="id">CNN Indonesia News Update</title>
+  </programme>
+  <programme start="20230501163000 +0700" stop="20230501173000 +0700" channel="Trans TV - 87">
+    <title lang="id">Bikin Laper</title>
+  </programme>
+  <programme start="20230501173000 +0700" stop="20230501194500 +0700" channel="Trans TV - 87">
+    <title lang="id">Bioskop Trans TV Spesial</title>
+  </programme>
+  <programme start="20230501194500 +0700" stop="20230501204500 +0700" channel="Trans TV - 87">
+    <title lang="id">Insert Story</title>
+  </programme>
+  <programme start="20230501204500 +0700" stop="20230501211500 +0700" channel="Trans TV - 87">
+    <title lang="id">Dunia Punya Cerita</title>
+  </programme>
+  <programme start="20230501211500 +0700" stop="20230501214500 +0700" channel="Trans TV - 87">
+    <title lang="id">Tanpa Batas</title>
+  </programme>
+  <programme start="20230501214500 +0700" stop="20230501234500 +0700" channel="Trans TV - 87">
+    <title lang="id">Bioskop Trans TV</title>
+  </programme>
+  <programme start="20230501234500 +0700" stop="20230502014500 +0700" channel="Trans TV - 87">
+    <title lang="id">Bioskop Trans TV</title>
+  </programme>
+  <programme start="20230501010000 +0700" stop="20230501030000 +0700" channel="SCTV - 89">
+    <title lang="id">Pacarku Bidadari Jutek</title>
+  </programme>
+  <programme start="20230501030000 +0700" stop="20230501040000 +0700" channel="SCTV - 89">
+    <title lang="id">Cinta Karena Cinta</title>
+  </programme>
+  <programme start="20230501040000 +0700" stop="20230501043000 +0700" channel="SCTV - 89">
+    <title lang="id">SCTV</title>
+  </programme>
+  <programme start="20230501043000 +0700" stop="20230501060000 +0700" channel="SCTV - 89">
+    <title lang="id">SCTV</title>
+  </programme>
+  <programme start="20230501060000 +0700" stop="20230501070000 +0700" channel="SCTV - 89">
+    <title lang="id">SCTV</title>
+  </programme>
+  <programme start="20230501070000 +0700" stop="20230501080000 +0700" channel="SCTV - 89">
+    <title lang="id">SCTV</title>
+  </programme>
+  <programme start="20230501080000 +0700" stop="20230501100000 +0700" channel="SCTV - 89">
+    <title lang="id">SCTV</title>
+  </programme>
+  <programme start="20230501100000 +0700" stop="20230501120000 +0700" channel="SCTV - 89">
+    <title lang="id">SCTV</title>
+  </programme>
+  <programme start="20230501120000 +0700" stop="20230501124500 +0700" channel="SCTV - 89">
+    <title lang="id">SCTV</title>
+  </programme>
+  <programme start="20230501124500 +0700" stop="20230501141500 +0700" channel="SCTV - 89">
+    <title lang="id">SCTV</title>
+  </programme>
+  <programme start="20230501141500 +0700" stop="20230501153000 +0700" channel="SCTV - 89">
+    <title lang="id">SCTV</title>
+  </programme>
+  <programme start="20230501153000 +0700" stop="20230501170000 +0700" channel="SCTV - 89">
+    <title lang="id">SCTV</title>
+  </programme>
+  <programme start="20230501170000 +0700" stop="20230501184500 +0700" channel="SCTV - 89">
+    <title lang="id">SCTV</title>
+  </programme>
+  <programme start="20230501184500 +0700" stop="20230501210000 +0700" channel="SCTV - 89">
+    <title lang="id">SCTV</title>
+  </programme>
+  <programme start="20230501210000 +0700" stop="20230501230000 +0700" channel="SCTV - 89">
+    <title lang="id">SCTV</title>
+  </programme>
+  <programme start="20230501230000 +0700" stop="20230502013000 +0700" channel="SCTV - 89">
+    <title lang="id">SCTV</title>
+  </programme>
+  <programme start="20230501014500 +0700" stop="20230501020000 +0700" channel="RCTI - 80">
+    <title lang="id">Preman Pensiun S5</title>
+  </programme>
+  <programme start="20230501020000 +0700" stop="20230501034500 +0700" channel="RCTI - 80">
+    <title lang="id">Preman Pensiun S5</title>
+  </programme>
+  <programme start="20230501034500 +0700" stop="20230501040000 +0700" channel="RCTI - 80">
+    <title lang="id">Kultum</title>
+  </programme>
+  <programme start="20230501040000 +0700" stop="20230501053000 +0700" channel="RCTI - 80">
+    <title lang="id">Seputar iNews Pagi (L)</title>
+  </programme>
+  <programme start="20230501053000 +0700" stop="20230501061500 +0700" channel="RCTI - 80">
+    <title lang="id">Sergap</title>
+  </programme>
+  <programme start="20230501061500 +0700" stop="20230501080000 +0700" channel="RCTI - 80">
+    <title lang="id">Go Spot</title>
+  </programme>
+  <programme start="20230501080000 +0700" stop="20230501093000 +0700" channel="RCTI - 80">
+    <title lang="id">Trending Banget Loh (TBL)</title>
+  </programme>
+  <programme start="20230501093000 +0700" stop="20230501113000 +0700" channel="RCTI - 80">
+    <title lang="id">Silet</title>
+  </programme>
+  <programme start="20230501113000 +0700" stop="20230501120000 +0700" channel="RCTI - 80">
+    <title lang="id">Seputar iNews Siang (L)</title>
+  </programme>
+  <programme start="20230501120000 +0700" stop="20230501140000 +0700" channel="RCTI - 80">
+    <title lang="id">Mamiku Rivalku</title>
+  </programme>
+  <programme start="20230501140000 +0700" stop="20230501160000 +0700" channel="RCTI - 80">
+    <title lang="id">Si Doel Anak Sekolahan S3</title>
+  </programme>
+  <programme start="20230501160000 +0700" stop="20230501170000 +0700" channel="RCTI - 80">
+    <title lang="id">9 Bulan</title>
+  </programme>
+  <programme start="20230501170000 +0700" stop="20230501190000 +0700" channel="RCTI - 80">
+    <title lang="id">Preman Pensiun S8</title>
+  </programme>
+  <programme start="20230501190000 +0700" stop="20230501200000 +0700" channel="RCTI - 80">
+    <title lang="id">Ikatan Cinta</title>
+  </programme>
+  <programme start="20230501200000 +0700" stop="20230501210000 +0700" channel="RCTI - 80">
+    <title lang="id">Jangan Bercerai Bunda</title>
+  </programme>
+  <programme start="20230501210000 +0700" stop="20230502000000 +0700" channel="RCTI - 80">
+    <title lang="id">Indonesian Idol 2022 (L)</title>
+  </programme>
+  <programme start="20230501000000 +0700" stop="20230501020000 +0700" channel="TVONE - 97">
+    <title lang="id">tvOne</title>
+  </programme>
+  <programme start="20230501020000 +0700" stop="20230501030000 +0700" channel="TVONE - 97">
+    <title lang="id">tvOne</title>
+  </programme>
+  <programme start="20230501030000 +0700" stop="20230501033000 +0700" channel="TVONE - 97">
+    <title lang="id">tvOne</title>
+  </programme>
+  <programme start="20230501033000 +0700" stop="20230501040000 +0700" channel="TVONE - 97">
+    <title lang="id">tvOne</title>
+  </programme>
+  <programme start="20230501040000 +0700" stop="20230501043000 +0700" channel="TVONE - 97">
+    <title lang="id">tvOne</title>
+  </programme>
+  <programme start="20230501043000 +0700" stop="20230501060000 +0700" channel="TVONE - 97">
+    <title lang="id">tvOne</title>
+  </programme>
+  <programme start="20230501060000 +0700" stop="20230501063000 +0700" channel="TVONE - 97">
+    <title lang="id">tvOne</title>
+  </programme>
+  <programme start="20230501063000 +0700" stop="20230501083000 +0700" channel="TVONE - 97">
+    <title lang="id">tvOne</title>
+  </programme>
+  <programme start="20230501083000 +0700" stop="20230501090000 +0700" channel="TVONE - 97">
+    <title lang="id">tvOne</title>
+  </programme>
+  <programme start="20230501090000 +0700" stop="20230501100000 +0700" channel="TVONE - 97">
+    <title lang="id">tvOne</title>
+  </programme>
+  <programme start="20230501100000 +0700" stop="20230501103000 +0700" channel="TVONE - 97">
+    <title lang="id">tvOne</title>
+  </programme>
+  <programme start="20230501103000 +0700" stop="20230501110000 +0700" channel="TVONE - 97">
+    <title lang="id">tvOne</title>
+  </programme>
+  <programme start="20230501110000 +0700" stop="20230501130000 +0700" channel="TVONE - 97">
+    <title lang="id">tvOne</title>
+  </programme>
+  <programme start="20230501130000 +0700" stop="20230501140000 +0700" channel="TVONE - 97">
+    <title lang="id">tvOne</title>
+  </programme>
+  <programme start="20230501140000 +0700" stop="20230501143000 +0700" channel="TVONE - 97">
+    <title lang="id">tvOne</title>
+  </programme>
+  <programme start="20230501143000 +0700" stop="20230501150000 +0700" channel="TVONE - 97">
+    <title lang="id">tvOne</title>
+  </programme>
+  <programme start="20230501150000 +0700" stop="20230501160000 +0700" channel="TVONE - 97">
+    <title lang="id">tvOne</title>
+  </programme>
+  <programme start="20230501160000 +0700" stop="20230501183000 +0700" channel="TVONE - 97">
+    <title lang="id">tvOne</title>
+  </programme>
+  <programme start="20230501183000 +0700" stop="20230501200000 +0700" channel="TVONE - 97">
+    <title lang="id">tvOne</title>
+  </programme>
+  <programme start="20230501200000 +0700" stop="20230501210000 +0700" channel="TVONE - 97">
+    <title lang="id">tvOne</title>
+  </programme>
+  <programme start="20230501210000 +0700" stop="20230501220000 +0700" channel="TVONE - 97">
+    <title lang="id">tvOne</title>
+  </programme>
+  <programme start="20230501220000 +0700" stop="20230501223000 +0700" channel="TVONE - 97">
+    <title lang="id">tvOne</title>
+  </programme>
+  <programme start="20230501223000 +0700" stop="20230501233000 +0700" channel="TVONE - 97">
+    <title lang="id">tvOne</title>
+  </programme>
+  <programme start="20230501233000 +0700" stop="20230502000000 +0700" channel="TVONE - 97">
+    <title lang="id">tvOne</title>
+  </programme>
+  <programme start="20230501000000 +0700" stop="20230501003000 +0700" channel="TVRI - 118">
+    <title lang="id">Klik Indonesia Malam</title>
+  </programme>
+  <programme start="20230501003000 +0700" stop="20230501013000 +0700" channel="TVRI - 118">
+    <title lang="id">Kongkow On The Air</title>
+  </programme>
+  <programme start="20230501013000 +0700" stop="20230501020000 +0700" channel="TVRI - 118">
+    <title lang="id">Flashback</title>
+  </programme>
+  <programme start="20230501020000 +0700" stop="20230501023000 +0700" channel="TVRI - 118">
+    <title lang="id">Inspirasi Indonesia</title>
+  </programme>
+  <programme start="20230501023000 +0700" stop="20230501033000 +0700" channel="TVRI - 118">
+    <title lang="id">BOM (Bakat Orang Muda)</title>
+  </programme>
+  <programme start="20230501033000 +0700" stop="20230501040000 +0700" channel="TVRI - 118">
+    <title lang="id">Sketsa Netizen</title>
+  </programme>
+  <programme start="20230501040000 +0700" stop="20230501043000 +0700" channel="TVRI - 118">
+    <title lang="id">Jejak Islam</title>
+  </programme>
+  <programme start="20230501043000 +0700" stop="20230501060000 +0700" channel="TVRI - 118">
+    <title lang="id">Serambi Islami</title>
+  </programme>
+  <programme start="20230501060000 +0700" stop="20230501070000 +0700" channel="TVRI - 118">
+    <title lang="id">Klik Indonesia Pagi</title>
+  </programme>
+  <programme start="20230501070000 +0700" stop="20230501080000 +0700" channel="TVRI - 118">
+    <title lang="id">News Bulletin: Jendela Negeri</title>
+  </programme>
+  <programme start="20230501080000 +0700" stop="20230501083000 +0700" channel="TVRI - 118">
+    <title lang="id">Kong: King Of The Apes</title>
+  </programme>
+  <programme start="20230501083000 +0700" stop="20230501090000 +0700" channel="TVRI - 118">
+    <title lang="id">Team S.T.E.A.M!</title>
+  </programme>
+  <programme start="20230501090000 +0700" stop="20230501090300 +0700" channel="TVRI - 118">
+    <title lang="id">Info Terkini</title>
+  </programme>
+  <programme start="20230501090300 +0700" stop="20230501093000 +0700" channel="TVRI - 118">
+    <title lang="id">Mari Menggambar</title>
+  </programme>
+  <programme start="20230501093000 +0700" stop="20230501103000 +0700" channel="TVRI - 118">
+    <title lang="id">Halo Dokter</title>
+  </programme>
+  <programme start="20230501103000 +0700" stop="20230501110000 +0700" channel="TVRI - 118">
+    <title lang="id">Dapur Devina</title>
+  </programme>
+  <programme start="20230501110000 +0700" stop="20230501110300 +0700" channel="TVRI - 118">
+    <title lang="id">Info Terkini</title>
+  </programme>
+  <programme start="20230501110300 +0700" stop="20230501120000 +0700" channel="TVRI - 118">
+    <title lang="id">Bersama Perempuan</title>
+  </programme>
+  <programme start="20230501120000 +0700" stop="20230501130000 +0700" channel="TVRI - 118">
+    <title lang="id">Klik Indonesia Siang</title>
+  </programme>
+  <programme start="20230501130000 +0700" stop="20230501133000 +0700" channel="TVRI - 118">
+    <title lang="id">Saba Desa</title>
+  </programme>
+  <programme start="20230501133000 +0700" stop="20230501140000 +0700" channel="TVRI - 118">
+    <title lang="id">Tekno Tani</title>
+  </programme>
+  <programme start="20230501140000 +0700" stop="20230501140300 +0700" channel="TVRI - 118">
+    <title lang="id">Info Terkini</title>
+  </programme>
+  <programme start="20230501140300 +0700" stop="20230501143000 +0700" channel="TVRI - 118">
+    <title lang="id">Pesona Indonesia</title>
+  </programme>
+  <programme start="20230501143000 +0700" stop="20230501150000 +0700" channel="TVRI - 118">
+    <title lang="id">Inspirasi Indonesia</title>
+  </programme>
+  <programme start="20230501150000 +0700" stop="20230501153000 +0700" channel="TVRI - 118">
+    <title lang="id">Mimbar Agama Katolik</title>
+  </programme>
+  <programme start="20230501153000 +0700" stop="20230501160000 +0700" channel="TVRI - 118">
+    <title lang="id">Tapal Batas</title>
+  </programme>
+  <programme start="20230501160000 +0700" stop="20230501163000 +0700" channel="TVRI - 118">
+    <title lang="id">Cerdas Memilih</title>
+  </programme>
+  <programme start="20230501163000 +0700" stop="20230501173000 +0700" channel="TVRI - 118">
+    <title lang="id">Dikejar Deadline</title>
+  </programme>
+  <programme start="20230501173000 +0700" stop="20230501180000 +0700" channel="TVRI - 118">
+    <title lang="id">Sketsa Netizen</title>
+  </programme>
+  <programme start="20230501180000 +0700" stop="20230501190000 +0700" channel="TVRI - 118">
+    <title lang="id">Klik Indonesia Petang</title>
+  </programme>
+  <programme start="20230501190000 +0700" stop="20230501200000 +0700" channel="TVRI - 118">
+    <title lang="id">Peta Politik Nasional</title>
+  </programme>
+  <programme start="20230501200000 +0700" stop="20230501210000 +0700" channel="TVRI - 118">
+    <title lang="id">Bunga Khatulistiwa</title>
+  </programme>
+  <programme start="20230501210000 +0700" stop="20230501213000 +0700" channel="TVRI - 118">
+    <title lang="id">Dunia Dalam Berita</title>
+  </programme>
+  <programme start="20230501213000 +0700" stop="20230501223000 +0700" channel="TVRI - 118">
+    <title lang="id">Kenangan Masa</title>
+  </programme>
+  <programme start="20230501223000 +0700" stop="20230501233000 +0700" channel="TVRI - 118">
+    <title lang="id">Pengen Beken</title>
+  </programme>
+  <programme start="20230501233000 +0700" stop="20230502000000 +0700" channel="TVRI - 118">
+    <title lang="id">Monitor Olahraga</title>
+  </programme>
+  <programme start="20230501003000 +0700" stop="20230501030000 +0700" channel="ZBioskop - 23">
+    <title lang="id">Oh, My God!!</title>
+  </programme>
+  <programme start="20230501030000 +0700" stop="20230501060000 +0700" channel="ZBioskop - 23">
+    <title lang="id">Khiladi 786</title>
+  </programme>
+  <programme start="20230501060000 +0700" stop="20230501090000 +0700" channel="ZBioskop - 23">
+    <title lang="id">Shubh Mangal Savdhaan</title>
+  </programme>
+  <programme start="20230501090000 +0700" stop="20230501100000 +0700" channel="ZBioskop - 23">
+    <title lang="id">Gangaa S1</title>
+  </programme>
+  <programme start="20230501100000 +0700" stop="20230501110000 +0700" channel="ZBioskop - 23">
+    <title lang="id">Smash Cinta</title>
+  </programme>
+  <programme start="20230501110000 +0700" stop="20230501120000 +0700" channel="ZBioskop - 23">
+    <title lang="id">Ishq Subhan Allah</title>
+  </programme>
+  <programme start="20230501120000 +0700" stop="20230501123000 +0700" channel="ZBioskop - 23">
+    <title lang="id">Naturally Delicious</title>
+  </programme>
+  <programme start="20230501123000 +0700" stop="20230501150000 +0700" channel="ZBioskop - 23">
+    <title lang="id">Luck By Chance</title>
+  </programme>
+  <programme start="20230501150000 +0700" stop="20230501160000 +0700" channel="ZBioskop - 23">
+    <title lang="id">Gangaa</title>
+  </programme>
+  <programme start="20230501160000 +0700" stop="20230501170000 +0700" channel="ZBioskop - 23">
+    <title lang="id">Smash Cinta</title>
+  </programme>
+  <programme start="20230501170000 +0700" stop="20230501180000 +0700" channel="ZBioskop - 23">
+    <title lang="id">Ishq Subhan Allah</title>
+  </programme>
+  <programme start="20230501180000 +0700" stop="20230501203000 +0700" channel="ZBioskop - 23">
+    <title lang="id">Jo Bole So Nihaal</title>
+  </programme>
+  <programme start="20230501203000 +0700" stop="20230501233000 +0700" channel="ZBioskop - 23">
+    <title lang="id">Zero</title>
+  </programme>
+  <programme start="20230501233000 +0700" stop="20230502023000 +0700" channel="ZBioskop - 23">
+    <title lang="id">Chaalbaaz</title>
+  </programme>
+  <programme start="20230501000000 +0700" stop="20230501013000 +0700" channel="iNewsTV - 83">
+    <title lang="id">ONE FC</title>
+  </programme>
+  <programme start="20230501013000 +0700" stop="20230501035700 +0700" channel="iNewsTV - 83">
+    <title lang="id">BWF</title>
+  </programme>
+  <programme start="20230501035700 +0700" stop="20230501040000 +0700" channel="iNewsTV - 83">
+    <title lang="id">Padamu Negeri</title>
+  </programme>
+  <programme start="20230501040000 +0700" stop="20230501041800 +0700" channel="iNewsTV - 83">
+    <title lang="id">Top Sport</title>
+  </programme>
+  <programme start="20230501041800 +0700" stop="20230501042000 +0700" channel="iNewsTV - 83">
+    <title lang="id">Indonesia Raya</title>
+  </programme>
+  <programme start="20230501042000 +0700" stop="20230501060000 +0700" channel="iNewsTV - 83">
+    <title lang="id">iNews Pagi (L)</title>
+  </programme>
+  <programme start="20230501060000 +0700" stop="20230501070000 +0700" channel="iNewsTV - 83">
+    <title lang="id">Special Report</title>
+  </programme>
+  <programme start="20230501070000 +0700" stop="20230501080000 +0700" channel="iNewsTV - 83">
+    <title lang="id">Morning Update</title>
+  </programme>
+  <programme start="20230501080000 +0700" stop="20230501083000 +0700" channel="iNewsTV - 83">
+    <title lang="id">OMG</title>
+  </programme>
+  <programme start="20230501083000 +0700" stop="20230501090000 +0700" channel="iNewsTV - 83">
+    <title lang="id">Sergap</title>
+  </programme>
+  <programme start="20230501090000 +0700" stop="20230501100000 +0700" channel="iNewsTV - 83">
+    <title lang="id">Lapor Polisi! (L)</title>
+  </programme>
+  <programme start="20230501100000 +0700" stop="20230501110000 +0700" channel="iNewsTV - 83">
+    <title lang="id">iNews Today (L)</title>
+  </programme>
+  <programme start="20230501110000 +0700" stop="20230501121500 +0700" channel="iNewsTV - 83">
+    <title lang="id">iNews Siang (L)</title>
+  </programme>
+  <programme start="20230501121500 +0700" stop="20230501130000 +0700" channel="iNewsTV - 83">
+    <title lang="id">Silet</title>
+  </programme>
+  <programme start="20230501130000 +0700" stop="20230501140000 +0700" channel="iNewsTV - 83">
+    <title lang="id">Intens Reborn</title>
+  </programme>
+  <programme start="20230501140000 +0700" stop="20230501150000 +0700" channel="iNewsTV - 83">
+    <title lang="id">iSeleb (L)</title>
+  </programme>
+  <programme start="20230501150000 +0700" stop="20230501160000 +0700" channel="iNewsTV - 83">
+    <title lang="id">Realita (L)</title>
+  </programme>
+  <programme start="20230501160000 +0700" stop="20230501170000 +0700" channel="iNewsTV - 83">
+    <title lang="id">iNews Sore (L)</title>
+  </programme>
+  <programme start="20230501170000 +0700" stop="20230501180000 +0700" channel="iNewsTV - 83">
+    <title lang="id">iNews Room (L)</title>
+  </programme>
+  <programme start="20230501180000 +0700" stop="20230501190000 +0700" channel="iNewsTV - 83">
+    <title lang="id">New Top Files</title>
+  </programme>
+  <programme start="20230501190000 +0700" stop="20230501200000 +0700" channel="iNewsTV - 83">
+    <title lang="id">Inside</title>
+  </programme>
+  <programme start="20230501200000 +0700" stop="20230501210000 +0700" channel="iNewsTV - 83">
+    <title lang="id">OMG</title>
+  </programme>
+  <programme start="20230501210000 +0700" stop="20230501220000 +0700" channel="iNewsTV - 83">
+    <title lang="id">iNews Prime (L)</title>
+  </programme>
+  <programme start="20230501220000 +0700" stop="20230501230000 +0700" channel="iNewsTV - 83">
+    <title lang="id">iNews Malam (L)</title>
+  </programme>
+  <programme start="20230501230000 +0700" stop="20230502000000 +0700" channel="iNewsTV - 83">
+    <title lang="id">Sergap</title>
+  </programme>
+  <programme start="20230501000000 +0700" stop="20230501010000 +0700" channel="ANTV - 115">
+    <title lang="id">Garis Tangan</title>
+  </programme>
+  <programme start="20230501010000 +0700" stop="20230501020000 +0700" channel="ANTV - 115">
+    <title lang="id">Jodoh Wasiat Bapak</title>
+  </programme>
+  <programme start="20230501020000 +0700" stop="20230501050000 +0700" channel="ANTV - 115">
+    <title lang="id">Jodoh Wasiat Bapak</title>
+  </programme>
+  <programme start="20230501050000 +0700" stop="20230501060000 +0700" channel="ANTV - 115">
+    <title lang="id">Senyum Ramadan Lebaran</title>
+  </programme>
+  <programme start="20230501060000 +0700" stop="20230501070000 +0700" channel="ANTV - 115">
+    <title lang="id">Bidadari</title>
+  </programme>
+  <programme start="20230501070000 +0700" stop="20230501083000 +0700" channel="ANTV - 115">
+    <title lang="id">Shiva</title>
+  </programme>
+  <programme start="20230501083000 +0700" stop="20230501103000 +0700" channel="ANTV - 115">
+    <title lang="id">Sinema Anak Spesial Liburan</title>
+  </programme>
+  <programme start="20230501103000 +0700" stop="20230501140000 +0700" channel="ANTV - 115">
+    <title lang="id">Mega Bollywood Spesial Lebaran</title>
+  </programme>
+  <programme start="20230501140000 +0700" stop="20230501163000 +0700" channel="ANTV - 115">
+    <title lang="id">Anupamaa</title>
+  </programme>
+  <programme start="20230501163000 +0700" stop="20230501200000 +0700" channel="ANTV - 115">
+    <title lang="id">Imlie</title>
+  </programme>
+  <programme start="20230501200000 +0700" stop="20230501220000 +0700" channel="ANTV - 115">
+    <title lang="id">Sinema Spesial Lebaran</title>
+  </programme>
+  <programme start="20230501220000 +0700" stop="20230502000000 +0700" channel="ANTV - 115">
+    <title lang="id">Sinema Spesial</title>
+  </programme>
+  <programme start="20230501000000 +0700" stop="20230501003000 +0700" channel="BabyTV - 40">
+    <title lang="id">BabyTV's Night Time Melodies</title>
+  </programme>
+  <programme start="20230501003000 +0700" stop="20230501010000 +0700" channel="BabyTV - 40">
+    <title lang="id">Sweet Dreams</title>
+  </programme>
+  <programme start="20230501010000 +0700" stop="20230501013000 +0700" channel="BabyTV - 40">
+    <title lang="id">Good Night Hugs</title>
+  </programme>
+  <programme start="20230501013000 +0700" stop="20230501020000 +0700" channel="BabyTV - 40">
+    <title lang="id">Dreamy Nights</title>
+  </programme>
+  <programme start="20230501020000 +0700" stop="20230501023000 +0700" channel="BabyTV - 40">
+    <title lang="id">Moon And Stars</title>
+  </programme>
+  <programme start="20230501023000 +0700" stop="20230501030000 +0700" channel="BabyTV - 40">
+    <title lang="id">Soothing Sounds</title>
+  </programme>
+  <programme start="20230501030000 +0700" stop="20230501033000 +0700" channel="BabyTV - 40">
+    <title lang="id">From Night To Day</title>
+  </programme>
+  <programme start="20230501033000 +0700" stop="20230501040000 +0700" channel="BabyTV - 40">
+    <title lang="id">From Night To Day</title>
+  </programme>
+  <programme start="20230501040000 +0700" stop="20230501043000 +0700" channel="BabyTV - 40">
+    <title lang="id">Rise &amp; Shine With BabyTV</title>
+  </programme>
+  <programme start="20230501043000 +0700" stop="20230501050000 +0700" channel="BabyTV - 40">
+    <title lang="id">Rise &amp; Shine With BabyTV</title>
+  </programme>
+  <programme start="20230501050000 +0700" stop="20230501053000 +0700" channel="BabyTV - 40">
+    <title lang="id">Good Morning Stretch</title>
+  </programme>
+  <programme start="20230501053000 +0700" stop="20230501060000 +0700" channel="BabyTV - 40">
+    <title lang="id">Good Morning Stretch</title>
+  </programme>
+  <programme start="20230501060000 +0700" stop="20230501063000 +0700" channel="BabyTV - 40">
+    <title lang="id">Start Your Day With BabyTV</title>
+  </programme>
+  <programme start="20230501063000 +0700" stop="20230501070000 +0700" channel="BabyTV - 40">
+    <title lang="id">Billy Bam Bam &amp; Other Stories</title>
+  </programme>
+  <programme start="20230501070000 +0700" stop="20230501073000 +0700" channel="BabyTV - 40">
+    <title lang="id">Dino &amp; The Egg Hunt</title>
+  </programme>
+  <programme start="20230501073000 +0700" stop="20230501080000 +0700" channel="BabyTV - 40">
+    <title lang="id">Art, Activity &amp; Music Time</title>
+  </programme>
+  <programme start="20230501080000 +0700" stop="20230501083000 +0700" channel="BabyTV - 40">
+    <title lang="id">Magical First Discoveries</title>
+  </programme>
+  <programme start="20230501083000 +0700" stop="20230501090000 +0700" channel="BabyTV - 40">
+    <title lang="id">Imagination Playground</title>
+  </programme>
+  <programme start="20230501090000 +0700" stop="20230501093000 +0700" channel="BabyTV - 40">
+    <title lang="id">Exploring With The Post Train</title>
+  </programme>
+  <programme start="20230501093000 +0700" stop="20230501100000 +0700" channel="BabyTV - 40">
+    <title lang="id">Billy Bam Bam &amp; Other Stories</title>
+  </programme>
+  <programme start="20230501100000 +0700" stop="20230501103000 +0700" channel="BabyTV - 40">
+    <title lang="id">Dino &amp; The Egg Hunt</title>
+  </programme>
+  <programme start="20230501103000 +0700" stop="20230501110000 +0700" channel="BabyTV - 40">
+    <title lang="id">Art, Activity &amp; Music Time</title>
+  </programme>
+  <programme start="20230501110000 +0700" stop="20230501113000 +0700" channel="BabyTV - 40">
+    <title lang="id">Magical First Discoveries</title>
+  </programme>
+  <programme start="20230501113000 +0700" stop="20230501120000 +0700" channel="BabyTV - 40">
+    <title lang="id">Imagination Playground</title>
+  </programme>
+  <programme start="20230501120000 +0700" stop="20230501123000 +0700" channel="BabyTV - 40">
+    <title lang="id">Exploring With The Post Train</title>
+  </programme>
+  <programme start="20230501123000 +0700" stop="20230501130000 +0700" channel="BabyTV - 40">
+    <title lang="id">Billy Bam Bam &amp; Other Stories</title>
+  </programme>
+  <programme start="20230501130000 +0700" stop="20230501133000 +0700" channel="BabyTV - 40">
+    <title lang="id">Big Bugs Band</title>
+  </programme>
+  <programme start="20230501133000 +0700" stop="20230501140000 +0700" channel="BabyTV - 40">
+    <title lang="id">Art, Activity &amp; Music Time</title>
+  </programme>
+  <programme start="20230501140000 +0700" stop="20230501143000 +0700" channel="BabyTV - 40">
+    <title lang="id">Magical First Discoveries</title>
+  </programme>
+  <programme start="20230501143000 +0700" stop="20230501150000 +0700" channel="BabyTV - 40">
+    <title lang="id">Imagination Playground</title>
+  </programme>
+  <programme start="20230501150000 +0700" stop="20230501153000 +0700" channel="BabyTV - 40">
+    <title lang="id">Exploring With The Post Train</title>
+  </programme>
+  <programme start="20230501153000 +0700" stop="20230501160000 +0700" channel="BabyTV - 40">
+    <title lang="id">Discovering With Billy Bam Bam</title>
+  </programme>
+  <programme start="20230501160000 +0700" stop="20230501163000 +0700" channel="BabyTV - 40">
+    <title lang="id">Play &amp; Learn, Dino &amp; Egg Hunt</title>
+  </programme>
+  <programme start="20230501163000 +0700" stop="20230501170000 +0700" channel="BabyTV - 40">
+    <title lang="id">Guessing Games, Bath Tubbies</title>
+  </programme>
+  <programme start="20230501170000 +0700" stop="20230501173000 +0700" channel="BabyTV - 40">
+    <title lang="id">Family Fun Time &amp; Rhymes</title>
+  </programme>
+  <programme start="20230501173000 +0700" stop="20230501180000 +0700" channel="BabyTV - 40">
+    <title lang="id">Family Fun Time &amp; Rhymes</title>
+  </programme>
+  <programme start="20230501180000 +0700" stop="20230501183000 +0700" channel="BabyTV - 40">
+    <title lang="id">Art, Creativity &amp; Music</title>
+  </programme>
+  <programme start="20230501183000 +0700" stop="20230501190000 +0700" channel="BabyTV - 40">
+    <title lang="id">Classical Music &amp; Soothing...</title>
+  </programme>
+  <programme start="20230501190000 +0700" stop="20230501193000 +0700" channel="BabyTV - 40">
+    <title lang="id">Relax And Unwind</title>
+  </programme>
+  <programme start="20230501193000 +0700" stop="20230501200000 +0700" channel="BabyTV - 40">
+    <title lang="id">Relax And Unwind</title>
+  </programme>
+  <programme start="20230501200000 +0700" stop="20230501203000 +0700" channel="BabyTV - 40">
+    <title lang="id">Sweet Dreams</title>
+  </programme>
+  <programme start="20230501203000 +0700" stop="20230501210000 +0700" channel="BabyTV - 40">
+    <title lang="id">Sweet Dreams</title>
+  </programme>
+  <programme start="20230501210000 +0700" stop="20230501213000 +0700" channel="BabyTV - 40">
+    <title lang="id">Dreamy Nights</title>
+  </programme>
+  <programme start="20230501213000 +0700" stop="20230501220000 +0700" channel="BabyTV - 40">
+    <title lang="id">Dreamy Nights</title>
+  </programme>
+  <programme start="20230501220000 +0700" stop="20230501223000 +0700" channel="BabyTV - 40">
+    <title lang="id">Dreamy Nights</title>
+  </programme>
+  <programme start="20230501223000 +0700" stop="20230501230000 +0700" channel="BabyTV - 40">
+    <title lang="id">Dreamy Nights</title>
+  </programme>
+  <programme start="20230501230000 +0700" stop="20230501233000 +0700" channel="BabyTV - 40">
+    <title lang="id">Dreamy Nights</title>
+  </programme>
+  <programme start="20230501233000 +0700" stop="20230502000000 +0700" channel="BabyTV - 40">
+    <title lang="id">Moon And Stars</title>
+  </programme>
+  <programme start="20230501000000 +0700" stop="20230501010000 +0700" channel="Bloomberg - 338">
+    <title lang="id">Idea Generation</title>
+  </programme>
+  <programme start="20230501010000 +0700" stop="20230501013000 +0700" channel="Bloomberg - 338">
+    <title lang="id">The David Rubenstein Show</title>
+  </programme>
+  <programme start="20230501013000 +0700" stop="20230501020000 +0700" channel="Bloomberg - 338">
+    <title lang="id">Business Of Sports</title>
+  </programme>
+  <programme start="20230501020000 +0700" stop="20230501023000 +0700" channel="Bloomberg - 338">
+    <title lang="id">Bloomberg Studio 1.0</title>
+  </programme>
+  <programme start="20230501023000 +0700" stop="20230501030000 +0700" channel="Bloomberg - 338">
+    <title lang="id">Bloomberg Studio 1.0</title>
+  </programme>
+  <programme start="20230501030000 +0700" stop="20230501040000 +0700" channel="Bloomberg - 338">
+    <title lang="id">Bloomberg Wall Street Week</title>
+  </programme>
+  <programme start="20230501040000 +0700" stop="20230501043000 +0700" channel="Bloomberg - 338">
+    <title lang="id">Bloomberg New Economy Gateway</title>
+  </programme>
+  <programme start="20230501043000 +0700" stop="20230501050000 +0700" channel="Bloomberg - 338">
+    <title lang="id">Leaders With Lacqua</title>
+  </programme>
+  <programme start="20230501050000 +0700" stop="20230501060000 +0700" channel="Bloomberg - 338">
+    <title lang="id">Bloomberg Daybreak: Australia</title>
+  </programme>
+  <programme start="20230501060000 +0700" stop="20230501063000 +0700" channel="Bloomberg - 338">
+    <title lang="id">Bloomberg New Economy Gateway</title>
+  </programme>
+  <programme start="20230501063000 +0700" stop="20230501070000 +0700" channel="Bloomberg - 338">
+    <title lang="id">Emma Barnett Meets...</title>
+  </programme>
+  <programme start="20230501070000 +0700" stop="20230501073000 +0700" channel="Bloomberg - 338">
+    <title lang="id">A Conversation With A. Ibrahim</title>
+  </programme>
+  <programme start="20230501073000 +0700" stop="20230501080000 +0700" channel="Bloomberg - 338">
+    <title lang="id">Athlete Empire: Ndamukong Suh</title>
+  </programme>
+  <programme start="20230501080000 +0700" stop="20230501083000 +0700" channel="Bloomberg - 338">
+    <title lang="id">Bloomberg Studio 1.0</title>
+  </programme>
+  <programme start="20230501083000 +0700" stop="20230501090000 +0700" channel="Bloomberg - 338">
+    <title lang="id">Emma Barnett Meets...</title>
+  </programme>
+  <programme start="20230501090000 +0700" stop="20230501093000 +0700" channel="Bloomberg - 338">
+    <title lang="id">Business Of Sports</title>
+  </programme>
+  <programme start="20230501093000 +0700" stop="20230501100000 +0700" channel="Bloomberg - 338">
+    <title lang="id">Bloomberg Studio 1.0</title>
+  </programme>
+  <programme start="20230501100000 +0700" stop="20230501103000 +0700" channel="Bloomberg - 338">
+    <title lang="id">Leaders With Lacqua</title>
+  </programme>
+  <programme start="20230501103000 +0700" stop="20230501110000 +0700" channel="Bloomberg - 338">
+    <title lang="id">Bloomberg New Economy Gateway</title>
+  </programme>
+  <programme start="20230501110000 +0700" stop="20230501120000 +0700" channel="Bloomberg - 338">
+    <title lang="id">Bloomberg...: Middle East</title>
+  </programme>
+  <programme start="20230501120000 +0700" stop="20230501123000 +0700" channel="Bloomberg - 338">
+    <title lang="id">A Conversation With A. Ibrahim</title>
+  </programme>
+  <programme start="20230501123000 +0700" stop="20230501130000 +0700" channel="Bloomberg - 338">
+    <title lang="id">Emma Barnett Meets...</title>
+  </programme>
+  <programme start="20230501130000 +0700" stop="20230501133000 +0700" channel="Bloomberg - 338">
+    <title lang="id">Emma Barnett Meets...</title>
+  </programme>
+  <programme start="20230501133000 +0700" stop="20230501140000 +0700" channel="Bloomberg - 338">
+    <title lang="id">Athlete Empire: Ndamukong Suh</title>
+  </programme>
+  <programme start="20230501140000 +0700" stop="20230501143000 +0700" channel="Bloomberg - 338">
+    <title lang="id">Business Of Sports</title>
+  </programme>
+  <programme start="20230501143000 +0700" stop="20230501150000 +0700" channel="Bloomberg - 338">
+    <title lang="id">Bloomberg Studio 1.0</title>
+  </programme>
+  <programme start="20230501150000 +0700" stop="20230501153000 +0700" channel="Bloomberg - 338">
+    <title lang="id">Leaders With Lacqua</title>
+  </programme>
+  <programme start="20230501153000 +0700" stop="20230501160000 +0700" channel="Bloomberg - 338">
+    <title lang="id">Bloomberg New Economy Gateway</title>
+  </programme>
+  <programme start="20230501160000 +0700" stop="20230501170000 +0700" channel="Bloomberg - 338">
+    <title lang="id">Bloomberg Surveillance: Early</title>
+  </programme>
+  <programme start="20230501170000 +0700" stop="20230501200000 +0700" channel="Bloomberg - 338">
+    <title lang="id">Bloomberg Surveillance</title>
+  </programme>
+  <programme start="20230501200000 +0700" stop="20230501210000 +0700" channel="Bloomberg - 338">
+    <title lang="id">Bloomberg: The Open</title>
+  </programme>
+  <programme start="20230501210000 +0700" stop="20230501220000 +0700" channel="Bloomberg - 338">
+    <title lang="id">Bloomberg Markets: Americas</title>
+  </programme>
+  <programme start="20230501220000 +0700" stop="20230501230000 +0700" channel="Bloomberg - 338">
+    <title lang="id">Bloomberg Markets: Americas</title>
+  </programme>
+  <programme start="20230501230000 +0700" stop="20230502000000 +0700" channel="Bloomberg - 338">
+    <title lang="id">Bloomberg Technology</title>
+  </programme>
+  <programme start="20230501001000 +0700" stop="20230501002000 +0700" channel="CBeebies - 41">
+    <title lang="id">Clangers</title>
+  </programme>
+  <programme start="20230501002000 +0700" stop="20230501003000 +0700" channel="CBeebies - 41">
+    <title lang="id">Dinopaws</title>
+  </programme>
+  <programme start="20230501003000 +0700" stop="20230501003700 +0700" channel="CBeebies - 41">
+    <title lang="id">Tinpo</title>
+  </programme>
+  <programme start="20230501003700 +0700" stop="20230501004500 +0700" channel="CBeebies - 41">
+    <title lang="id">Tinpo</title>
+  </programme>
+  <programme start="20230501004500 +0700" stop="20230501005200 +0700" channel="CBeebies - 41">
+    <title lang="id">Kazoops!</title>
+  </programme>
+  <programme start="20230501005200 +0700" stop="20230501010000 +0700" channel="CBeebies - 41">
+    <title lang="id">Kazoops!</title>
+  </programme>
+  <programme start="20230501010000 +0700" stop="20230501011000 +0700" channel="CBeebies - 41">
+    <title lang="id">Kazoops!</title>
+  </programme>
+  <programme start="20230501011000 +0700" stop="20230501012000 +0700" channel="CBeebies - 41">
+    <title lang="id">Charlie And Lola</title>
+  </programme>
+  <programme start="20230501012000 +0700" stop="20230501012700 +0700" channel="CBeebies - 41">
+    <title lang="id">Nelly And Nora</title>
+  </programme>
+  <programme start="20230501012700 +0700" stop="20230501013500 +0700" channel="CBeebies - 41">
+    <title lang="id">Nelly And Nora</title>
+  </programme>
+  <programme start="20230501013500 +0700" stop="20230501014200 +0700" channel="CBeebies - 41">
+    <title lang="id">Sarah And Duck</title>
+  </programme>
+  <programme start="20230501014200 +0700" stop="20230501015000 +0700" channel="CBeebies - 41">
+    <title lang="id">Sarah And Duck</title>
+  </programme>
+  <programme start="20230501015000 +0700" stop="20230501020500 +0700" channel="CBeebies - 41">
+    <title lang="id">Thomas &amp; Friends</title>
+  </programme>
+  <programme start="20230501020500 +0700" stop="20230501021500 +0700" channel="CBeebies - 41">
+    <title lang="id">Bluey</title>
+  </programme>
+  <programme start="20230501021500 +0700" stop="20230501022500 +0700" channel="CBeebies - 41">
+    <title lang="id">Supertato</title>
+  </programme>
+  <programme start="20230501022500 +0700" stop="20230501023200 +0700" channel="CBeebies - 41">
+    <title lang="id">Hey Duggee</title>
+  </programme>
+  <programme start="20230501023200 +0700" stop="20230501024000 +0700" channel="CBeebies - 41">
+    <title lang="id">Hey Duggee</title>
+  </programme>
+  <programme start="20230501024000 +0700" stop="20230501024500 +0700" channel="CBeebies - 41">
+    <title lang="id">Hey Duggee</title>
+  </programme>
+  <programme start="20230501024500 +0700" stop="20230501025600 +0700" channel="CBeebies - 41">
+    <title lang="id">Go Jetters</title>
+  </programme>
+  <programme start="20230501025600 +0700" stop="20230501030700 +0700" channel="CBeebies - 41">
+    <title lang="id">Go Jetters</title>
+  </programme>
+  <programme start="20230501030700 +0700" stop="20230501032000 +0700" channel="CBeebies - 41">
+    <title lang="id">Go Jetters</title>
+  </programme>
+  <programme start="20230501032000 +0700" stop="20230501033000 +0700" channel="CBeebies - 41">
+    <title lang="id">My World Kitchen</title>
+  </programme>
+  <programme start="20230501033000 +0700" stop="20230501034000 +0700" channel="CBeebies - 41">
+    <title lang="id">Andy's Baby Animals</title>
+  </programme>
+  <programme start="20230501034000 +0700" stop="20230501034500 +0700" channel="CBeebies - 41">
+    <title lang="id">Andy's Dino Toybox</title>
+  </programme>
+  <programme start="20230501034500 +0700" stop="20230501041000 +0700" channel="CBeebies - 41">
+    <title lang="id">Swashbuckle</title>
+  </programme>
+  <programme start="20230501041000 +0700" stop="20230501043500 +0700" channel="CBeebies - 41">
+    <title lang="id">Swashbuckle</title>
+  </programme>
+  <programme start="20230501043500 +0700" stop="20230501044200 +0700" channel="CBeebies - 41">
+    <title lang="id">Bluey</title>
+  </programme>
+  <programme start="20230501044200 +0700" stop="20230501045000 +0700" channel="CBeebies - 41">
+    <title lang="id">Bluey</title>
+  </programme>
+  <programme start="20230501045000 +0700" stop="20230501050000 +0700" channel="CBeebies - 41">
+    <title lang="id">Supertato</title>
+  </programme>
+  <programme start="20230501050000 +0700" stop="20230501051000 +0700" channel="CBeebies - 41">
+    <title lang="id">Teletubbies</title>
+  </programme>
+  <programme start="20230501051000 +0700" stop="20230501051500 +0700" channel="CBeebies - 41">
+    <title lang="id">Yakka Dee</title>
+  </programme>
+  <programme start="20230501051500 +0700" stop="20230501052500 +0700" channel="CBeebies - 41">
+    <title lang="id">Tinpo</title>
+  </programme>
+  <programme start="20230501052500 +0700" stop="20230501053500 +0700" channel="CBeebies - 41">
+    <title lang="id">Jojo &amp; Gran Gran</title>
+  </programme>
+  <programme start="20230501053500 +0700" stop="20230501054200 +0700" channel="CBeebies - 41">
+    <title lang="id">Kazoops!</title>
+  </programme>
+  <programme start="20230501054200 +0700" stop="20230501055000 +0700" channel="CBeebies - 41">
+    <title lang="id">Kazoops!</title>
+  </programme>
+  <programme start="20230501055000 +0700" stop="20230501060000 +0700" channel="CBeebies - 41">
+    <title lang="id">Bluey</title>
+  </programme>
+  <programme start="20230501060000 +0700" stop="20230501060700 +0700" channel="CBeebies - 41">
+    <title lang="id">Hey Duggee</title>
+  </programme>
+  <programme start="20230501060700 +0700" stop="20230501061400 +0700" channel="CBeebies - 41">
+    <title lang="id">Hey Duggee</title>
+  </programme>
+  <programme start="20230501061400 +0700" stop="20230501062000 +0700" channel="CBeebies - 41">
+    <title lang="id">Hey Duggee</title>
+  </programme>
+  <programme start="20230501062000 +0700" stop="20230501063000 +0700" channel="CBeebies - 41">
+    <title lang="id">Go Jetters</title>
+  </programme>
+  <programme start="20230501063000 +0700" stop="20230501064500 +0700" channel="CBeebies - 41">
+    <title lang="id">Go Jetters</title>
+  </programme>
+  <programme start="20230501064500 +0700" stop="20230501065200 +0700" channel="CBeebies - 41">
+    <title lang="id">Bluey</title>
+  </programme>
+  <programme start="20230501065200 +0700" stop="20230501070000 +0700" channel="CBeebies - 41">
+    <title lang="id">Bluey</title>
+  </programme>
+  <programme start="20230501070000 +0700" stop="20230501071500 +0700" channel="CBeebies - 41">
+    <title lang="id">Andy's Safari Adv.</title>
+  </programme>
+  <programme start="20230501071500 +0700" stop="20230501073000 +0700" channel="CBeebies - 41">
+    <title lang="id">My Pet And Me: Vet Tales</title>
+  </programme>
+  <programme start="20230501073000 +0700" stop="20230501075500 +0700" channel="CBeebies - 41">
+    <title lang="id">Swashbuckle</title>
+  </programme>
+  <programme start="20230501075500 +0700" stop="20230501080200 +0700" channel="CBeebies - 41">
+    <title lang="id">Hey Duggee</title>
+  </programme>
+  <programme start="20230501080200 +0700" stop="20230501080900 +0700" channel="CBeebies - 41">
+    <title lang="id">Hey Duggee</title>
+  </programme>
+  <programme start="20230501080900 +0700" stop="20230501081500 +0700" channel="CBeebies - 41">
+    <title lang="id">Hey Duggee</title>
+  </programme>
+  <programme start="20230501081500 +0700" stop="20230501082500 +0700" channel="CBeebies - 41">
+    <title lang="id">Go Jetters</title>
+  </programme>
+  <programme start="20230501005500 +0700" stop="20230501024500 +0700" channel="CINEMAX - 8">
+    <title lang="id">Street Kings</title>
+  </programme>
+  <programme start="20230501024500 +0700" stop="20230501033500 +0700" channel="CINEMAX - 8">
+    <title lang="id">True Blood</title>
+  </programme>
+  <programme start="20230501033500 +0700" stop="20230501050000 +0700" channel="CINEMAX - 8">
+    <title lang="id">Crank</title>
+  </programme>
+  <programme start="20230501050000 +0700" stop="20230501064500 +0700" channel="CINEMAX - 8">
+    <title lang="id">1408</title>
+  </programme>
+  <programme start="20230501064500 +0700" stop="20230501082000 +0700" channel="CINEMAX - 8">
+    <title lang="id">Next</title>
+  </programme>
+  <programme start="20230501082000 +0700" stop="20230501094500 +0700" channel="CINEMAX - 8">
+    <title lang="id">The One</title>
+  </programme>
+  <programme start="20230501094500 +0700" stop="20230501111500 +0700" channel="CINEMAX - 8">
+    <title lang="id">DOA: Dead Or Alive</title>
+  </programme>
+  <programme start="20230501111500 +0700" stop="20230501130000 +0700" channel="CINEMAX - 8">
+    <title lang="id">8 Mile</title>
+  </programme>
+  <programme start="20230501130000 +0700" stop="20230501142500 +0700" channel="CINEMAX - 8">
+    <title lang="id">Marci X</title>
+  </programme>
+  <programme start="20230501142500 +0700" stop="20230501160000 +0700" channel="CINEMAX - 8">
+    <title lang="id">Einstein And Eddington</title>
+  </programme>
+  <programme start="20230501160000 +0700" stop="20230501175500 +0700" channel="CINEMAX - 8">
+    <title lang="id">Hitch</title>
+  </programme>
+  <programme start="20230501175500 +0700" stop="20230501191500 +0700" channel="CINEMAX - 8">
+    <title lang="id">Taking Chance</title>
+  </programme>
+  <programme start="20230501191500 +0700" stop="20230501210000 +0700" channel="CINEMAX - 8">
+    <title lang="id">Days Of Thunder</title>
+  </programme>
+  <programme start="20230501210000 +0700" stop="20230502000500 +0700" channel="CINEMAX - 8">
+    <title lang="id">King Kong</title>
+  </programme>
+  <programme start="20230501010000 +0700" stop="20230501020000 +0700" channel="CNBC - 337">
+    <title lang="id">Meet The Press</title>
+  </programme>
+  <programme start="20230501020000 +0700" stop="20230501023000 +0700" channel="CNBC - 337">
+    <title lang="id">The Score</title>
+  </programme>
+  <programme start="20230501023000 +0700" stop="20230501030000 +0700" channel="CNBC - 337">
+    <title lang="id">The Brave Ones</title>
+  </programme>
+  <programme start="20230501030000 +0700" stop="20230501033000 +0700" channel="CNBC - 337">
+    <title lang="id">Managing Asia</title>
+  </programme>
+  <programme start="20230501033000 +0700" stop="20230501040000 +0700" channel="CNBC - 337">
+    <title lang="id">Sustainable Future</title>
+  </programme>
+  <programme start="20230501040000 +0700" stop="20230501050000 +0700" channel="CNBC - 337">
+    <title lang="id">Meet The Press</title>
+  </programme>
+  <programme start="20230501050000 +0700" stop="20230501053000 +0700" channel="CNBC - 337">
+    <title lang="id">Managing Asia</title>
+  </programme>
+  <programme start="20230501053000 +0700" stop="20230501060000 +0700" channel="CNBC - 337">
+    <title lang="id">Marketing Media Money</title>
+  </programme>
+  <programme start="20230501060000 +0700" stop="20230501070000 +0700" channel="CNBC - 337">
+    <title lang="id">American Greed</title>
+  </programme>
+  <programme start="20230501070000 +0700" stop="20230501080000 +0700" channel="CNBC - 337">
+    <title lang="id">American Greed</title>
+  </programme>
+  <programme start="20230501080000 +0700" stop="20230501083000 +0700" channel="CNBC - 337">
+    <title lang="id">Managing Asia</title>
+  </programme>
+  <programme start="20230501083000 +0700" stop="20230501090000 +0700" channel="CNBC - 337">
+    <title lang="id">Conversation</title>
+  </programme>
+  <programme start="20230501090000 +0700" stop="20230501100000 +0700" channel="CNBC - 337">
+    <title lang="id">American Greed</title>
+  </programme>
+  <programme start="20230501100000 +0700" stop="20230501110000 +0700" channel="CNBC - 337">
+    <title lang="id">American Greed</title>
+  </programme>
+  <programme start="20230501110000 +0700" stop="20230501120000 +0700" channel="CNBC - 337">
+    <title lang="id">Meet The Press</title>
+  </programme>
+  <programme start="20230501120000 +0700" stop="20230501123000 +0700" channel="CNBC - 337">
+    <title lang="id">Managing Asia</title>
+  </programme>
+  <programme start="20230501123000 +0700" stop="20230501130000 +0700" channel="CNBC - 337">
+    <title lang="id">The Edge</title>
+  </programme>
+  <programme start="20230501130000 +0700" stop="20230501140000 +0700" channel="CNBC - 337">
+    <title lang="id">American Greed</title>
+  </programme>
+  <programme start="20230501140000 +0700" stop="20230501150000 +0700" channel="CNBC - 337">
+    <title lang="id">American Greed</title>
+  </programme>
+  <programme start="20230501150000 +0700" stop="20230501153000 +0700" channel="CNBC - 337">
+    <title lang="id">Managing Asia</title>
+  </programme>
+  <programme start="20230501153000 +0700" stop="20230501160000 +0700" channel="CNBC - 337">
+    <title lang="id">Leadership League</title>
+  </programme>
+  <programme start="20230501160000 +0700" stop="20230501170000 +0700" channel="CNBC - 337">
+    <title lang="id">Worldwide Exchange</title>
+  </programme>
+  <programme start="20230501170000 +0700" stop="20230501200000 +0700" channel="CNBC - 337">
+    <title lang="id">US Squawk Box</title>
+  </programme>
+  <programme start="20230501200000 +0700" stop="20230501230000 +0700" channel="CNBC - 337">
+    <title lang="id">Squawk On The Street</title>
+  </programme>
+  <programme start="20230501230000 +0700" stop="20230502000000 +0700" channel="CNBC - 337">
+    <title lang="id">Halftime Report</title>
+  </programme>
+  <programme start="20230501000000 +0700" stop="20230501003000 +0700" channel="CNN International - 333">
+    <title lang="id">Decoded: Internet Of Things</title>
+  </programme>
+  <programme start="20230501003000 +0700" stop="20230501010000 +0700" channel="CNN International - 333">
+    <title lang="id">African Voices Changemakers</title>
+  </programme>
+  <programme start="20230501010000 +0700" stop="20230501013000 +0700" channel="CNN International - 333">
+    <title lang="id">CNN Newsroom</title>
+  </programme>
+  <programme start="20230501013000 +0700" stop="20230501020000 +0700" channel="CNN International - 333">
+    <title lang="id">CNN Newsroom</title>
+  </programme>
+  <programme start="20230501020000 +0700" stop="20230501023000 +0700" channel="CNN International - 333">
+    <title lang="id">CNN Newsroom</title>
+  </programme>
+  <programme start="20230501023000 +0700" stop="20230501030000 +0700" channel="CNN International - 333">
+    <title lang="id">CNN Newsroom</title>
+  </programme>
+  <programme start="20230501030000 +0700" stop="20230501033000 +0700" channel="CNN International - 333">
+    <title lang="id">CNN Newsroom</title>
+  </programme>
+  <programme start="20230501033000 +0700" stop="20230501040000 +0700" channel="CNN International - 333">
+    <title lang="id">CNN Newsroom</title>
+  </programme>
+  <programme start="20230501040000 +0700" stop="20230501043000 +0700" channel="CNN International - 333">
+    <title lang="id">World Sport</title>
+  </programme>
+  <programme start="20230501043000 +0700" stop="20230501050000 +0700" channel="CNN International - 333">
+    <title lang="id">Decoded: The Metaverse</title>
+  </programme>
+  <programme start="20230501050000 +0700" stop="20230501053000 +0700" channel="CNN International - 333">
+    <title lang="id">CNN Newsroom</title>
+  </programme>
+  <programme start="20230501053000 +0700" stop="20230501060000 +0700" channel="CNN International - 333">
+    <title lang="id">CNN Newsroom</title>
+  </programme>
+  <programme start="20230501060000 +0700" stop="20230501063000 +0700" channel="CNN International - 333">
+    <title lang="id">CNN Newsroom</title>
+  </programme>
+  <programme start="20230501063000 +0700" stop="20230501070000 +0700" channel="CNN International - 333">
+    <title lang="id">CNN Newsroom</title>
+  </programme>
+  <programme start="20230501070000 +0700" stop="20230501073000 +0700" channel="CNN International - 333">
+    <title lang="id">Whole Story, Anderson Cooper</title>
+  </programme>
+  <programme start="20230501073000 +0700" stop="20230501080000 +0700" channel="CNN International - 333">
+    <title lang="id">Whole Story, Anderson Cooper</title>
+  </programme>
+  <programme start="20230501080000 +0700" stop="20230501083000 +0700" channel="CNN International - 333">
+    <title lang="id">Fareed Zakaria GPS</title>
+  </programme>
+  <programme start="20230501083000 +0700" stop="20230501090000 +0700" channel="CNN International - 333">
+    <title lang="id">Fareed Zakaria GPS</title>
+  </programme>
+  <programme start="20230501090000 +0700" stop="20230501093000 +0700" channel="CNN International - 333">
+    <title lang="id">African Voices Changemakers</title>
+  </programme>
+  <programme start="20230501093000 +0700" stop="20230501100000 +0700" channel="CNN International - 333">
+    <title lang="id">Decoded: AI &amp; Machine Learning</title>
+  </programme>
+  <programme start="20230501100000 +0700" stop="20230501103000 +0700" channel="CNN International - 333">
+    <title lang="id">Decoded: Cryptocurrency</title>
+  </programme>
+  <programme start="20230501103000 +0700" stop="20230501110000 +0700" channel="CNN International - 333">
+    <title lang="id">Inside Africa: Wellness And...</title>
+  </programme>
+  <programme start="20230501110000 +0700" stop="20230501113000 +0700" channel="CNN International - 333">
+    <title lang="id">CNN Newsroom, M. Holmes</title>
+  </programme>
+  <programme start="20230501113000 +0700" stop="20230501120000 +0700" channel="CNN International - 333">
+    <title lang="id">CNN Newsroom + World Sport</title>
+  </programme>
+  <programme start="20230501120000 +0700" stop="20230501123000 +0700" channel="CNN International - 333">
+    <title lang="id">CNN Newsroom, M. Holmes</title>
+  </programme>
+  <programme start="20230501123000 +0700" stop="20230501130000 +0700" channel="CNN International - 333">
+    <title lang="id">CNN Newsroom, M. Holmes</title>
+  </programme>
+  <programme start="20230501130000 +0700" stop="20230501133000 +0700" channel="CNN International - 333">
+    <title lang="id">CNN Newsroom, R. Church</title>
+  </programme>
+  <programme start="20230501133000 +0700" stop="20230501140000 +0700" channel="CNN International - 333">
+    <title lang="id">CNN Newsroom + World Sport</title>
+  </programme>
+  <programme start="20230501140000 +0700" stop="20230501143000 +0700" channel="CNN International - 333">
+    <title lang="id">CNN Newsroom, R. Church</title>
+  </programme>
+  <programme start="20230501143000 +0700" stop="20230501150000 +0700" channel="CNN International - 333">
+    <title lang="id">CNN Newsroom, R. Church</title>
+  </programme>
+  <programme start="20230501150000 +0700" stop="20230501153000 +0700" channel="CNN International - 333">
+    <title lang="id">CNN Newsroom, Max &amp; Bianca</title>
+  </programme>
+  <programme start="20230501153000 +0700" stop="20230501160000 +0700" channel="CNN International - 333">
+    <title lang="id">CNN Newsroom, Max &amp; Bianca</title>
+  </programme>
+  <programme start="20230501160000 +0700" stop="20230501163000 +0700" channel="CNN International - 333">
+    <title lang="id">Early Start</title>
+  </programme>
+  <programme start="20230501163000 +0700" stop="20230501170000 +0700" channel="CNN International - 333">
+    <title lang="id">Early Start</title>
+  </programme>
+  <programme start="20230501170000 +0700" stop="20230501173000 +0700" channel="CNN International - 333">
+    <title lang="id">CNN This Morning</title>
+  </programme>
+  <programme start="20230501173000 +0700" stop="20230501180000 +0700" channel="CNN International - 333">
+    <title lang="id">CNN This Morning</title>
+  </programme>
+  <programme start="20230501180000 +0700" stop="20230501183000 +0700" channel="CNN International - 333">
+    <title lang="id">CNN This Morning</title>
+  </programme>
+  <programme start="20230501183000 +0700" stop="20230501190000 +0700" channel="CNN International - 333">
+    <title lang="id">CNN This Morning</title>
+  </programme>
+  <programme start="20230501190000 +0700" stop="20230501193000 +0700" channel="CNN International - 333">
+    <title lang="id">CNN Newsroom, Max Foster</title>
+  </programme>
+  <programme start="20230501193000 +0700" stop="20230501200000 +0700" channel="CNN International - 333">
+    <title lang="id">World Sport</title>
+  </programme>
+  <programme start="20230501200000 +0700" stop="20230501203000 +0700" channel="CNN International - 333">
+    <title lang="id">First Move With J. Chatterley</title>
+  </programme>
+  <programme start="20230501203000 +0700" stop="20230501210000 +0700" channel="CNN International - 333">
+    <title lang="id">First Move With J. Chatterley</title>
+  </programme>
+  <programme start="20230501210000 +0700" stop="20230501213000 +0700" channel="CNN International - 333">
+    <title lang="id">Connect The World</title>
+  </programme>
+  <programme start="20230501213000 +0700" stop="20230501220000 +0700" channel="CNN International - 333">
+    <title lang="id">Connect World + World Sport</title>
+  </programme>
+  <programme start="20230501220000 +0700" stop="20230501223000 +0700" channel="CNN International - 333">
+    <title lang="id">Connect The World</title>
+  </programme>
+  <programme start="20230501223000 +0700" stop="20230501230000 +0700" channel="CNN International - 333">
+    <title lang="id">Connect The World</title>
+  </programme>
+  <programme start="20230501230000 +0700" stop="20230501233000 +0700" channel="CNN International - 333">
+    <title lang="id">One World With Zain Asher</title>
+  </programme>
+  <programme start="20230501233000 +0700" stop="20230502000000 +0700" channel="CNN International - 333">
+    <title lang="id">One World With Zain Asher</title>
+  </programme>
+  <programme start="20230501000000 +0700" stop="20230501010000 +0700" channel="Cartoon Network - 47">
+    <title lang="id">Steven Universe</title>
+  </programme>
+  <programme start="20230501010000 +0700" stop="20230501020000 +0700" channel="Cartoon Network - 47">
+    <title lang="id">Regular Show</title>
+  </programme>
+  <programme start="20230501020000 +0700" stop="20230501030000 +0700" channel="Cartoon Network - 47">
+    <title lang="id">The Powerpuff Girls</title>
+  </programme>
+  <programme start="20230501030000 +0700" stop="20230501040000 +0700" channel="Cartoon Network - 47">
+    <title lang="id">The Tom And Jerry Show</title>
+  </programme>
+  <programme start="20230501040000 +0700" stop="20230501050000 +0700" channel="Cartoon Network - 47">
+    <title lang="id">Ben 10</title>
+  </programme>
+  <programme start="20230501050000 +0700" stop="20230501060000 +0700" channel="Cartoon Network - 47">
+    <title lang="id">Grizzy And The Lemmings</title>
+  </programme>
+  <programme start="20230501060000 +0700" stop="20230501070000 +0700" channel="Cartoon Network - 47">
+    <title lang="id">Mr. Bean: The Animated Series</title>
+  </programme>
+  <programme start="20230501070000 +0700" stop="20230501073000 +0700" channel="Cartoon Network - 47">
+    <title lang="id">Teen Titans Go!</title>
+  </programme>
+  <programme start="20230501073000 +0700" stop="20230501080000 +0700" channel="Cartoon Network - 47">
+    <title lang="id">Teen Titans Go!</title>
+  </programme>
+  <programme start="20230501080000 +0700" stop="20230501083000 +0700" channel="Cartoon Network - 47">
+    <title lang="id">Teen Titans Go!</title>
+  </programme>
+  <programme start="20230501083000 +0700" stop="20230501090000 +0700" channel="Cartoon Network - 47">
+    <title lang="id">Teen Titans Go!</title>
+  </programme>
+  <programme start="20230501090000 +0700" stop="20230501093000 +0700" channel="Cartoon Network - 47">
+    <title lang="id">Teen Titans Go!</title>
+  </programme>
+  <programme start="20230501093000 +0700" stop="20230501100000 +0700" channel="Cartoon Network - 47">
+    <title lang="id">Teen Titans Go!</title>
+  </programme>
+  <programme start="20230501100000 +0700" stop="20230501103000 +0700" channel="Cartoon Network - 47">
+    <title lang="id">Teen Titans Go!</title>
+  </programme>
+  <programme start="20230501103000 +0700" stop="20230501110000 +0700" channel="Cartoon Network - 47">
+    <title lang="id">Teen Titans Go!</title>
+  </programme>
+  <programme start="20230501110000 +0700" stop="20230501114500 +0700" channel="Cartoon Network - 47">
+    <title lang="id">Teen Titans Go!</title>
+  </programme>
+  <programme start="20230501114500 +0700" stop="20230501123000 +0700" channel="Cartoon Network - 47">
+    <title lang="id">Teen Titans Go!</title>
+  </programme>
+  <programme start="20230501123000 +0700" stop="20230501130000 +0700" channel="Cartoon Network - 47">
+    <title lang="id">Teen Titans Go!</title>
+  </programme>
+  <programme start="20230501130000 +0700" stop="20230501140000 +0700" channel="Cartoon Network - 47">
+    <title lang="id">Teen Titans Go!</title>
+  </programme>
+  <programme start="20230501140000 +0700" stop="20230501143000 +0700" channel="Cartoon Network - 47">
+    <title lang="id">Teen Titans Go!</title>
+  </programme>
+  <programme start="20230501143000 +0700" stop="20230501150000 +0700" channel="Cartoon Network - 47">
+    <title lang="id">Teen Titans Go!</title>
+  </programme>
+  <programme start="20230501150000 +0700" stop="20230501154500 +0700" channel="Cartoon Network - 47">
+    <title lang="id">Teen Titans Go!</title>
+  </programme>
+  <programme start="20230501154500 +0700" stop="20230501163000 +0700" channel="Cartoon Network - 47">
+    <title lang="id">Teen Titans Go!</title>
+  </programme>
+  <programme start="20230501163000 +0700" stop="20230501170000 +0700" channel="Cartoon Network - 47">
+    <title lang="id">Teen Titans Go!</title>
+  </programme>
+  <programme start="20230501170000 +0700" stop="20230501180000 +0700" channel="Cartoon Network - 47">
+    <title lang="id">Teen Titans Go!</title>
+  </programme>
+  <programme start="20230501180000 +0700" stop="20230501183000 +0700" channel="Cartoon Network - 47">
+    <title lang="id">Teen Titans Go!</title>
+  </programme>
+  <programme start="20230501183000 +0700" stop="20230501190000 +0700" channel="Cartoon Network - 47">
+    <title lang="id">Teen Titans Go!</title>
+  </programme>
+  <programme start="20230501190000 +0700" stop="20230501193000 +0700" channel="Cartoon Network - 47">
+    <title lang="id">Teen Titans Go!</title>
+  </programme>
+  <programme start="20230501193000 +0700" stop="20230501200000 +0700" channel="Cartoon Network - 47">
+    <title lang="id">Teen Titans Go!</title>
+  </programme>
+  <programme start="20230501200000 +0700" stop="20230501210000 +0700" channel="Cartoon Network - 47">
+    <title lang="id">We Bare Bears</title>
+  </programme>
+  <programme start="20230501210000 +0700" stop="20230501220000 +0700" channel="Cartoon Network - 47">
+    <title lang="id">Steven Universe</title>
+  </programme>
+  <programme start="20230501220000 +0700" stop="20230501230000 +0700" channel="Cartoon Network - 47">
+    <title lang="id">Ben 10</title>
+  </programme>
+  <programme start="20230501230000 +0700" stop="20230502000000 +0700" channel="Cartoon Network - 47">
+    <title lang="id">Adventure Time</title>
+  </programme>
+  <programme start="20230501013000 +0700" stop="20230501031500 +0700" channel="Celestial Classic Movies - 22">
+    <title lang="id">When The Clouds Roll By</title>
+  </programme>
+  <programme start="20230501031500 +0700" stop="20230501053500 +0700" channel="Celestial Classic Movies - 22">
+    <title lang="id">My Dream Boat</title>
+  </programme>
+  <programme start="20230501053500 +0700" stop="20230501073500 +0700" channel="Celestial Classic Movies - 22">
+    <title lang="id">Raw Courage</title>
+  </programme>
+  <programme start="20230501073500 +0700" stop="20230501093500 +0700" channel="Celestial Classic Movies - 22">
+    <title lang="id">Three Sinners</title>
+  </programme>
+  <programme start="20230501093500 +0700" stop="20230501112500 +0700" channel="Celestial Classic Movies - 22">
+    <title lang="id">The Emperor And His Brother</title>
+  </programme>
+  <programme start="20230501112500 +0700" stop="20230501132500 +0700" channel="Celestial Classic Movies - 22">
+    <title lang="id">The Blue And The Black, Pt 2</title>
+  </programme>
+  <programme start="20230501132500 +0700" stop="20230501150000 +0700" channel="Celestial Classic Movies - 22">
+    <title lang="id">The Black Tavern</title>
+  </programme>
+  <programme start="20230501150000 +0700" stop="20230501164500 +0700" channel="Celestial Classic Movies - 22">
+    <title lang="id">The Delinquent</title>
+  </programme>
+  <programme start="20230501164500 +0700" stop="20230501181500 +0700" channel="Celestial Classic Movies - 22">
+    <title lang="id">The Bully</title>
+  </programme>
+  <programme start="20230501181500 +0700" stop="20230501200000 +0700" channel="Celestial Classic Movies - 22">
+    <title lang="id">Dawn Will Come</title>
+  </programme>
+  <programme start="20230501200000 +0700" stop="20230501214000 +0700" channel="Celestial Classic Movies - 22">
+    <title lang="id">Ambitious Kung Fu Girl</title>
+  </programme>
+  <programme start="20230501214000 +0700" stop="20230501231500 +0700" channel="Celestial Classic Movies - 22">
+    <title lang="id">The 82 Tenants</title>
+  </programme>
+  <programme start="20230501231500 +0700" stop="20230502010000 +0700" channel="Celestial Classic Movies - 22">
+    <title lang="id">The Golden Knight</title>
+  </programme>
+  <programme start="20230501003000 +0700" stop="20230501021000 +0700" channel="Celestial Movies - 20">
+    <title lang="id">Lion Rock</title>
+  </programme>
+  <programme start="20230501021000 +0700" stop="20230501035000 +0700" channel="Celestial Movies - 20">
+    <title lang="id">Caught In Time</title>
+  </programme>
+  <programme start="20230501035000 +0700" stop="20230501052500 +0700" channel="Celestial Movies - 20">
+    <title lang="id">Men On The Dragon</title>
+  </programme>
+  <programme start="20230501052500 +0700" stop="20230501075000 +0700" channel="Celestial Movies - 20">
+    <title lang="id">Love After Love</title>
+  </programme>
+  <programme start="20230501075000 +0700" stop="20230501093500 +0700" channel="Celestial Movies - 20">
+    <title lang="id">The Bodyguard</title>
+  </programme>
+  <programme start="20230501093500 +0700" stop="20230501112500 +0700" channel="Celestial Movies - 20">
+    <title lang="id">Fearless</title>
+  </programme>
+  <programme start="20230501112500 +0700" stop="20230501133000 +0700" channel="Celestial Movies - 20">
+    <title lang="id">Shock Wave 2</title>
+  </programme>
+  <programme start="20230501133000 +0700" stop="20230501154000 +0700" channel="Celestial Movies - 20">
+    <title lang="id">2046</title>
+  </programme>
+  <programme start="20230501154000 +0700" stop="20230501171500 +0700" channel="Celestial Movies - 20">
+    <title lang="id">The Golden Monk</title>
+  </programme>
+  <programme start="20230501171500 +0700" stop="20230501185500 +0700" channel="Celestial Movies - 20">
+    <title lang="id">Bodies At Rest</title>
+  </programme>
+  <programme start="20230501185500 +0700" stop="20230501210000 +0700" channel="Celestial Movies - 20">
+    <title lang="id">Hello Mr. Billionaire</title>
+  </programme>
+  <programme start="20230501210000 +0700" stop="20230501224000 +0700" channel="Celestial Movies - 20">
+    <title lang="id">Enter The Fat Dragon</title>
+  </programme>
+  <programme start="20230501224000 +0700" stop="20230502004000 +0700" channel="Celestial Movies - 20">
+    <title lang="id">Office</title>
+  </programme>
+  <programme start="20230501000000 +0700" stop="20230501000200 +0700" channel="Channel News Asia - 330">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20230501000200 +0700" stop="20230501010000 +0700" channel="Channel News Asia - 330">
+    <title lang="id">Insight</title>
+  </programme>
+  <programme start="20230501010000 +0700" stop="20230501013000 +0700" channel="Channel News Asia - 330">
+    <title lang="id">Singapore Tonight</title>
+  </programme>
+  <programme start="20230501013000 +0700" stop="20230501020000 +0700" channel="Channel News Asia - 330">
+    <title lang="id">Talking Point</title>
+  </programme>
+  <programme start="20230501020000 +0700" stop="20230501023000 +0700" channel="Channel News Asia - 330">
+    <title lang="id">What's The Big Deal?</title>
+  </programme>
+  <programme start="20230501023000 +0700" stop="20230501030000 +0700" channel="Channel News Asia - 330">
+    <title lang="id">CNA Correspondent</title>
+  </programme>
+  <programme start="20230501030000 +0700" stop="20230501033000 +0700" channel="Channel News Asia - 330">
+    <title lang="id">Asia Tonight</title>
+  </programme>
+  <programme start="20230501033000 +0700" stop="20230501040000 +0700" channel="Channel News Asia - 330">
+    <title lang="id">The Big Clean Up</title>
+  </programme>
+  <programme start="20230501040000 +0700" stop="20230501050000 +0700" channel="Channel News Asia - 330">
+    <title lang="id">Preparing For...</title>
+  </programme>
+  <programme start="20230501050000 +0700" stop="20230501053000 +0700" channel="Channel News Asia - 330">
+    <title lang="id">Singapore Tonight</title>
+  </programme>
+  <programme start="20230501053000 +0700" stop="20230501060000 +0700" channel="Channel News Asia - 330">
+    <title lang="id">Money Mind</title>
+  </programme>
+  <programme start="20230501060000 +0700" stop="20230501090000 +0700" channel="Channel News Asia - 330">
+    <title lang="id">Asia First</title>
+  </programme>
+  <programme start="20230501090000 +0700" stop="20230501090200 +0700" channel="Channel News Asia - 330">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20230501090200 +0700" stop="20230501100000 +0700" channel="Channel News Asia - 330">
+    <title lang="id">Preparing For...</title>
+  </programme>
+  <programme start="20230501100000 +0700" stop="20230501120000 +0700" channel="Channel News Asia - 330">
+    <title lang="id">Asia Now</title>
+  </programme>
+  <programme start="20230501120000 +0700" stop="20230501120200 +0700" channel="Channel News Asia - 330">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20230501120200 +0700" stop="20230501130000 +0700" channel="Channel News Asia - 330">
+    <title lang="id">Preparing For...</title>
+  </programme>
+  <programme start="20230501130000 +0700" stop="20230501150000 +0700" channel="Channel News Asia - 330">
+    <title lang="id">Asia Now</title>
+  </programme>
+  <programme start="20230501150000 +0700" stop="20230501150200 +0700" channel="Channel News Asia - 330">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20230501150200 +0700" stop="20230501160000 +0700" channel="Channel News Asia - 330">
+    <title lang="id">The Mark Of Empire</title>
+  </programme>
+  <programme start="20230501160000 +0700" stop="20230501180000 +0700" channel="Channel News Asia - 330">
+    <title lang="id">Asia Now</title>
+  </programme>
+  <programme start="20230501180000 +0700" stop="20230501180200 +0700" channel="Channel News Asia - 330">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20230501180200 +0700" stop="20230501190000 +0700" channel="Channel News Asia - 330">
+    <title lang="id">Click To Ransom</title>
+  </programme>
+  <programme start="20230501190000 +0700" stop="20230501200000 +0700" channel="Channel News Asia - 330">
+    <title lang="id">Asia Tonight</title>
+  </programme>
+  <programme start="20230501200000 +0700" stop="20230501200200 +0700" channel="Channel News Asia - 330">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20230501200200 +0700" stop="20230501210000 +0700" channel="Channel News Asia - 330">
+    <title lang="id">Preparing For...</title>
+  </programme>
+  <programme start="20230501210000 +0700" stop="20230501213000 +0700" channel="Channel News Asia - 330">
+    <title lang="id">Singapore Tonight</title>
+  </programme>
+  <programme start="20230501213000 +0700" stop="20230501220000 +0700" channel="Channel News Asia - 330">
+    <title lang="id">Show Me The City</title>
+  </programme>
+  <programme start="20230501220000 +0700" stop="20230501220200 +0700" channel="Channel News Asia - 330">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20230501220200 +0700" stop="20230501230000 +0700" channel="Channel News Asia - 330">
+    <title lang="id">Preparing For...</title>
+  </programme>
+  <programme start="20230501230000 +0700" stop="20230502000000 +0700" channel="Channel News Asia - 330">
+    <title lang="id">World Tonight</title>
+  </programme>
+</tv>
