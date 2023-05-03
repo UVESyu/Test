@@ -80,78 +80,6 @@
     <display-name lang="id">tvN Movies</display-name>
     <url>http://www.mncvision.id</url>
   </channel>
-  <programme start="20230503000000 +0700" stop="20230503003000 +0700" channel="63189">
-    <title lang="id">AB Shop</title>
-  </programme>
-  <programme start="20230503003000 +0700" stop="20230503020000 +0700" channel="63189">
-    <title lang="id">Kabar Petang</title>
-  </programme>
-  <programme start="20230503020000 +0700" stop="20230503030000 +0700" channel="63189">
-    <title lang="id">Apa Kabar Indonesia Malam</title>
-  </programme>
-  <programme start="20230503030000 +0700" stop="20230503033000 +0700" channel="63189">
-    <title lang="id">Kabar Utama</title>
-  </programme>
-  <programme start="20230503033000 +0700" stop="20230503040000 +0700" channel="63189">
-    <title lang="id">Kabar Hari Ini</title>
-  </programme>
-  <programme start="20230503040000 +0700" stop="20230503043000 +0700" channel="63189">
-    <title lang="id">Kabar Arena Malam</title>
-  </programme>
-  <programme start="20230503043000 +0700" stop="20230503060000 +0700" channel="63189">
-    <title lang="id">Kabar Pagi</title>
-  </programme>
-  <programme start="20230503060000 +0700" stop="20230503063000 +0700" channel="63189">
-    <title lang="id">Kabar Arena Pagi</title>
-  </programme>
-  <programme start="20230503063000 +0700" stop="20230503083000 +0700" channel="63189">
-    <title lang="id">Apa Kabar Indonesia Pagi</title>
-  </programme>
-  <programme start="20230503083000 +0700" stop="20230503090000 +0700" channel="63189">
-    <title lang="id">Assalamualaikum Bunda</title>
-  </programme>
-  <programme start="20230503090000 +0700" stop="20230503100000 +0700" channel="63189">
-    <title lang="id">Hidup Sehat</title>
-  </programme>
-  <programme start="20230503100000 +0700" stop="20230503103000 +0700" channel="63189">
-    <title lang="id">Spektakuler</title>
-  </programme>
-  <programme start="20230503103000 +0700" stop="20230503110000 +0700" channel="63189">
-    <title lang="id">Kabar Dunia</title>
-  </programme>
-  <programme start="20230503110000 +0700" stop="20230503130000 +0700" channel="63189">
-    <title lang="id">Kabar Siang</title>
-  </programme>
-  <programme start="20230503130000 +0700" stop="20230503143000 +0700" channel="63189">
-    <title lang="id">Apa Kabar Indonesia Siang</title>
-  </programme>
-  <programme start="20230503143000 +0700" stop="20230503150000 +0700" channel="63189">
-    <title lang="id">Nusantara Terkini</title>
-  </programme>
-  <programme start="20230503150000 +0700" stop="20230503160000 +0700" channel="63189">
-    <title lang="id">Ragam Perkara</title>
-  </programme>
-  <programme start="20230503160000 +0700" stop="20230503183000 +0700" channel="63189">
-    <title lang="id">Kabar Petang</title>
-  </programme>
-  <programme start="20230503183000 +0700" stop="20230503200000 +0700" channel="63189">
-    <title lang="id">Apa Kabar Indonesia Malam</title>
-  </programme>
-  <programme start="20230503200000 +0700" stop="20230503210000 +0700" channel="63189">
-    <title lang="id">Indonesia Business Forum</title>
-  </programme>
-  <programme start="20230503210000 +0700" stop="20230503220000 +0700" channel="63189">
-    <title lang="id">Kabar Utama</title>
-  </programme>
-  <programme start="20230503220000 +0700" stop="20230503223000 +0700" channel="63189">
-    <title lang="id">Waspada</title>
-  </programme>
-  <programme start="20230503223000 +0700" stop="20230503233000 +0700" channel="63189">
-    <title lang="id">Kabar Hari Ini</title>
-  </programme>
-  <programme start="20230503233000 +0700" stop="20230504000000 +0700" channel="63189">
-    <title lang="id">Kabar Arena Malam</title>
-  </programme>
   <programme start="20230504000000 +0700" stop="20230504003000 +0700" channel="63189">
     <title lang="id">AB Shop</title>
   </programme>
@@ -224,113 +152,80 @@
   <programme start="20230504233000 +0700" stop="20230505000000 +0700" channel="63189">
     <title lang="id">Kabar Arena Malam</title>
   </programme>
-  <programme start="20230503000000 +0700" stop="20230503003000 +0700" channel="63459">
-    <title lang="id">Klik Indonesia Malam</title>
+  <programme start="20230505000000 +0700" stop="20230505003000 +0700" channel="63189">
+    <title lang="id">AB Shop</title>
   </programme>
-  <programme start="20230503003000 +0700" stop="20230503013000 +0700" channel="63459">
-    <title lang="id">Kongkow On The Air</title>
+  <programme start="20230505003000 +0700" stop="20230505020000 +0700" channel="63189">
+    <title lang="id">Kabar Petang</title>
   </programme>
-  <programme start="20230503013000 +0700" stop="20230503020000 +0700" channel="63459">
-    <title lang="id">Flashback</title>
+  <programme start="20230505020000 +0700" stop="20230505030000 +0700" channel="63189">
+    <title lang="id">Apa Kabar Indonesia Malam</title>
   </programme>
-  <programme start="20230503020000 +0700" stop="20230503023000 +0700" channel="63459">
-    <title lang="id">Inspirasi Indonesia</title>
+  <programme start="20230505030000 +0700" stop="20230505033000 +0700" channel="63189">
+    <title lang="id">Kabar Utama</title>
   </programme>
-  <programme start="20230503023000 +0700" stop="20230503033000 +0700" channel="63459">
-    <title lang="id">BOM (Bakat Orang Muda)</title>
+  <programme start="20230505033000 +0700" stop="20230505040000 +0700" channel="63189">
+    <title lang="id">Kabar Hari Ini</title>
   </programme>
-  <programme start="20230503033000 +0700" stop="20230503040000 +0700" channel="63459">
-    <title lang="id">Sketsa Netizen</title>
+  <programme start="20230505040000 +0700" stop="20230505043000 +0700" channel="63189">
+    <title lang="id">Kabar Arena Malam</title>
   </programme>
-  <programme start="20230503040000 +0700" stop="20230503043000 +0700" channel="63459">
-    <title lang="id">Jejak Islam</title>
+  <programme start="20230505043000 +0700" stop="20230505060000 +0700" channel="63189">
+    <title lang="id">Kabar Pagi</title>
   </programme>
-  <programme start="20230503043000 +0700" stop="20230503060000 +0700" channel="63459">
-    <title lang="id">Serambi Islami</title>
+  <programme start="20230505060000 +0700" stop="20230505063000 +0700" channel="63189">
+    <title lang="id">Kabar Arena Pagi</title>
   </programme>
-  <programme start="20230503060000 +0700" stop="20230503070000 +0700" channel="63459">
-    <title lang="id">Klik Indonesia Pagi</title>
+  <programme start="20230505063000 +0700" stop="20230505083000 +0700" channel="63189">
+    <title lang="id">Apa Kabar Indonesia Pagi</title>
   </programme>
-  <programme start="20230503070000 +0700" stop="20230503080000 +0700" channel="63459">
-    <title lang="id">News Bulletin: Jendela Negeri</title>
+  <programme start="20230505083000 +0700" stop="20230505090000 +0700" channel="63189">
+    <title lang="id">Assalamualaikum Bunda</title>
   </programme>
-  <programme start="20230503080000 +0700" stop="20230503083000 +0700" channel="63459">
-    <title lang="id">Kong: King Of The Apes</title>
+  <programme start="20230505090000 +0700" stop="20230505100000 +0700" channel="63189">
+    <title lang="id">Hidup Sehat</title>
   </programme>
-  <programme start="20230503083000 +0700" stop="20230503090000 +0700" channel="63459">
-    <title lang="id">Team S.T.E.A.M!</title>
+  <programme start="20230505100000 +0700" stop="20230505103000 +0700" channel="63189">
+    <title lang="id">Inspirasi Pagi</title>
   </programme>
-  <programme start="20230503090000 +0700" stop="20230503090300 +0700" channel="63459">
-    <title lang="id">Info Terkini</title>
+  <programme start="20230505103000 +0700" stop="20230505110000 +0700" channel="63189">
+    <title lang="id">Kabar Dunia</title>
   </programme>
-  <programme start="20230503090300 +0700" stop="20230503093000 +0700" channel="63459">
-    <title lang="id">Mari Menggambar</title>
+  <programme start="20230505110000 +0700" stop="20230505130000 +0700" channel="63189">
+    <title lang="id">Kabar Siang</title>
   </programme>
-  <programme start="20230503093000 +0700" stop="20230503103000 +0700" channel="63459">
-    <title lang="id">Halo Dokter</title>
+  <programme start="20230505130000 +0700" stop="20230505143000 +0700" channel="63189">
+    <title lang="id">Apa Kabar Indonesia Siang</title>
   </programme>
-  <programme start="20230503103000 +0700" stop="20230503110000 +0700" channel="63459">
-    <title lang="id">Dapur Devina</title>
+  <programme start="20230505143000 +0700" stop="20230505150000 +0700" channel="63189">
+    <title lang="id">Nusantara Terkini</title>
   </programme>
-  <programme start="20230503110000 +0700" stop="20230503110300 +0700" channel="63459">
-    <title lang="id">Info Terkini</title>
+  <programme start="20230505150000 +0700" stop="20230505153000 +0700" channel="63189">
+    <title lang="id">Kabar Pemilu</title>
   </programme>
-  <programme start="20230503110300 +0700" stop="20230503120000 +0700" channel="63459">
-    <title lang="id">Bersama Perempuan</title>
+  <programme start="20230505153000 +0700" stop="20230505160000 +0700" channel="63189">
+    <title lang="id">Ragam Perkara</title>
   </programme>
-  <programme start="20230503120000 +0700" stop="20230503130000 +0700" channel="63459">
-    <title lang="id">Klik Indonesia Siang</title>
+  <programme start="20230505160000 +0700" stop="20230505183000 +0700" channel="63189">
+    <title lang="id">Kabar Petang</title>
   </programme>
-  <programme start="20230503130000 +0700" stop="20230503133000 +0700" channel="63459">
-    <title lang="id">Eksplor Jatim</title>
+  <programme start="20230505183000 +0700" stop="20230505200000 +0700" channel="63189">
+    <title lang="id">Apa Kabar Indonesia Malam</title>
   </programme>
-  <programme start="20230503133000 +0700" stop="20230503140000 +0700" channel="63459">
-    <title lang="id">Inspirasi Tani</title>
+  <programme start="20230505200000 +0700" stop="20230505210000 +0700" channel="63189">
+    <title lang="id">Perempuan Bicara</title>
   </programme>
-  <programme start="20230503140000 +0700" stop="20230503140300 +0700" channel="63459">
-    <title lang="id">Info Terkini</title>
+  <programme start="20230505210000 +0700" stop="20230505220000 +0700" channel="63189">
+    <title lang="id">Kabar Utama</title>
   </programme>
-  <programme start="20230503140300 +0700" stop="20230503143000 +0700" channel="63459">
-    <title lang="id">Pesona Indonesia</title>
+  <programme start="20230505220000 +0700" stop="20230505223000 +0700" channel="63189">
+    <title lang="id">Telusur</title>
   </programme>
-  <programme start="20230503143000 +0700" stop="20230503150000 +0700" channel="63459">
-    <title lang="id">Inspirasi Indonesia</title>
+  <programme start="20230505223000 +0700" stop="20230505233000 +0700" channel="63189">
+    <title lang="id">Kabar Hari Ini</title>
   </programme>
-  <programme start="20230503150000 +0700" stop="20230503153000 +0700" channel="63459">
-    <title lang="id">Mimbar Agama Hindu</title>
-  </programme>
-  <programme start="20230503153000 +0700" stop="20230503160000 +0700" channel="63459">
-    <title lang="id">Jelajah Negeri</title>
-  </programme>
-  <programme start="20230503160000 +0700" stop="20230503163000 +0700" channel="63459">
-    <title lang="id">Cerdas Memilih</title>
-  </programme>
-  <programme start="20230503163000 +0700" stop="20230503173000 +0700" channel="63459">
-    <title lang="id">Dikejar Deadline</title>
-  </programme>
-  <programme start="20230503173000 +0700" stop="20230503180000 +0700" channel="63459">
-    <title lang="id">Sketsa Netizen</title>
-  </programme>
-  <programme start="20230503180000 +0700" stop="20230503190000 +0700" channel="63459">
-    <title lang="id">Klik Indonesia Petang</title>
-  </programme>
-  <programme start="20230503190000 +0700" stop="20230503203000 +0700" channel="63459">
-    <title lang="id">Fokus Terkini</title>
-  </programme>
-  <programme start="20230503203000 +0700" stop="20230503210000 +0700" channel="63459">
-    <title lang="id">Bangga Buatan Indonesia</title>
-  </programme>
-  <programme start="20230503210000 +0700" stop="20230503213000 +0700" channel="63459">
-    <title lang="id">Dunia Dalam Berita</title>
-  </programme>
-  <programme start="20230503213000 +0700" stop="20230503223000 +0700" channel="63459">
-    <title lang="id">Keroncong Lestari</title>
-  </programme>
-  <programme start="20230503223000 +0700" stop="20230503233000 +0700" channel="63459">
-    <title lang="id">Pengen Beken</title>
-  </programme>
-  <programme start="20230503233000 +0700" stop="20230504000000 +0700" channel="63459">
-    <title lang="id">Monitor Olahraga</title>
+  <programme start="20230505233000 +0700" stop="20230506000000 +0700" channel="63189">
+    <title lang="id">Kabar Arena Malam</title>
   </programme>
   <programme start="20230504000000 +0700" stop="20230504003000 +0700" channel="63459">
     <title lang="id">Klik Indonesia Malam</title>
@@ -443,62 +338,122 @@
   <programme start="20230504233000 +0700" stop="20230505000000 +0700" channel="63459">
     <title lang="id">Monitor Olahraga</title>
   </programme>
-  <programme start="20230503014500 +0700" stop="20230503020000 +0700" channel="63186">
-    <title lang="id">Preman Pensiun S5</title>
+  <programme start="20230505000000 +0700" stop="20230505003000 +0700" channel="63459">
+    <title lang="id">Klik Indonesia Malam</title>
   </programme>
-  <programme start="20230503020000 +0700" stop="20230503034500 +0700" channel="63186">
-    <title lang="id">Preman Pensiun S5</title>
+  <programme start="20230505003000 +0700" stop="20230505013000 +0700" channel="63459">
+    <title lang="id">Kongkow On The Air</title>
   </programme>
-  <programme start="20230503034500 +0700" stop="20230503040000 +0700" channel="63186">
-    <title lang="id">Kultum</title>
+  <programme start="20230505013000 +0700" stop="20230505020000 +0700" channel="63459">
+    <title lang="id">Flashback</title>
   </programme>
-  <programme start="20230503040000 +0700" stop="20230503053000 +0700" channel="63186">
-    <title lang="id">Seputar iNews Pagi (L)</title>
+  <programme start="20230505020000 +0700" stop="20230505023000 +0700" channel="63459">
+    <title lang="id">Mata Hati</title>
   </programme>
-  <programme start="20230503053000 +0700" stop="20230503061500 +0700" channel="63186">
-    <title lang="id">Sergap</title>
+  <programme start="20230505023000 +0700" stop="20230505033000 +0700" channel="63459">
+    <title lang="id">BOM (Bakat Orang Muda)</title>
   </programme>
-  <programme start="20230503061500 +0700" stop="20230503080000 +0700" channel="63186">
-    <title lang="id">Go Spot</title>
+  <programme start="20230505033000 +0700" stop="20230505040000 +0700" channel="63459">
+    <title lang="id">Sketsa Netizen</title>
   </programme>
-  <programme start="20230503080000 +0700" stop="20230503093000 +0700" channel="63186">
-    <title lang="id">Trending Banget Loh (TBL)</title>
+  <programme start="20230505040000 +0700" stop="20230505043000 +0700" channel="63459">
+    <title lang="id">Jejak Islam</title>
   </programme>
-  <programme start="20230503093000 +0700" stop="20230503113000 +0700" channel="63186">
-    <title lang="id">Silet</title>
+  <programme start="20230505043000 +0700" stop="20230505060000 +0700" channel="63459">
+    <title lang="id">Serambi Islami</title>
   </programme>
-  <programme start="20230503113000 +0700" stop="20230503120000 +0700" channel="63186">
-    <title lang="id">Seputar iNews Siang (L)</title>
+  <programme start="20230505060000 +0700" stop="20230505070000 +0700" channel="63459">
+    <title lang="id">Klik Indonesia Pagi</title>
   </programme>
-  <programme start="20230503120000 +0700" stop="20230503134500 +0700" channel="63186">
-    <title lang="id">Ikatan Cinta: Kisah Al Andin</title>
+  <programme start="20230505070000 +0700" stop="20230505080000 +0700" channel="63459">
+    <title lang="id">News Bulletin: Jendela Negeri</title>
   </programme>
-  <programme start="20230503134500 +0700" stop="20230503160000 +0700" channel="63186">
-    <title lang="id">Si Doel Anak Sekolahan S3</title>
+  <programme start="20230505080000 +0700" stop="20230505083000 +0700" channel="63459">
+    <title lang="id">Benjamin And The Elephant</title>
   </programme>
-  <programme start="20230503160000 +0700" stop="20230503170000 +0700" channel="63186">
-    <title lang="id">9 Bulan</title>
+  <programme start="20230505083000 +0700" stop="20230505090000 +0700" channel="63459">
+    <title lang="id">Mademoiselle Zazie</title>
   </programme>
-  <programme start="20230503170000 +0700" stop="20230503191500 +0700" channel="63186">
-    <title lang="id">Preman Pensiun S8</title>
+  <programme start="20230505090000 +0700" stop="20230505090300 +0700" channel="63459">
+    <title lang="id">Info Terkini</title>
   </programme>
-  <programme start="20230503191500 +0700" stop="20230503204500 +0700" channel="63186">
-    <title lang="id">Ikatan Cinta</title>
+  <programme start="20230505090300 +0700" stop="20230505093000 +0700" channel="63459">
+    <title lang="id">Mari Menggambar</title>
   </programme>
-  <programme start="20230503204500 +0700" stop="20230503223000 +0700" channel="63186">
-    <title lang="id">Jangan Bercerai Bunda</title>
+  <programme start="20230505093000 +0700" stop="20230505103000 +0700" channel="63459">
+    <title lang="id">Halo Dokter</title>
   </programme>
-  <programme start="20230503223000 +0700" stop="20230504000000 +0700" channel="63186">
-    <title lang="id">The Singing Bee Indonesia (L)</title>
+  <programme start="20230505103000 +0700" stop="20230505110000 +0700" channel="63459">
+    <title lang="id">Dapur Devina</title>
+  </programme>
+  <programme start="20230505110000 +0700" stop="20230505110300 +0700" channel="63459">
+    <title lang="id">Info Terkini</title>
+  </programme>
+  <programme start="20230505110300 +0700" stop="20230505120000 +0700" channel="63459">
+    <title lang="id">Bersama Perempuan</title>
+  </programme>
+  <programme start="20230505120000 +0700" stop="20230505130000 +0700" channel="63459">
+    <title lang="id">Sholat Jum'at</title>
+  </programme>
+  <programme start="20230505130000 +0700" stop="20230505140000 +0700" channel="63459">
+    <title lang="id">Klik Indonesia Siang</title>
+  </programme>
+  <programme start="20230505140000 +0700" stop="20230505140300 +0700" channel="63459">
+    <title lang="id">Info Terkini</title>
+  </programme>
+  <programme start="20230505140300 +0700" stop="20230505143000 +0700" channel="63459">
+    <title lang="id">Pesona Indonesia</title>
+  </programme>
+  <programme start="20230505143000 +0700" stop="20230505150000 +0700" channel="63459">
+    <title lang="id">Inspirasi Indonesia</title>
+  </programme>
+  <programme start="20230505150000 +0700" stop="20230505153000 +0700" channel="63459">
+    <title lang="id">Mimbar Agama Konghucu</title>
+  </programme>
+  <programme start="20230505153000 +0700" stop="20230505160000 +0700" channel="63459">
+    <title lang="id">Jelajah Negeri</title>
+  </programme>
+  <programme start="20230505160000 +0700" stop="20230505163000 +0700" channel="63459">
+    <title lang="id">Cerdas Memilih</title>
+  </programme>
+  <programme start="20230505163000 +0700" stop="20230505173000 +0700" channel="63459">
+    <title lang="id">Menjemput RidhoMu</title>
+  </programme>
+  <programme start="20230505173000 +0700" stop="20230505180000 +0700" channel="63459">
+    <title lang="id">Sketsa Netizen</title>
+  </programme>
+  <programme start="20230505180000 +0700" stop="20230505190000 +0700" channel="63459">
+    <title lang="id">Klik Indonesia Petang</title>
+  </programme>
+  <programme start="20230505190000 +0700" stop="20230505200000 +0700" channel="63459">
+    <title lang="id">Indonesia Bicara</title>
+  </programme>
+  <programme start="20230505200000 +0700" stop="20230505210000 +0700" channel="63459">
+    <title lang="id">Guest House Losmen Reborn</title>
+  </programme>
+  <programme start="20230505210000 +0700" stop="20230505213000 +0700" channel="63459">
+    <title lang="id">Dunia Dalam Berita</title>
+  </programme>
+  <programme start="20230505213000 +0700" stop="20230505223000 +0700" channel="63459">
+    <title lang="id">D' Teras</title>
+  </programme>
+  <programme start="20230505223000 +0700" stop="20230505233000 +0700" channel="63459">
+    <title lang="id">Senja Gurau</title>
+  </programme>
+  <programme start="20230505233000 +0700" stop="20230506000000 +0700" channel="63459">
+    <title lang="id">Monitor Olahraga</title>
   </programme>
   <programme start="20230504000000 +0700" stop="20230504020000 +0700" channel="63186">
     <title lang="id">Kau Tak Ku Kejar Tapi Kau...</title>
   </programme>
-  <programme start="20230504020000 +0700" stop="20230504034500 +0700" channel="63186">
-    <title lang="id">Preman Pensiun S5</title>
+  <programme start="20230504020000 +0700" stop="20230504030000 +0700" channel="63186">
+    <title lang="id">Cinta Di Botol Sirop</title>
   </programme>
-  <programme start="20230504034500 +0700" stop="20230504040000 +0700" channel="63186">
+  <programme start="20230504030000 +0700" stop="20230504031500 +0700" channel="63186">
     <title lang="id">Kultum</title>
+  </programme>
+  <programme start="20230504031500 +0700" stop="20230504040000 +0700" channel="63186">
+    <title lang="id">Preman Pensiun S5</title>
   </programme>
   <programme start="20230504040000 +0700" stop="20230504053000 +0700" channel="63186">
     <title lang="id">Seputar iNews Pagi (L)</title>
@@ -542,62 +497,56 @@
   <programme start="20230504234500 +0700" stop="20230505014500 +0700" channel="63186">
     <title lang="id">Cewek Manja Ke Laut Aja</title>
   </programme>
-  <programme start="20230503003000 +0700" stop="20230503014500 +0700" channel="63163">
-    <title lang="id">SCTV</title>
+  <programme start="20230505014500 +0700" stop="20230505020000 +0700" channel="63186">
+    <title lang="id">Preman Pensiun S5</title>
   </programme>
-  <programme start="20230503014500 +0700" stop="20230503021500 +0700" channel="63163">
-    <title lang="id">SCTV</title>
+  <programme start="20230505020000 +0700" stop="20230505034500 +0700" channel="63186">
+    <title lang="id">Preman Pensiun S5</title>
   </programme>
-  <programme start="20230503021500 +0700" stop="20230503024500 +0700" channel="63163">
-    <title lang="id">SCTV</title>
+  <programme start="20230505034500 +0700" stop="20230505040000 +0700" channel="63186">
+    <title lang="id">Kultum</title>
   </programme>
-  <programme start="20230503024500 +0700" stop="20230503040000 +0700" channel="63163">
-    <title lang="id">SCTV</title>
+  <programme start="20230505040000 +0700" stop="20230505053000 +0700" channel="63186">
+    <title lang="id">Seputar iNews Pagi (L)</title>
   </programme>
-  <programme start="20230503040000 +0700" stop="20230503043000 +0700" channel="63163">
-    <title lang="id">SCTV</title>
+  <programme start="20230505053000 +0700" stop="20230505061500 +0700" channel="63186">
+    <title lang="id">Sergap</title>
   </programme>
-  <programme start="20230503043000 +0700" stop="20230503060000 +0700" channel="63163">
-    <title lang="id">SCTV</title>
+  <programme start="20230505061500 +0700" stop="20230505080000 +0700" channel="63186">
+    <title lang="id">Go Spot</title>
   </programme>
-  <programme start="20230503060000 +0700" stop="20230503070000 +0700" channel="63163">
-    <title lang="id">SCTV</title>
+  <programme start="20230505080000 +0700" stop="20230505093000 +0700" channel="63186">
+    <title lang="id">Trending Banget Loh (TBL)</title>
   </programme>
-  <programme start="20230503070000 +0700" stop="20230503080000 +0700" channel="63163">
-    <title lang="id">SCTV</title>
+  <programme start="20230505093000 +0700" stop="20230505113000 +0700" channel="63186">
+    <title lang="id">Silet</title>
   </programme>
-  <programme start="20230503080000 +0700" stop="20230503093000 +0700" channel="63163">
-    <title lang="id">SCTV</title>
+  <programme start="20230505113000 +0700" stop="20230505120000 +0700" channel="63186">
+    <title lang="id">Seputar iNews Siang (L)</title>
   </programme>
-  <programme start="20230503093000 +0700" stop="20230503100000 +0700" channel="63163">
-    <title lang="id">SCTV</title>
+  <programme start="20230505120000 +0700" stop="20230505134500 +0700" channel="63186">
+    <title lang="id">Ikatan Cinta: Kisah Al Andin</title>
   </programme>
-  <programme start="20230503100000 +0700" stop="20230503120000 +0700" channel="63163">
-    <title lang="id">SCTV</title>
+  <programme start="20230505134500 +0700" stop="20230505160000 +0700" channel="63186">
+    <title lang="id">Si Doel Anak Sekolahan S3</title>
   </programme>
-  <programme start="20230503120000 +0700" stop="20230503124500 +0700" channel="63163">
-    <title lang="id">SCTV</title>
+  <programme start="20230505160000 +0700" stop="20230505170000 +0700" channel="63186">
+    <title lang="id">9 Bulan</title>
   </programme>
-  <programme start="20230503124500 +0700" stop="20230503141500 +0700" channel="63163">
-    <title lang="id">SCTV</title>
+  <programme start="20230505170000 +0700" stop="20230505180000 +0700" channel="63186">
+    <title lang="id">Preman Pensiun S8</title>
   </programme>
-  <programme start="20230503141500 +0700" stop="20230503153000 +0700" channel="63163">
-    <title lang="id">SCTV</title>
+  <programme start="20230505180000 +0700" stop="20230505191500 +0700" channel="63186">
+    <title lang="id">Sayap Cinta Terindah</title>
   </programme>
-  <programme start="20230503153000 +0700" stop="20230503170000 +0700" channel="63163">
-    <title lang="id">SCTV</title>
+  <programme start="20230505191500 +0700" stop="20230505204500 +0700" channel="63186">
+    <title lang="id">Ikatan Cinta</title>
   </programme>
-  <programme start="20230503170000 +0700" stop="20230503183000 +0700" channel="63163">
-    <title lang="id">SCTV</title>
+  <programme start="20230505204500 +0700" stop="20230505223000 +0700" channel="63186">
+    <title lang="id">Jangan Bercerai Bunda</title>
   </programme>
-  <programme start="20230503183000 +0700" stop="20230503204500 +0700" channel="63163">
-    <title lang="id">SCTV</title>
-  </programme>
-  <programme start="20230503204500 +0700" stop="20230503223000 +0700" channel="63163">
-    <title lang="id">SCTV</title>
-  </programme>
-  <programme start="20230503223000 +0700" stop="20230504003000 +0700" channel="63163">
-    <title lang="id">SCTV</title>
+  <programme start="20230505223000 +0700" stop="20230506003000 +0700" channel="63186">
+    <title lang="id">Opening Ceremony SEA Games</title>
   </programme>
   <programme start="20230504003000 +0700" stop="20230504014500 +0700" channel="63163">
     <title lang="id">SCTV</title>
@@ -659,41 +608,56 @@
   <programme start="20230504224500 +0700" stop="20230505000000 +0700" channel="63163">
     <title lang="id">SCTV</title>
   </programme>
-  <programme start="20230503000000 +0700" stop="20230503020000 +0700" channel="63191">
-    <title lang="id">Garis Tangan</title>
+  <programme start="20230505000000 +0700" stop="20230505023000 +0700" channel="63163">
+    <title lang="id">SCTV</title>
   </programme>
-  <programme start="20230503020000 +0700" stop="20230503040000 +0700" channel="63191">
-    <title lang="id">Jodoh Wasiat Bapak</title>
+  <programme start="20230505023000 +0700" stop="20230505040000 +0700" channel="63163">
+    <title lang="id">SCTV</title>
   </programme>
-  <programme start="20230503040000 +0700" stop="20230503050000 +0700" channel="63191">
-    <title lang="id">Bidadari</title>
+  <programme start="20230505040000 +0700" stop="20230505043000 +0700" channel="63163">
+    <title lang="id">SCTV</title>
   </programme>
-  <programme start="20230503050000 +0700" stop="20230503060000 +0700" channel="63191">
-    <title lang="id">Senyum Iman</title>
+  <programme start="20230505043000 +0700" stop="20230505060000 +0700" channel="63163">
+    <title lang="id">SCTV</title>
   </programme>
-  <programme start="20230503060000 +0700" stop="20230503083000 +0700" channel="63191">
-    <title lang="id">Shiva</title>
+  <programme start="20230505060000 +0700" stop="20230505063000 +0700" channel="63163">
+    <title lang="id">SCTV</title>
   </programme>
-  <programme start="20230503083000 +0700" stop="20230503103000 +0700" channel="63191">
-    <title lang="id">Barbie: Swan Lake</title>
+  <programme start="20230505063000 +0700" stop="20230505070000 +0700" channel="63163">
+    <title lang="id">SCTV</title>
   </programme>
-  <programme start="20230503103000 +0700" stop="20230503140000 +0700" channel="63191">
-    <title lang="id">Raees</title>
+  <programme start="20230505070000 +0700" stop="20230505080000 +0700" channel="63163">
+    <title lang="id">SCTV</title>
   </programme>
-  <programme start="20230503140000 +0700" stop="20230503160000 +0700" channel="63191">
-    <title lang="id">Anupamaa</title>
+  <programme start="20230505080000 +0700" stop="20230505100000 +0700" channel="63163">
+    <title lang="id">SCTV</title>
   </programme>
-  <programme start="20230503160000 +0700" stop="20230503173000 +0700" channel="63191">
-    <title lang="id">Vidya</title>
+  <programme start="20230505100000 +0700" stop="20230505120000 +0700" channel="63163">
+    <title lang="id">SCTV</title>
   </programme>
-  <programme start="20230503173000 +0700" stop="20230503200000 +0700" channel="63191">
-    <title lang="id">Imlie</title>
+  <programme start="20230505120000 +0700" stop="20230505124500 +0700" channel="63163">
+    <title lang="id">SCTV</title>
   </programme>
-  <programme start="20230503200000 +0700" stop="20230503220000 +0700" channel="63191">
-    <title lang="id">Sabrina</title>
+  <programme start="20230505124500 +0700" stop="20230505141500 +0700" channel="63163">
+    <title lang="id">SCTV</title>
   </programme>
-  <programme start="20230503220000 +0700" stop="20230504000000 +0700" channel="63191">
-    <title lang="id">The Black Death</title>
+  <programme start="20230505141500 +0700" stop="20230505153000 +0700" channel="63163">
+    <title lang="id">SCTV</title>
+  </programme>
+  <programme start="20230505153000 +0700" stop="20230505170000 +0700" channel="63163">
+    <title lang="id">SCTV</title>
+  </programme>
+  <programme start="20230505170000 +0700" stop="20230505184500 +0700" channel="63163">
+    <title lang="id">SCTV</title>
+  </programme>
+  <programme start="20230505184500 +0700" stop="20230505210000 +0700" channel="63163">
+    <title lang="id">SCTV</title>
+  </programme>
+  <programme start="20230505210000 +0700" stop="20230505230000 +0700" channel="63163">
+    <title lang="id">SCTV</title>
+  </programme>
+  <programme start="20230505230000 +0700" stop="20230506003000 +0700" channel="63163">
+    <title lang="id">SCTV</title>
   </programme>
   <programme start="20230504000000 +0700" stop="20230504010000 +0700" channel="63191">
     <title lang="id">Garis Tangan</title>
@@ -702,7 +666,7 @@
     <title lang="id">AB Shop Home Shopping</title>
   </programme>
   <programme start="20230504020000 +0700" stop="20230504040000 +0700" channel="63191">
-    <title lang="id">Jodoh Wasiat Bapak</title>
+    <title lang="id">Luv Kush</title>
   </programme>
   <programme start="20230504040000 +0700" stop="20230504050000 +0700" channel="63191">
     <title lang="id">Bidadari</title>
@@ -734,68 +698,41 @@
   <programme start="20230504220000 +0700" stop="20230505000000 +0700" channel="63191">
     <title lang="id">Nang Nak</title>
   </programme>
-  <programme start="20230503014500 +0700" stop="20230503021500 +0700" channel="63194">
-    <title lang="id">CNN Indonesia Connected</title>
+  <programme start="20230505000000 +0700" stop="20230505020000 +0700" channel="63191">
+    <title lang="id">Garis Tangan</title>
   </programme>
-  <programme start="20230503021500 +0700" stop="20230503050000 +0700" channel="63194">
-    <title lang="id">Program Dini Hari</title>
+  <programme start="20230505020000 +0700" stop="20230505040000 +0700" channel="63191">
+    <title lang="id">Luv Kush</title>
   </programme>
-  <programme start="20230503050000 +0700" stop="20230503063000 +0700" channel="63194">
-    <title lang="id">Islam Itu Indah</title>
+  <programme start="20230505040000 +0700" stop="20230505050000 +0700" channel="63191">
+    <title lang="id">Bidadari</title>
   </programme>
-  <programme start="20230503063000 +0700" stop="20230503073000 +0700" channel="63194">
-    <title lang="id">Insert Pagi (L)</title>
+  <programme start="20230505050000 +0700" stop="20230505060000 +0700" channel="63191">
+    <title lang="id">Senyum Iman</title>
   </programme>
-  <programme start="20230503073000 +0700" stop="20230503083000 +0700" channel="63194">
-    <title lang="id">CNN Indonesia Good Morning</title>
+  <programme start="20230505060000 +0700" stop="20230505083000 +0700" channel="63191">
+    <title lang="id">Shiva</title>
   </programme>
-  <programme start="20230503083000 +0700" stop="20230503100000 +0700" channel="63194">
-    <title lang="id">Pagi-Pagi Ambyar</title>
+  <programme start="20230505083000 +0700" stop="20230505103000 +0700" channel="63191">
+    <title lang="id">Barbie &amp; Tiga Musketir</title>
   </programme>
-  <programme start="20230503100000 +0700" stop="20230503110000 +0700" channel="63194">
-    <title lang="id">Siapa Mau Jadi Juara</title>
+  <programme start="20230505103000 +0700" stop="20230505140000 +0700" channel="63191">
+    <title lang="id">Main Tera Hero</title>
   </programme>
-  <programme start="20230503110000 +0700" stop="20230503113000 +0700" channel="63194">
-    <title lang="id">Catatan Harian Dewi Sandra</title>
+  <programme start="20230505140000 +0700" stop="20230505160000 +0700" channel="63191">
+    <title lang="id">Anupamaa</title>
   </programme>
-  <programme start="20230503113000 +0700" stop="20230503123000 +0700" channel="63194">
-    <title lang="id">Insert Siang</title>
+  <programme start="20230505160000 +0700" stop="20230505173000 +0700" channel="63191">
+    <title lang="id">Vidya</title>
   </programme>
-  <programme start="20230503123000 +0700" stop="20230503140000 +0700" channel="63194">
-    <title lang="id">Brownis (Obrowlan Manis)</title>
+  <programme start="20230505173000 +0700" stop="20230505200000 +0700" channel="63191">
+    <title lang="id">Imlie</title>
   </programme>
-  <programme start="20230503140000 +0700" stop="20230503150000 +0700" channel="63194">
-    <title lang="id">Rumpi: No Secret</title>
+  <programme start="20230505200000 +0700" stop="20230505220000 +0700" channel="63191">
+    <title lang="id">Sajen</title>
   </programme>
-  <programme start="20230503150000 +0700" stop="20230503160000 +0700" channel="63194">
-    <title lang="id">Insert Today</title>
-  </programme>
-  <programme start="20230503160000 +0700" stop="20230503163000 +0700" channel="63194">
-    <title lang="id">CNN Indonesia News Update</title>
-  </programme>
-  <programme start="20230503163000 +0700" stop="20230503173000 +0700" channel="63194">
-    <title lang="id">Dream Box Indonesia</title>
-  </programme>
-  <programme start="20230503173000 +0700" stop="20230503183000 +0700" channel="63194">
-    <title lang="id">Bikin Laper</title>
-  </programme>
-  <programme start="20230503183000 +0700" stop="20230503200000 +0700" channel="63194">
-    <title lang="id">Ketawa Itu Berkah</title>
-  </programme>
-  <programme start="20230503200000 +0700" stop="20230503204500 +0700" channel="63194">
-    <title lang="id">Insert Story</title>
-  </programme>
-  <programme start="20230503204500 +0700" stop="20230503211500 +0700" channel="63194">
-    <title lang="id">Dunia Punya Cerita</title>
-  </programme>
-  <programme start="20230503211500 +0700" stop="20230503214500 +0700" channel="63194">
-    <title lang="id">Tanpa Batas</title>
-  </programme>
-  <programme start="20230503214500 +0700" stop="20230503234500 +0700" channel="63194">
-    <title lang="id">Bioskop Trans TV</title>
-  </programme>
-  <programme start="20230503234500 +0700" stop="20230504014500 +0700" channel="63194">
-    <title lang="id">Bioskop Trans TV</title>
+  <programme start="20230505220000 +0700" stop="20230506000000 +0700" channel="63191">
+    <title lang="id">The Trek</title>
   </programme>
   <programme start="20230504014500 +0700" stop="20230504021500 +0700" channel="63194">
     <title lang="id">CNN Indonesia Connected</title>
@@ -860,86 +797,68 @@
   <programme start="20230504234500 +0700" stop="20230505014500 +0700" channel="63194">
     <title lang="id">Bioskop Trans TV</title>
   </programme>
-  <programme start="20230503004500 +0700" stop="20230503011500 +0700" channel="63192">
-    <title lang="id">Sport 7</title>
+  <programme start="20230505014500 +0700" stop="20230505021500 +0700" channel="63194">
+    <title lang="id">CNN Indonesia Connected</title>
   </programme>
-  <programme start="20230503011500 +0700" stop="20230503020000 +0700" channel="63192">
-    <title lang="id">Best Fishing</title>
+  <programme start="20230505021500 +0700" stop="20230505050000 +0700" channel="63194">
+    <title lang="id">Program Dini Hari</title>
   </programme>
-  <programme start="20230503020000 +0700" stop="20230503033000 +0700" channel="63192">
-    <title lang="id">Opera Van Java</title>
+  <programme start="20230505050000 +0700" stop="20230505063000 +0700" channel="63194">
+    <title lang="id">Islam Itu Indah</title>
   </programme>
-  <programme start="20230503033000 +0700" stop="20230503043000 +0700" channel="63192">
-    <title lang="id">The Police</title>
+  <programme start="20230505063000 +0700" stop="20230505073000 +0700" channel="63194">
+    <title lang="id">Insert Pagi (L)</title>
   </programme>
-  <programme start="20230503043000 +0700" stop="20230503051500 +0700" channel="63192">
-    <title lang="id">Islampedia</title>
+  <programme start="20230505073000 +0700" stop="20230505083000 +0700" channel="63194">
+    <title lang="id">CNN Indonesia Good Morning</title>
   </programme>
-  <programme start="20230503051500 +0700" stop="20230503060000 +0700" channel="63192">
-    <title lang="id">Ragam Indonesia</title>
+  <programme start="20230505083000 +0700" stop="20230505100000 +0700" channel="63194">
+    <title lang="id">Pagi-Pagi Ambyar</title>
   </programme>
-  <programme start="20230503060000 +0700" stop="20230503070000 +0700" channel="63192">
-    <title lang="id">Redaksi Pagi</title>
+  <programme start="20230505100000 +0700" stop="20230505110000 +0700" channel="63194">
+    <title lang="id">Siapa Mau Jadi Juara</title>
   </programme>
-  <programme start="20230503070000 +0700" stop="20230503080000 +0700" channel="63192">
-    <title lang="id">Spotlite</title>
+  <programme start="20230505110000 +0700" stop="20230505113000 +0700" channel="63194">
+    <title lang="id">Catatan Harian Dewi Sandra</title>
   </programme>
-  <programme start="20230503080000 +0700" stop="20230503083000 +0700" channel="63192">
-    <title lang="id">Selebrita Pagi</title>
+  <programme start="20230505113000 +0700" stop="20230505123000 +0700" channel="63194">
+    <title lang="id">Insert Siang</title>
   </programme>
-  <programme start="20230503083000 +0700" stop="20230503093000 +0700" channel="63192">
-    <title lang="id">FYP (For Your Pagi)</title>
+  <programme start="20230505123000 +0700" stop="20230505140000 +0700" channel="63194">
+    <title lang="id">Brownis (Obrowlan Manis)</title>
   </programme>
-  <programme start="20230503093000 +0700" stop="20230503101500 +0700" channel="63192">
-    <title lang="id">OMG</title>
+  <programme start="20230505140000 +0700" stop="20230505150000 +0700" channel="63194">
+    <title lang="id">Rumpi: No Secret</title>
   </programme>
-  <programme start="20230503101500 +0700" stop="20230503111500 +0700" channel="63192">
-    <title lang="id">Trending</title>
+  <programme start="20230505150000 +0700" stop="20230505160000 +0700" channel="63194">
+    <title lang="id">Insert Today</title>
   </programme>
-  <programme start="20230503111500 +0700" stop="20230503120000 +0700" channel="63192">
-    <title lang="id">Enah Bikin Enak</title>
+  <programme start="20230505160000 +0700" stop="20230505163000 +0700" channel="63194">
+    <title lang="id">CNN Indonesia News Update</title>
   </programme>
-  <programme start="20230503120000 +0700" stop="20230503124500 +0700" channel="63192">
-    <title lang="id">Bocah Petualang</title>
+  <programme start="20230505163000 +0700" stop="20230505173000 +0700" channel="63194">
+    <title lang="id">Dream Box Indonesia</title>
   </programme>
-  <programme start="20230503124500 +0700" stop="20230503133000 +0700" channel="63192">
-    <title lang="id">Si Otan</title>
+  <programme start="20230505173000 +0700" stop="20230505183000 +0700" channel="63194">
+    <title lang="id">Bikin Laper</title>
   </programme>
-  <programme start="20230503133000 +0700" stop="20230503141500 +0700" channel="63192">
-    <title lang="id">Jejak Petualang</title>
+  <programme start="20230505183000 +0700" stop="20230505200000 +0700" channel="63194">
+    <title lang="id">Ketawa Itu Berkah</title>
   </programme>
-  <programme start="20230503141500 +0700" stop="20230503151500 +0700" channel="63192">
-    <title lang="id">Redaksi</title>
+  <programme start="20230505200000 +0700" stop="20230505204500 +0700" channel="63194">
+    <title lang="id">Insert Story</title>
   </programme>
-  <programme start="20230503151500 +0700" stop="20230503161500 +0700" channel="63192">
-    <title lang="id">Jejak Si Gundul</title>
+  <programme start="20230505204500 +0700" stop="20230505211500 +0700" channel="63194">
+    <title lang="id">Dunia Punya Cerita</title>
   </programme>
-  <programme start="20230503161500 +0700" stop="20230503171500 +0700" channel="63192">
-    <title lang="id">Makan Receh</title>
+  <programme start="20230505211500 +0700" stop="20230505214500 +0700" channel="63194">
+    <title lang="id">Tanpa Batas</title>
   </programme>
-  <programme start="20230503171500 +0700" stop="20230503180000 +0700" channel="63192">
-    <title lang="id">Selebrita Expose</title>
+  <programme start="20230505214500 +0700" stop="20230505234500 +0700" channel="63194">
+    <title lang="id">Bioskop Trans TV</title>
   </programme>
-  <programme start="20230503180000 +0700" stop="20230503190000 +0700" channel="63192">
-    <title lang="id">On The Spot</title>
-  </programme>
-  <programme start="20230503190000 +0700" stop="20230503194500 +0700" channel="63192">
-    <title lang="id">Secret Story</title>
-  </programme>
-  <programme start="20230503194500 +0700" stop="20230503203000 +0700" channel="63192">
-    <title lang="id">POV (Pasti Obrolan Viral)</title>
-  </programme>
-  <programme start="20230503203000 +0700" stop="20230503213000 +0700" channel="63192">
-    <title lang="id">Arisan</title>
-  </programme>
-  <programme start="20230503213000 +0700" stop="20230503224500 +0700" channel="63192">
-    <title lang="id">Lapor Pak!</title>
-  </programme>
-  <programme start="20230503224500 +0700" stop="20230503233000 +0700" channel="63192">
-    <title lang="id">Krim Malam</title>
-  </programme>
-  <programme start="20230503233000 +0700" stop="20230504004500 +0700" channel="63192">
-    <title lang="id">Misteri Dunia</title>
+  <programme start="20230505234500 +0700" stop="20230506014500 +0700" channel="63194">
+    <title lang="id">Bioskop Trans TV</title>
   </programme>
   <programme start="20230504004500 +0700" stop="20230504011500 +0700" channel="63192">
     <title lang="id">Sport 7</title>
@@ -1022,53 +941,86 @@
   <programme start="20230504233000 +0700" stop="20230505004500 +0700" channel="63192">
     <title lang="id">Misteri Dunia</title>
   </programme>
-  <programme start="20230503000000 +0700" stop="20230503010000 +0700" channel="63209">
-    <title lang="id">Buletin iNews Malam</title>
+  <programme start="20230505004500 +0700" stop="20230505011500 +0700" channel="63192">
+    <title lang="id">Sport 7</title>
   </programme>
-  <programme start="20230503010000 +0700" stop="20230503020000 +0700" channel="63209">
-    <title lang="id">iSinema</title>
+  <programme start="20230505011500 +0700" stop="20230505020000 +0700" channel="63192">
+    <title lang="id">Best Fishing</title>
   </programme>
-  <programme start="20230503020000 +0700" stop="20230503033000 +0700" channel="63209">
-    <title lang="id">iSinema</title>
+  <programme start="20230505020000 +0700" stop="20230505033000 +0700" channel="63192">
+    <title lang="id">Opera Van Java</title>
   </programme>
-  <programme start="20230503033000 +0700" stop="20230503043000 +0700" channel="63209">
-    <title lang="id">iSinema</title>
+  <programme start="20230505033000 +0700" stop="20230505043000 +0700" channel="63192">
+    <title lang="id">The Police</title>
   </programme>
-  <programme start="20230503043000 +0700" stop="20230503053000 +0700" channel="63209">
-    <title lang="id">Buletin iNews Pagi (L)</title>
+  <programme start="20230505043000 +0700" stop="20230505051500 +0700" channel="63192">
+    <title lang="id">Islampedia</title>
   </programme>
-  <programme start="20230503053000 +0700" stop="20230503060000 +0700" channel="63209">
-    <title lang="id">Obsesi (L)</title>
+  <programme start="20230505051500 +0700" stop="20230505060000 +0700" channel="63192">
+    <title lang="id">Ragam Indonesia</title>
   </programme>
-  <programme start="20230503060000 +0700" stop="20230503080000 +0700" channel="63209">
-    <title lang="id">SpongeBob SquarePants Movie</title>
+  <programme start="20230505060000 +0700" stop="20230505070000 +0700" channel="63192">
+    <title lang="id">Redaksi Pagi</title>
   </programme>
-  <programme start="20230503080000 +0700" stop="20230503100000 +0700" channel="63209">
-    <title lang="id">SpongeBob SquarePants Movie</title>
+  <programme start="20230505070000 +0700" stop="20230505080000 +0700" channel="63192">
+    <title lang="id">Spotlite</title>
   </programme>
-  <programme start="20230503100000 +0700" stop="20230503103000 +0700" channel="63209">
-    <title lang="id">Buletin iNews Siang (L)</title>
+  <programme start="20230505080000 +0700" stop="20230505083000 +0700" channel="63192">
+    <title lang="id">Selebrita Pagi</title>
   </programme>
-  <programme start="20230503103000 +0700" stop="20230503123000 +0700" channel="63209">
-    <title lang="id">SpongeBob SquarePants Movie</title>
+  <programme start="20230505083000 +0700" stop="20230505093000 +0700" channel="63192">
+    <title lang="id">FYP (For Your Pagi)</title>
   </programme>
-  <programme start="20230503123000 +0700" stop="20230503150000 +0700" channel="63209">
-    <title lang="id">SpongeBob SquarePants Movie</title>
+  <programme start="20230505093000 +0700" stop="20230505101500 +0700" channel="63192">
+    <title lang="id">OMG</title>
   </programme>
-  <programme start="20230503150000 +0700" stop="20230503173000 +0700" channel="63209">
-    <title lang="id">SpongeBob SquarePants Movie</title>
+  <programme start="20230505101500 +0700" stop="20230505111500 +0700" channel="63192">
+    <title lang="id">Trending</title>
   </programme>
-  <programme start="20230503173000 +0700" stop="20230503180000 +0700" channel="63209">
-    <title lang="id">Masquerade</title>
+  <programme start="20230505111500 +0700" stop="20230505120000 +0700" channel="63192">
+    <title lang="id">Enah Bikin Enak</title>
   </programme>
-  <programme start="20230503180000 +0700" stop="20230503193000 +0700" channel="63209">
-    <title lang="id">Super Deal Indonesia</title>
+  <programme start="20230505120000 +0700" stop="20230505124500 +0700" channel="63192">
+    <title lang="id">Bocah Petualang</title>
   </programme>
-  <programme start="20230503193000 +0700" stop="20230503223000 +0700" channel="63209">
-    <title lang="id">Kisah Viral +62</title>
+  <programme start="20230505124500 +0700" stop="20230505133000 +0700" channel="63192">
+    <title lang="id">Si Unyil</title>
   </programme>
-  <programme start="20230503223000 +0700" stop="20230504000000 +0700" channel="63209">
-    <title lang="id">Legenda Sang Penunggu</title>
+  <programme start="20230505133000 +0700" stop="20230505141500 +0700" channel="63192">
+    <title lang="id">Jejak Anak Negeri</title>
+  </programme>
+  <programme start="20230505141500 +0700" stop="20230505151500 +0700" channel="63192">
+    <title lang="id">Redaksi</title>
+  </programme>
+  <programme start="20230505151500 +0700" stop="20230505161500 +0700" channel="63192">
+    <title lang="id">Jejak Si Gundul</title>
+  </programme>
+  <programme start="20230505161500 +0700" stop="20230505171500 +0700" channel="63192">
+    <title lang="id">Makan Receh</title>
+  </programme>
+  <programme start="20230505171500 +0700" stop="20230505180000 +0700" channel="63192">
+    <title lang="id">Selebrita Expose</title>
+  </programme>
+  <programme start="20230505180000 +0700" stop="20230505190000 +0700" channel="63192">
+    <title lang="id">On The Spot</title>
+  </programme>
+  <programme start="20230505190000 +0700" stop="20230505194500 +0700" channel="63192">
+    <title lang="id">Secret Story</title>
+  </programme>
+  <programme start="20230505194500 +0700" stop="20230505203000 +0700" channel="63192">
+    <title lang="id">POV (Pasti Obrolan Viral)</title>
+  </programme>
+  <programme start="20230505203000 +0700" stop="20230505213000 +0700" channel="63192">
+    <title lang="id">Arisan</title>
+  </programme>
+  <programme start="20230505213000 +0700" stop="20230505224500 +0700" channel="63192">
+    <title lang="id">Lapor Pak!</title>
+  </programme>
+  <programme start="20230505224500 +0700" stop="20230505233000 +0700" channel="63192">
+    <title lang="id">Krim Malam</title>
+  </programme>
+  <programme start="20230505233000 +0700" stop="20230506004500 +0700" channel="63192">
+    <title lang="id">Misteri Dunia</title>
   </programme>
   <programme start="20230504000000 +0700" stop="20230504010000 +0700" channel="63209">
     <title lang="id">Big Movies Platinum</title>
@@ -1121,53 +1073,56 @@
   <programme start="20230504233000 +0700" stop="20230505000000 +0700" channel="63209">
     <title lang="id">Legenda Sang Penunggu</title>
   </programme>
-  <programme start="20230503013000 +0700" stop="20230503033000 +0700" channel="63463">
-    <title lang="id">Mega Film Asia</title>
+  <programme start="20230505000000 +0700" stop="20230505010000 +0700" channel="63209">
+    <title lang="id">Buletin iNews Malam</title>
   </programme>
-  <programme start="20230503033000 +0700" stop="20230503040000 +0700" channel="63463">
-    <title lang="id">Patroli Malam</title>
+  <programme start="20230505010000 +0700" stop="20230505020000 +0700" channel="63209">
+    <title lang="id">iSinema</title>
   </programme>
-  <programme start="20230503040000 +0700" stop="20230503043000 +0700" channel="63463">
-    <title lang="id">Fokus Malam</title>
+  <programme start="20230505020000 +0700" stop="20230505033000 +0700" channel="63209">
+    <title lang="id">iSinema</title>
   </programme>
-  <programme start="20230503043000 +0700" stop="20230503060000 +0700" channel="63463">
-    <title lang="id">Fokus Pagi</title>
+  <programme start="20230505033000 +0700" stop="20230505043000 +0700" channel="63209">
+    <title lang="id">iSinema</title>
   </programme>
-  <programme start="20230503060000 +0700" stop="20230503080000 +0700" channel="63463">
-    <title lang="id">Magic 5</title>
+  <programme start="20230505043000 +0700" stop="20230505053000 +0700" channel="63209">
+    <title lang="id">Buletin iNews Pagi (L)</title>
   </programme>
-  <programme start="20230503080000 +0700" stop="20230503093000 +0700" channel="63463">
-    <title lang="id">Cinta Yang Tak Sederhana</title>
+  <programme start="20230505053000 +0700" stop="20230505060000 +0700" channel="63209">
+    <title lang="id">Obsesi (L)</title>
   </programme>
-  <programme start="20230503093000 +0700" stop="20230503103000 +0700" channel="63463">
-    <title lang="id">Hot Kiss</title>
+  <programme start="20230505060000 +0700" stop="20230505080000 +0700" channel="63209">
+    <title lang="id">SpongeBob SquarePants Movie</title>
   </programme>
-  <programme start="20230503103000 +0700" stop="20230503111500 +0700" channel="63463">
-    <title lang="id">Patroli Siang</title>
+  <programme start="20230505080000 +0700" stop="20230505100000 +0700" channel="63209">
+    <title lang="id">SpongeBob SquarePants Movie</title>
   </programme>
-  <programme start="20230503111500 +0700" stop="20230503120000 +0700" channel="63463">
-    <title lang="id">Fokus Siang</title>
+  <programme start="20230505100000 +0700" stop="20230505103000 +0700" channel="63209">
+    <title lang="id">Buletin iNews Siang (L)</title>
   </programme>
-  <programme start="20230503120000 +0700" stop="20230503140000 +0700" channel="63463">
-    <title lang="id">Pintu Berkah Siang</title>
+  <programme start="20230505103000 +0700" stop="20230505123000 +0700" channel="63209">
+    <title lang="id">SpongeBob SquarePants Movie</title>
   </programme>
-  <programme start="20230503140000 +0700" stop="20230503160000 +0700" channel="63463">
-    <title lang="id">Pintu Berkah Sore</title>
+  <programme start="20230505123000 +0700" stop="20230505150000 +0700" channel="63209">
+    <title lang="id">SpongeBob SquarePants Movie</title>
   </programme>
-  <programme start="20230503160000 +0700" stop="20230503173000 +0700" channel="63463">
-    <title lang="id">Suara Hati Istri</title>
+  <programme start="20230505150000 +0700" stop="20230505173000 +0700" channel="63209">
+    <title lang="id">SpongeBob SquarePants Movie</title>
   </programme>
-  <programme start="20230503173000 +0700" stop="20230503193000 +0700" channel="63463">
-    <title lang="id">Magic 5</title>
+  <programme start="20230505173000 +0700" stop="20230505180000 +0700" channel="63209">
+    <title lang="id">Masquerade</title>
   </programme>
-  <programme start="20230503193000 +0700" stop="20230503210000 +0700" channel="63463">
-    <title lang="id">Cinta Yang Tak Sederhana</title>
+  <programme start="20230505180000 +0700" stop="20230505193000 +0700" channel="63209">
+    <title lang="id">Super Deal Indonesia</title>
   </programme>
-  <programme start="20230503210000 +0700" stop="20230503233000 +0700" channel="63463">
-    <title lang="id">Mega Film Asia</title>
+  <programme start="20230505193000 +0700" stop="20230505223000 +0700" channel="63209">
+    <title lang="id">Kisah Viral +62</title>
   </programme>
-  <programme start="20230503233000 +0700" stop="20230504013000 +0700" channel="63463">
-    <title lang="id">Mega Film Asia</title>
+  <programme start="20230505223000 +0700" stop="20230505233000 +0700" channel="63209">
+    <title lang="id">Deg Deg-An</title>
+  </programme>
+  <programme start="20230505233000 +0700" stop="20230506000000 +0700" channel="63209">
+    <title lang="id">Legenda Sang Penunggu</title>
   </programme>
   <programme start="20230504013000 +0700" stop="20230504033000 +0700" channel="63463">
     <title lang="id">Mega Film Asia</title>
@@ -1217,80 +1172,53 @@
   <programme start="20230504233000 +0700" stop="20230505013000 +0700" channel="63463">
     <title lang="id">Mega Film Asia</title>
   </programme>
-  <programme start="20230503000000 +0700" stop="20230503003000 +0700" channel="63218">
-    <title lang="id">Realita</title>
+  <programme start="20230505013000 +0700" stop="20230505033000 +0700" channel="63463">
+    <title lang="id">Mega Film Asia</title>
   </programme>
-  <programme start="20230503003000 +0700" stop="20230503010000 +0700" channel="63218">
-    <title lang="id">GX</title>
+  <programme start="20230505033000 +0700" stop="20230505040000 +0700" channel="63463">
+    <title lang="id">Patroli Malam</title>
   </programme>
-  <programme start="20230503010000 +0700" stop="20230503025700 +0700" channel="63218">
-    <title lang="id">BWF</title>
+  <programme start="20230505040000 +0700" stop="20230505043000 +0700" channel="63463">
+    <title lang="id">Fokus Malam</title>
   </programme>
-  <programme start="20230503025700 +0700" stop="20230503030000 +0700" channel="63218">
-    <title lang="id">Padamu Negeri</title>
+  <programme start="20230505043000 +0700" stop="20230505060000 +0700" channel="63463">
+    <title lang="id">Fokus Pagi</title>
   </programme>
-  <programme start="20230503030000 +0700" stop="20230503040000 +0700" channel="63218">
-    <title lang="id">iNews Malam</title>
+  <programme start="20230505060000 +0700" stop="20230505080000 +0700" channel="63463">
+    <title lang="id">Magic 5</title>
   </programme>
-  <programme start="20230503040000 +0700" stop="20230503041800 +0700" channel="63218">
-    <title lang="id">Realita</title>
+  <programme start="20230505080000 +0700" stop="20230505093000 +0700" channel="63463">
+    <title lang="id">Cinta Yang Tak Sederhana</title>
   </programme>
-  <programme start="20230503041800 +0700" stop="20230503042000 +0700" channel="63218">
-    <title lang="id">Indonesia Raya</title>
+  <programme start="20230505093000 +0700" stop="20230505103000 +0700" channel="63463">
+    <title lang="id">BestKiss</title>
   </programme>
-  <programme start="20230503042000 +0700" stop="20230503060000 +0700" channel="63218">
-    <title lang="id">iNews Pagi (L)</title>
+  <programme start="20230505103000 +0700" stop="20230505111500 +0700" channel="63463">
+    <title lang="id">Patroli Siang</title>
   </programme>
-  <programme start="20230503060000 +0700" stop="20230503070000 +0700" channel="63218">
-    <title lang="id">Special Report</title>
+  <programme start="20230505111500 +0700" stop="20230505120000 +0700" channel="63463">
+    <title lang="id">Fokus Siang</title>
   </programme>
-  <programme start="20230503070000 +0700" stop="20230503080000 +0700" channel="63218">
-    <title lang="id">Morning Update</title>
+  <programme start="20230505120000 +0700" stop="20230505140000 +0700" channel="63463">
+    <title lang="id">Pintu Berkah Siang</title>
   </programme>
-  <programme start="20230503080000 +0700" stop="20230503083000 +0700" channel="63218">
-    <title lang="id">OMG</title>
+  <programme start="20230505140000 +0700" stop="20230505160000 +0700" channel="63463">
+    <title lang="id">Pintu Berkah Sore</title>
   </programme>
-  <programme start="20230503083000 +0700" stop="20230503090000 +0700" channel="63218">
-    <title lang="id">Sergap</title>
+  <programme start="20230505160000 +0700" stop="20230505173000 +0700" channel="63463">
+    <title lang="id">Suara Hati Istri</title>
   </programme>
-  <programme start="20230503090000 +0700" stop="20230503100000 +0700" channel="63218">
-    <title lang="id">Lapor Polisi! (L)</title>
+  <programme start="20230505173000 +0700" stop="20230505193000 +0700" channel="63463">
+    <title lang="id">Magic 5</title>
   </programme>
-  <programme start="20230503100000 +0700" stop="20230503110000 +0700" channel="63218">
-    <title lang="id">iNews Today (L)</title>
+  <programme start="20230505193000 +0700" stop="20230505210000 +0700" channel="63463">
+    <title lang="id">Cinta Yang Tak Sederhana</title>
   </programme>
-  <programme start="20230503110000 +0700" stop="20230503121500 +0700" channel="63218">
-    <title lang="id">iNews Siang (L)</title>
+  <programme start="20230505210000 +0700" stop="20230505233000 +0700" channel="63463">
+    <title lang="id">Mega Film Asia</title>
   </programme>
-  <programme start="20230503121500 +0700" stop="20230503130000 +0700" channel="63218">
-    <title lang="id">Silet</title>
-  </programme>
-  <programme start="20230503130000 +0700" stop="20230503140000 +0700" channel="63218">
-    <title lang="id">Intens Reborn</title>
-  </programme>
-  <programme start="20230503140000 +0700" stop="20230503150000 +0700" channel="63218">
-    <title lang="id">iSeleb (L)</title>
-  </programme>
-  <programme start="20230503150000 +0700" stop="20230503155000 +0700" channel="63218">
-    <title lang="id">Realita (L)</title>
-  </programme>
-  <programme start="20230503155000 +0700" stop="20230503180000 +0700" channel="63218">
-    <title lang="id">iNews TV</title>
-  </programme>
-  <programme start="20230503180000 +0700" stop="20230503185000 +0700" channel="63218">
-    <title lang="id">New Top Files</title>
-  </programme>
-  <programme start="20230503185000 +0700" stop="20230503210000 +0700" channel="63218">
-    <title lang="id">iNews TV</title>
-  </programme>
-  <programme start="20230503210000 +0700" stop="20230503220000 +0700" channel="63218">
-    <title lang="id">The Prime Show With Aiman</title>
-  </programme>
-  <programme start="20230503220000 +0700" stop="20230503230000 +0700" channel="63218">
-    <title lang="id">Konspirasi Prabu</title>
-  </programme>
-  <programme start="20230503230000 +0700" stop="20230504000000 +0700" channel="63218">
-    <title lang="id">iNews Malam (L)</title>
+  <programme start="20230505233000 +0700" stop="20230506013000 +0700" channel="63463">
+    <title lang="id">Mega Film Asia</title>
   </programme>
   <programme start="20230504000000 +0700" stop="20230504003000 +0700" channel="63218">
     <title lang="id">Realita</title>
@@ -1367,47 +1295,86 @@
   <programme start="20230504230000 +0700" stop="20230505000000 +0700" channel="63218">
     <title lang="id">Sergap</title>
   </programme>
-  <programme start="20230503023000 +0700" stop="20230503030000 +0700" channel="63133">
-    <title lang="id">Naturally Delicious</title>
+  <programme start="20230505000000 +0700" stop="20230505003000 +0700" channel="63218">
+    <title lang="id">Realita</title>
   </programme>
-  <programme start="20230503030000 +0700" stop="20230503060000 +0700" channel="63133">
-    <title lang="id">Akaash Vani</title>
+  <programme start="20230505003000 +0700" stop="20230505010000 +0700" channel="63218">
+    <title lang="id">GX</title>
   </programme>
-  <programme start="20230503060000 +0700" stop="20230503090000 +0700" channel="63133">
-    <title lang="id">Strangers</title>
+  <programme start="20230505010000 +0700" stop="20230505025700 +0700" channel="63218">
+    <title lang="id">BWF</title>
   </programme>
-  <programme start="20230503090000 +0700" stop="20230503100000 +0700" channel="63133">
-    <title lang="id">Gangaa S1</title>
+  <programme start="20230505025700 +0700" stop="20230505030000 +0700" channel="63218">
+    <title lang="id">Padamu Negeri</title>
   </programme>
-  <programme start="20230503100000 +0700" stop="20230503110000 +0700" channel="63133">
-    <title lang="id">Smash Cinta</title>
+  <programme start="20230505030000 +0700" stop="20230505040000 +0700" channel="63218">
+    <title lang="id">iNews Malam</title>
   </programme>
-  <programme start="20230503110000 +0700" stop="20230503120000 +0700" channel="63133">
-    <title lang="id">Ishq Subhan Allah</title>
+  <programme start="20230505040000 +0700" stop="20230505041800 +0700" channel="63218">
+    <title lang="id">Realita</title>
   </programme>
-  <programme start="20230503120000 +0700" stop="20230503123000 +0700" channel="63133">
-    <title lang="id">Naturally Delicious</title>
+  <programme start="20230505041800 +0700" stop="20230505042000 +0700" channel="63218">
+    <title lang="id">Indonesia Raya</title>
   </programme>
-  <programme start="20230503123000 +0700" stop="20230503150000 +0700" channel="63133">
-    <title lang="id">Black &amp; White</title>
+  <programme start="20230505042000 +0700" stop="20230505060000 +0700" channel="63218">
+    <title lang="id">iNews Pagi (L)</title>
   </programme>
-  <programme start="20230503150000 +0700" stop="20230503160000 +0700" channel="63133">
-    <title lang="id">Gangaa</title>
+  <programme start="20230505060000 +0700" stop="20230505070000 +0700" channel="63218">
+    <title lang="id">Special Report</title>
   </programme>
-  <programme start="20230503160000 +0700" stop="20230503170000 +0700" channel="63133">
-    <title lang="id">Smash Cinta</title>
+  <programme start="20230505070000 +0700" stop="20230505080000 +0700" channel="63218">
+    <title lang="id">Morning Update</title>
   </programme>
-  <programme start="20230503170000 +0700" stop="20230503180000 +0700" channel="63133">
-    <title lang="id">Ishq Subhan Allah</title>
+  <programme start="20230505080000 +0700" stop="20230505083000 +0700" channel="63218">
+    <title lang="id">OMG</title>
   </programme>
-  <programme start="20230503180000 +0700" stop="20230503203000 +0700" channel="63133">
-    <title lang="id">Bombay To Bangkok</title>
+  <programme start="20230505083000 +0700" stop="20230505090000 +0700" channel="63218">
+    <title lang="id">Aksi Dewan</title>
   </programme>
-  <programme start="20230503203000 +0700" stop="20230503233000 +0700" channel="63133">
-    <title lang="id">Aao Pyar Karen</title>
+  <programme start="20230505090000 +0700" stop="20230505100000 +0700" channel="63218">
+    <title lang="id">Lapor Polisi! (L)</title>
   </programme>
-  <programme start="20230503233000 +0700" stop="20230504023000 +0700" channel="63133">
-    <title lang="id">Khiladi 786</title>
+  <programme start="20230505100000 +0700" stop="20230505110000 +0700" channel="63218">
+    <title lang="id">iNews Today (L)</title>
+  </programme>
+  <programme start="20230505110000 +0700" stop="20230505121500 +0700" channel="63218">
+    <title lang="id">iNews Siang (L)</title>
+  </programme>
+  <programme start="20230505121500 +0700" stop="20230505130000 +0700" channel="63218">
+    <title lang="id">Silet</title>
+  </programme>
+  <programme start="20230505130000 +0700" stop="20230505140000 +0700" channel="63218">
+    <title lang="id">Intens Reborn</title>
+  </programme>
+  <programme start="20230505140000 +0700" stop="20230505150000 +0700" channel="63218">
+    <title lang="id">iSeleb (L)</title>
+  </programme>
+  <programme start="20230505150000 +0700" stop="20230505160000 +0700" channel="63218">
+    <title lang="id">Realita (L)</title>
+  </programme>
+  <programme start="20230505160000 +0700" stop="20230505170000 +0700" channel="63218">
+    <title lang="id">iNews Sore (L)</title>
+  </programme>
+  <programme start="20230505170000 +0700" stop="20230505180000 +0700" channel="63218">
+    <title lang="id">iNews Room (L)</title>
+  </programme>
+  <programme start="20230505180000 +0700" stop="20230505190000 +0700" channel="63218">
+    <title lang="id">New Top Files</title>
+  </programme>
+  <programme start="20230505190000 +0700" stop="20230505200000 +0700" channel="63218">
+    <title lang="id">Inside</title>
+  </programme>
+  <programme start="20230505200000 +0700" stop="20230505210000 +0700" channel="63218">
+    <title lang="id">OMG</title>
+  </programme>
+  <programme start="20230505210000 +0700" stop="20230505220000 +0700" channel="63218">
+    <title lang="id">iNews Prime (L)</title>
+  </programme>
+  <programme start="20230505220000 +0700" stop="20230505230000 +0700" channel="63218">
+    <title lang="id">iNews Malam (L)</title>
+  </programme>
+  <programme start="20230505230000 +0700" stop="20230506000000 +0700" channel="63218">
+    <title lang="id">Sergap</title>
   </programme>
   <programme start="20230504023000 +0700" stop="20230504030000 +0700" channel="63133">
     <title lang="id">Naturally Delicious</title>
@@ -1451,50 +1418,47 @@
   <programme start="20230504233000 +0700" stop="20230505023000 +0700" channel="63133">
     <title lang="id">Zero</title>
   </programme>
-  <programme start="20230503012000 +0700" stop="20230503025000 +0700" channel="63128">
-    <title lang="id">Paris Countdown</title>
+  <programme start="20230505023000 +0700" stop="20230505030000 +0700" channel="63133">
+    <title lang="id">Naturally Delicious</title>
   </programme>
-  <programme start="20230503025000 +0700" stop="20230503043500 +0700" channel="63128">
-    <title lang="id">Blood Money</title>
+  <programme start="20230505030000 +0700" stop="20230505060000 +0700" channel="63133">
+    <title lang="id">No Entry</title>
   </programme>
-  <programme start="20230503043500 +0700" stop="20230503061000 +0700" channel="63128">
-    <title lang="id">The Barrens</title>
+  <programme start="20230505060000 +0700" stop="20230505090000 +0700" channel="63133">
+    <title lang="id">Inteqam: The Perfect Game</title>
   </programme>
-  <programme start="20230503061000 +0700" stop="20230503073500 +0700" channel="63128">
-    <title lang="id">Road To Paloma</title>
+  <programme start="20230505090000 +0700" stop="20230505100000 +0700" channel="63133">
+    <title lang="id">Gangaa S1</title>
   </programme>
-  <programme start="20230503073500 +0700" stop="20230503092500 +0700" channel="63128">
-    <title lang="id">The Fourth State</title>
+  <programme start="20230505100000 +0700" stop="20230505110000 +0700" channel="63133">
+    <title lang="id">Smash Cinta</title>
   </programme>
-  <programme start="20230503092500 +0700" stop="20230503113000 +0700" channel="63128">
-    <title lang="id">12 Strong</title>
+  <programme start="20230505110000 +0700" stop="20230505120000 +0700" channel="63133">
+    <title lang="id">Ishq Subhan Allah</title>
   </programme>
-  <programme start="20230503113000 +0700" stop="20230503125500 +0700" channel="63128">
-    <title lang="id">Stung</title>
+  <programme start="20230505120000 +0700" stop="20230505123000 +0700" channel="63133">
+    <title lang="id">Snack Attack</title>
   </programme>
-  <programme start="20230503125500 +0700" stop="20230503141500 +0700" channel="63128">
-    <title lang="id">Temple</title>
+  <programme start="20230505123000 +0700" stop="20230505150000 +0700" channel="63133">
+    <title lang="id">Janasheen</title>
   </programme>
-  <programme start="20230503141500 +0700" stop="20230503155000 +0700" channel="63128">
-    <title lang="id">Texas Killing Fields</title>
+  <programme start="20230505150000 +0700" stop="20230505160000 +0700" channel="63133">
+    <title lang="id">Gangaa</title>
   </programme>
-  <programme start="20230503155000 +0700" stop="20230503171500 +0700" channel="63128">
-    <title lang="id">The Butterfly Room</title>
+  <programme start="20230505160000 +0700" stop="20230505170000 +0700" channel="63133">
+    <title lang="id">Smash Cinta</title>
   </programme>
-  <programme start="20230503171500 +0700" stop="20230503190000 +0700" channel="63128">
-    <title lang="id">Friends With Kids</title>
+  <programme start="20230505170000 +0700" stop="20230505180000 +0700" channel="63133">
+    <title lang="id">Ishq Subhan Allah</title>
   </programme>
-  <programme start="20230503190000 +0700" stop="20230503204500 +0700" channel="63128">
-    <title lang="id">Spring</title>
+  <programme start="20230505180000 +0700" stop="20230505203000 +0700" channel="63133">
+    <title lang="id">My Name Is Anthony Gonsalves</title>
   </programme>
-  <programme start="20230503204500 +0700" stop="20230503222500 +0700" channel="63128">
-    <title lang="id">Kill The Irishman</title>
+  <programme start="20230505203000 +0700" stop="20230505233000 +0700" channel="63133">
+    <title lang="id">London Dreams</title>
   </programme>
-  <programme start="20230503222500 +0700" stop="20230503235500 +0700" channel="63128">
-    <title lang="id">The Courier</title>
-  </programme>
-  <programme start="20230503235500 +0700" stop="20230504011500 +0700" channel="63128">
-    <title lang="id">Knight Of Badassdom</title>
+  <programme start="20230505233000 +0700" stop="20230506023000 +0700" channel="63133">
+    <title lang="id">Akaash Vani</title>
   </programme>
   <programme start="20230504011500 +0700" stop="20230504025000 +0700" channel="63128">
     <title lang="id">The Rambler</title>
@@ -1541,50 +1505,50 @@
   <programme start="20230504232500 +0700" stop="20230505010500 +0700" channel="63128">
     <title lang="id">Conan</title>
   </programme>
-  <programme start="20230503015000 +0700" stop="20230503033500 +0700" channel="63183">
-    <title lang="id">Pitch Black</title>
+  <programme start="20230505010500 +0700" stop="20230505023500 +0700" channel="63128">
+    <title lang="id">One In The Chamber</title>
   </programme>
-  <programme start="20230503033500 +0700" stop="20230503040500 +0700" channel="63183">
-    <title lang="id">Hollywood On Set S1</title>
+  <programme start="20230505023500 +0700" stop="20230505040000 +0700" channel="63128">
+    <title lang="id">Long Weekend</title>
   </programme>
-  <programme start="20230503040500 +0700" stop="20230503054500 +0700" channel="63183">
-    <title lang="id">Land Of The Lost</title>
+  <programme start="20230505040000 +0700" stop="20230505054500 +0700" channel="63128">
+    <title lang="id">Spring</title>
   </programme>
-  <programme start="20230503054500 +0700" stop="20230503074500 +0700" channel="63183">
-    <title lang="id">Red Dragon</title>
+  <programme start="20230505054500 +0700" stop="20230505072500 +0700" channel="63128">
+    <title lang="id">Kill The Irishman</title>
   </programme>
-  <programme start="20230503074500 +0700" stop="20230503094000 +0700" channel="63183">
-    <title lang="id">The Man From U.N.C.L.E.</title>
+  <programme start="20230505072500 +0700" stop="20230505091000 +0700" channel="63128">
+    <title lang="id">Blood Money</title>
   </programme>
-  <programme start="20230503094000 +0700" stop="20230503114000 +0700" channel="63183">
-    <title lang="id">Hellboy 2: The Golden Army</title>
+  <programme start="20230505091000 +0700" stop="20230505104500 +0700" channel="63128">
+    <title lang="id">The Barrens</title>
   </programme>
-  <programme start="20230503114000 +0700" stop="20230503133500 +0700" channel="63183">
-    <title lang="id">Jarhead</title>
+  <programme start="20230505104500 +0700" stop="20230505121000 +0700" channel="63128">
+    <title lang="id">Road To Paloma</title>
   </programme>
-  <programme start="20230503133500 +0700" stop="20230503152000 +0700" channel="63183">
-    <title lang="id">Forces Of Nature</title>
+  <programme start="20230505121000 +0700" stop="20230505140000 +0700" channel="63128">
+    <title lang="id">The Fourth State</title>
   </programme>
-  <programme start="20230503152000 +0700" stop="20230503155000 +0700" channel="63183">
-    <title lang="id">Hollywood On Set S1</title>
+  <programme start="20230505140000 +0700" stop="20230505160500 +0700" channel="63128">
+    <title lang="id">12 Strong</title>
   </programme>
-  <programme start="20230503155000 +0700" stop="20230503174000 +0700" channel="63183">
-    <title lang="id">Happy Feet</title>
+  <programme start="20230505160500 +0700" stop="20230505173000 +0700" channel="63128">
+    <title lang="id">Stung</title>
   </programme>
-  <programme start="20230503174000 +0700" stop="20230503191500 +0700" channel="63183">
-    <title lang="id">Legally Blonde</title>
+  <programme start="20230505173000 +0700" stop="20230505190000 +0700" channel="63128">
+    <title lang="id">Holy Ghost People</title>
   </programme>
-  <programme start="20230503191500 +0700" stop="20230503210000 +0700" channel="63183">
-    <title lang="id">Abduction</title>
+  <programme start="20230505190000 +0700" stop="20230505211000 +0700" channel="63128">
+    <title lang="id">Only The Brave</title>
   </programme>
-  <programme start="20230503210000 +0700" stop="20230503223000 +0700" channel="63183">
-    <title lang="id">The Offering</title>
+  <programme start="20230505211000 +0700" stop="20230505223500 +0700" channel="63128">
+    <title lang="id">Cleaner</title>
   </programme>
-  <programme start="20230503223000 +0700" stop="20230503233000 +0700" channel="63183">
-    <title lang="id">Succession</title>
+  <programme start="20230505223500 +0700" stop="20230505235500 +0700" channel="63128">
+    <title lang="id">Temple</title>
   </programme>
-  <programme start="20230503233000 +0700" stop="20230504000000 +0700" channel="63183">
-    <title lang="id">Barry</title>
+  <programme start="20230505235500 +0700" stop="20230506013000 +0700" channel="63128">
+    <title lang="id">Texas Killing Fields</title>
   </programme>
   <programme start="20230504000000 +0700" stop="20230504003000 +0700" channel="63183">
     <title lang="id">Somebody Somewhere</title>
@@ -1631,50 +1595,44 @@
   <programme start="20230504235500 +0700" stop="20230505014000 +0700" channel="63183">
     <title lang="id">Saw</title>
   </programme>
-  <programme start="20230503015000 +0700" stop="20230503033500 +0700" channel="63211">
-    <title lang="id">Pitch Black</title>
+  <programme start="20230505014000 +0700" stop="20230505034000 +0700" channel="63183">
+    <title lang="id">Hot Fuzz</title>
   </programme>
-  <programme start="20230503033500 +0700" stop="20230503040500 +0700" channel="63211">
-    <title lang="id">Hollywood On Set S1</title>
+  <programme start="20230505034000 +0700" stop="20230505051000 +0700" channel="63183">
+    <title lang="id">Jumper</title>
   </programme>
-  <programme start="20230503040500 +0700" stop="20230503054500 +0700" channel="63211">
-    <title lang="id">Land Of The Lost</title>
+  <programme start="20230505051000 +0700" stop="20230505071000 +0700" channel="63183">
+    <title lang="id">The Five-Year Engagement</title>
   </programme>
-  <programme start="20230503054500 +0700" stop="20230503074500 +0700" channel="63211">
-    <title lang="id">Red Dragon</title>
+  <programme start="20230505071000 +0700" stop="20230505085500 +0700" channel="63183">
+    <title lang="id">Get Out</title>
   </programme>
-  <programme start="20230503074500 +0700" stop="20230503094000 +0700" channel="63211">
-    <title lang="id">The Man From U.N.C.L.E.</title>
+  <programme start="20230505085500 +0700" stop="20230505104000 +0700" channel="63183">
+    <title lang="id">Contraband</title>
   </programme>
-  <programme start="20230503094000 +0700" stop="20230503114000 +0700" channel="63211">
-    <title lang="id">Hellboy 2: The Golden Army</title>
+  <programme start="20230505104000 +0700" stop="20230505121500 +0700" channel="63183">
+    <title lang="id">Evan Almighty</title>
   </programme>
-  <programme start="20230503114000 +0700" stop="20230503133500 +0700" channel="63211">
-    <title lang="id">Jarhead</title>
+  <programme start="20230505121500 +0700" stop="20230505135000 +0700" channel="63183">
+    <title lang="id">Hancock</title>
   </programme>
-  <programme start="20230503133500 +0700" stop="20230503152000 +0700" channel="63211">
-    <title lang="id">Forces Of Nature</title>
+  <programme start="20230505135000 +0700" stop="20230505155000 +0700" channel="63183">
+    <title lang="id">Hot Fuzz</title>
   </programme>
-  <programme start="20230503152000 +0700" stop="20230503155000 +0700" channel="63211">
-    <title lang="id">Hollywood On Set S1</title>
+  <programme start="20230505155000 +0700" stop="20230505175500 +0700" channel="63183">
+    <title lang="id">Ocean's Twelve</title>
   </programme>
-  <programme start="20230503155000 +0700" stop="20230503174000 +0700" channel="63211">
-    <title lang="id">Happy Feet</title>
+  <programme start="20230505175500 +0700" stop="20230505200000 +0700" channel="63183">
+    <title lang="id">Mission: Impossible 2</title>
   </programme>
-  <programme start="20230503174000 +0700" stop="20230503191500 +0700" channel="63211">
-    <title lang="id">Legally Blonde</title>
+  <programme start="20230505200000 +0700" stop="20230505220500 +0700" channel="63183">
+    <title lang="id">Mission: Impossible 3</title>
   </programme>
-  <programme start="20230503191500 +0700" stop="20230503210000 +0700" channel="63211">
-    <title lang="id">Abduction</title>
+  <programme start="20230505220500 +0700" stop="20230505234500 +0700" channel="63183">
+    <title lang="id">Annabelle</title>
   </programme>
-  <programme start="20230503210000 +0700" stop="20230503223000 +0700" channel="63211">
-    <title lang="id">The Offering</title>
-  </programme>
-  <programme start="20230503223000 +0700" stop="20230503233000 +0700" channel="63211">
-    <title lang="id">Succession</title>
-  </programme>
-  <programme start="20230503233000 +0700" stop="20230504000000 +0700" channel="63211">
-    <title lang="id">Barry</title>
+  <programme start="20230505234500 +0700" stop="20230506012000 +0700" channel="63183">
+    <title lang="id">My Son</title>
   </programme>
   <programme start="20230504000000 +0700" stop="20230504003000 +0700" channel="63211">
     <title lang="id">Somebody Somewhere</title>
@@ -1721,74 +1679,44 @@
   <programme start="20230504235500 +0700" stop="20230505014000 +0700" channel="63211">
     <title lang="id">Saw</title>
   </programme>
-  <programme start="20230503000500 +0700" stop="20230503003500 +0700" channel="63445">
-    <title lang="id">Sesame Street</title>
+  <programme start="20230505014000 +0700" stop="20230505034000 +0700" channel="63211">
+    <title lang="id">Hot Fuzz</title>
   </programme>
-  <programme start="20230503003500 +0700" stop="20230503010000 +0700" channel="63445">
-    <title lang="id">Malory Towers</title>
+  <programme start="20230505034000 +0700" stop="20230505051000 +0700" channel="63211">
+    <title lang="id">Jumper</title>
   </programme>
-  <programme start="20230503010000 +0700" stop="20230503012500 +0700" channel="63445">
-    <title lang="id">Malory Towers</title>
+  <programme start="20230505051000 +0700" stop="20230505071000 +0700" channel="63211">
+    <title lang="id">The Five-Year Engagement</title>
   </programme>
-  <programme start="20230503012500 +0700" stop="20230503015000 +0700" channel="63445">
-    <title lang="id">Happily Ever After</title>
+  <programme start="20230505071000 +0700" stop="20230505085500 +0700" channel="63211">
+    <title lang="id">Get Out</title>
   </programme>
-  <programme start="20230503015000 +0700" stop="20230503022000 +0700" channel="63445">
-    <title lang="id">Happily Ever After</title>
+  <programme start="20230505085500 +0700" stop="20230505104000 +0700" channel="63211">
+    <title lang="id">Contraband</title>
   </programme>
-  <programme start="20230503022000 +0700" stop="20230503041000 +0700" channel="63445">
-    <title lang="id">Pitch Perfect</title>
+  <programme start="20230505104000 +0700" stop="20230505121500 +0700" channel="63211">
+    <title lang="id">Evan Almighty</title>
   </programme>
-  <programme start="20230503041000 +0700" stop="20230503053500 +0700" channel="63445">
-    <title lang="id">Christmas Takes Flight</title>
+  <programme start="20230505121500 +0700" stop="20230505135000 +0700" channel="63211">
+    <title lang="id">Hancock</title>
   </programme>
-  <programme start="20230503053500 +0700" stop="20230503070000 +0700" channel="63445">
-    <title lang="id">Crashbox</title>
+  <programme start="20230505135000 +0700" stop="20230505155000 +0700" channel="63211">
+    <title lang="id">Hot Fuzz</title>
   </programme>
-  <programme start="20230503070000 +0700" stop="20230503073000 +0700" channel="63445">
-    <title lang="id">Malory Towers</title>
+  <programme start="20230505155000 +0700" stop="20230505175500 +0700" channel="63211">
+    <title lang="id">Ocean's Twelve</title>
   </programme>
-  <programme start="20230503073000 +0700" stop="20230503090000 +0700" channel="63445">
-    <title lang="id">Malory Towers</title>
+  <programme start="20230505175500 +0700" stop="20230505200000 +0700" channel="63211">
+    <title lang="id">Mission: Impossible 2</title>
   </programme>
-  <programme start="20230503090000 +0700" stop="20230503092500 +0700" channel="63445">
-    <title lang="id">Sesame Street</title>
+  <programme start="20230505200000 +0700" stop="20230505220500 +0700" channel="63211">
+    <title lang="id">Mission: Impossible 3</title>
   </programme>
-  <programme start="20230503092500 +0700" stop="20230503095500 +0700" channel="63445">
-    <title lang="id">Sesame Street</title>
+  <programme start="20230505220500 +0700" stop="20230505234500 +0700" channel="63211">
+    <title lang="id">Annabelle</title>
   </programme>
-  <programme start="20230503095500 +0700" stop="20230503113500 +0700" channel="63445">
-    <title lang="id">Summer Days, Summer Nights</title>
-  </programme>
-  <programme start="20230503113500 +0700" stop="20230503120500 +0700" channel="63445">
-    <title lang="id">Happily Ever After</title>
-  </programme>
-  <programme start="20230503120500 +0700" stop="20230503140000 +0700" channel="63445">
-    <title lang="id">Patch Adams</title>
-  </programme>
-  <programme start="20230503140000 +0700" stop="20230503143000 +0700" channel="63445">
-    <title lang="id">Malory Towers</title>
-  </programme>
-  <programme start="20230503143000 +0700" stop="20230503170000 +0700" channel="63445">
-    <title lang="id">Malory Towers</title>
-  </programme>
-  <programme start="20230503170000 +0700" stop="20230503173000 +0700" channel="63445">
-    <title lang="id">Sesame Street</title>
-  </programme>
-  <programme start="20230503173000 +0700" stop="20230503180000 +0700" channel="63445">
-    <title lang="id">Sesame Street</title>
-  </programme>
-  <programme start="20230503180000 +0700" stop="20230503193500 +0700" channel="63445">
-    <title lang="id">Megamind</title>
-  </programme>
-  <programme start="20230503193500 +0700" stop="20230503214000 +0700" channel="63445">
-    <title lang="id">About Time</title>
-  </programme>
-  <programme start="20230503214000 +0700" stop="20230503233000 +0700" channel="63445">
-    <title lang="id">Pitch Perfect</title>
-  </programme>
-  <programme start="20230503233000 +0700" stop="20230504000000 +0700" channel="63445">
-    <title lang="id">Sesame Street</title>
+  <programme start="20230505234500 +0700" stop="20230506012000 +0700" channel="63211">
+    <title lang="id">My Son</title>
   </programme>
   <programme start="20230504000000 +0700" stop="20230504003000 +0700" channel="63445">
     <title lang="id">Sesame Street</title>
@@ -1862,47 +1790,77 @@
   <programme start="20230504235000 +0700" stop="20230505001500 +0700" channel="63445">
     <title lang="id">Malory Towers</title>
   </programme>
-  <programme start="20230503000500 +0700" stop="20230503022500 +0700" channel="63145">
-    <title lang="id">Everything Everywhere All At...</title>
+  <programme start="20230505001500 +0700" stop="20230505004500 +0700" channel="63445">
+    <title lang="id">Malory Towers</title>
   </programme>
-  <programme start="20230503022500 +0700" stop="20230503044500 +0700" channel="63145">
-    <title lang="id">The Amazing Spider-Man 2</title>
+  <programme start="20230505004500 +0700" stop="20230505011000 +0700" channel="63445">
+    <title lang="id">Happily Ever After</title>
   </programme>
-  <programme start="20230503044500 +0700" stop="20230503061500 +0700" channel="63145">
-    <title lang="id">Hotel Transylvania 2</title>
+  <programme start="20230505011000 +0700" stop="20230505014000 +0700" channel="63445">
+    <title lang="id">Happily Ever After</title>
   </programme>
-  <programme start="20230503061500 +0700" stop="20230503075000 +0700" channel="63145">
-    <title lang="id">Legally Blonde 2: Red, White...</title>
+  <programme start="20230505014000 +0700" stop="20230505030000 +0700" channel="63445">
+    <title lang="id">A Dog Year</title>
   </programme>
-  <programme start="20230503075000 +0700" stop="20230503082000 +0700" channel="63145">
-    <title lang="id">Hollywood On Set S1</title>
+  <programme start="20230505030000 +0700" stop="20230505033000 +0700" channel="63445">
+    <title lang="id">Crashbox</title>
   </programme>
-  <programme start="20230503082000 +0700" stop="20230503102000 +0700" channel="63145">
-    <title lang="id">Steve Jobs</title>
+  <programme start="20230505033000 +0700" stop="20230505054000 +0700" channel="63445">
+    <title lang="id">Bicentennial Man</title>
   </programme>
-  <programme start="20230503102000 +0700" stop="20230503124500 +0700" channel="63145">
-    <title lang="id">Fantastic Beasts: Dumbledore</title>
+  <programme start="20230505054000 +0700" stop="20230505072500 +0700" channel="63445">
+    <title lang="id">Hollywood On Set</title>
   </programme>
-  <programme start="20230503124500 +0700" stop="20230503143500 +0700" channel="63145">
-    <title lang="id">Last Looks</title>
+  <programme start="20230505072500 +0700" stop="20230505075000 +0700" channel="63445">
+    <title lang="id">Malory Towers</title>
   </programme>
-  <programme start="20230503143500 +0700" stop="20230503160500 +0700" channel="63145">
-    <title lang="id">Kung Fu Panda 2</title>
+  <programme start="20230505075000 +0700" stop="20230505092500 +0700" channel="63445">
+    <title lang="id">Malory Towers</title>
   </programme>
-  <programme start="20230503160500 +0700" stop="20230503181000 +0700" channel="63145">
-    <title lang="id">Steve Jobs</title>
+  <programme start="20230505092500 +0700" stop="20230505095500 +0700" channel="63445">
+    <title lang="id">Sesame Street</title>
   </programme>
-  <programme start="20230503181000 +0700" stop="20230503194000 +0700" channel="63145">
-    <title lang="id">Cloverfield</title>
+  <programme start="20230505095500 +0700" stop="20230505102500 +0700" channel="63445">
+    <title lang="id">Sesame Street</title>
   </programme>
-  <programme start="20230503194000 +0700" stop="20230503220000 +0700" channel="63145">
-    <title lang="id">The Amazing Spider-Man 2</title>
+  <programme start="20230505102500 +0700" stop="20230505115000 +0700" channel="63445">
+    <title lang="id">PAW Patrol: The Movie</title>
   </programme>
-  <programme start="20230503220000 +0700" stop="20230503234000 +0700" channel="63145">
-    <title lang="id">Fortress: Sniper's Eye</title>
+  <programme start="20230505115000 +0700" stop="20230505140000 +0700" channel="63445">
+    <title lang="id">Fantastic Beasts: Grindelwald</title>
   </programme>
-  <programme start="20230503234000 +0700" stop="20230504011500 +0700" channel="63145">
-    <title lang="id">Legally Blonde 2: Red, White...</title>
+  <programme start="20230505140000 +0700" stop="20230505143000 +0700" channel="63445">
+    <title lang="id">Malory Towers</title>
+  </programme>
+  <programme start="20230505143000 +0700" stop="20230505170000 +0700" channel="63445">
+    <title lang="id">Malory Towers</title>
+  </programme>
+  <programme start="20230505170000 +0700" stop="20230505173000 +0700" channel="63445">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20230505173000 +0700" stop="20230505180000 +0700" channel="63445">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20230505180000 +0700" stop="20230505192500 +0700" channel="63445">
+    <title lang="id">King Tweety</title>
+  </programme>
+  <programme start="20230505192500 +0700" stop="20230505205500 +0700" channel="63445">
+    <title lang="id">TMNT</title>
+  </programme>
+  <programme start="20230505205500 +0700" stop="20230505222500 +0700" channel="63445">
+    <title lang="id">Bee Movie</title>
+  </programme>
+  <programme start="20230505222500 +0700" stop="20230505225500 +0700" channel="63445">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20230505225500 +0700" stop="20230505232500 +0700" channel="63445">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20230505232500 +0700" stop="20230505235000 +0700" channel="63445">
+    <title lang="id">Malory Towers</title>
+  </programme>
+  <programme start="20230505235000 +0700" stop="20230506002000 +0700" channel="63445">
+    <title lang="id">Malory Towers</title>
   </programme>
   <programme start="20230504011500 +0700" stop="20230504030000 +0700" channel="63145">
     <title lang="id">Eternal Sunshine Of Spotless...</title>
@@ -1943,53 +1901,41 @@
   <programme start="20230504235000 +0700" stop="20230505012500 +0700" channel="63145">
     <title lang="id">The Cold Light Of Day</title>
   </programme>
-  <programme start="20230503010000 +0700" stop="20230503030000 +0700" channel="63203">
-    <title lang="id">Crazy, Not Insane</title>
+  <programme start="20230505012500 +0700" stop="20230505034500 +0700" channel="63145">
+    <title lang="id">The Karate Kid</title>
   </programme>
-  <programme start="20230503030000 +0700" stop="20230503050000 +0700" channel="63203">
-    <title lang="id">Last Night In Soho</title>
+  <programme start="20230505034500 +0700" stop="20230505052000 +0700" channel="63145">
+    <title lang="id">R.I.P.D.</title>
   </programme>
-  <programme start="20230503050000 +0700" stop="20230503062500 +0700" channel="63203">
-    <title lang="id">The Day Sports Stood Still</title>
+  <programme start="20230505052000 +0700" stop="20230505075000 +0700" channel="63145">
+    <title lang="id">Harry Potter &amp; Sorcerer's Stone</title>
   </programme>
-  <programme start="20230503062500 +0700" stop="20230503080000 +0700" channel="63203">
-    <title lang="id">The Second Civil War</title>
+  <programme start="20230505075000 +0700" stop="20230505095000 +0700" channel="63145">
+    <title lang="id">Snake Eyes: G.I. Joe Origins</title>
   </programme>
-  <programme start="20230503080000 +0700" stop="20230503094000 +0700" channel="63203">
-    <title lang="id">Jersey Girl</title>
+  <programme start="20230505095000 +0700" stop="20230505112500 +0700" channel="63145">
+    <title lang="id">Clueless</title>
   </programme>
-  <programme start="20230503094000 +0700" stop="20230503113000 +0700" channel="63203">
-    <title lang="id">Scott Pilgrim Vs The World</title>
+  <programme start="20230505112500 +0700" stop="20230505130000 +0700" channel="63145">
+    <title lang="id">Dracula Untold</title>
   </programme>
-  <programme start="20230503113000 +0700" stop="20230503123000 +0700" channel="63203">
-    <title lang="id">Succession</title>
+  <programme start="20230505130000 +0700" stop="20230505143500 +0700" channel="63145">
+    <title lang="id">R.I.P.D.</title>
   </programme>
-  <programme start="20230503123000 +0700" stop="20230503130000 +0700" channel="63203">
-    <title lang="id">Barry</title>
+  <programme start="20230505143500 +0700" stop="20230505162500 +0700" channel="63145">
+    <title lang="id">Sing 2</title>
   </programme>
-  <programme start="20230503130000 +0700" stop="20230503133000 +0700" channel="63203">
-    <title lang="id">Somebody Somewhere</title>
+  <programme start="20230505162500 +0700" stop="20230505180500 +0700" channel="63145">
+    <title lang="id">Clifford The Big Red Dog</title>
   </programme>
-  <programme start="20230503133000 +0700" stop="20230503152500 +0700" channel="63203">
-    <title lang="id">Recount</title>
+  <programme start="20230505180500 +0700" stop="20230505202000 +0700" channel="63145">
+    <title lang="id">The Karate Kid</title>
   </programme>
-  <programme start="20230503152500 +0700" stop="20230503172000 +0700" channel="63203">
-    <title lang="id">E.T. The Extra-Terrestrial</title>
+  <programme start="20230505202000 +0700" stop="20230505220000 +0700" channel="63145">
+    <title lang="id">Mama</title>
   </programme>
-  <programme start="20230503172000 +0700" stop="20230503190000 +0700" channel="63203">
-    <title lang="id">Late Shift</title>
-  </programme>
-  <programme start="20230503190000 +0700" stop="20230503210000 +0700" channel="63203">
-    <title lang="id">The Theory Of Everything</title>
-  </programme>
-  <programme start="20230503210000 +0700" stop="20230503220000 +0700" channel="63203">
-    <title lang="id">White House Plumbers</title>
-  </programme>
-  <programme start="20230503220000 +0700" stop="20230503235500 +0700" channel="63203">
-    <title lang="id">The Girl In The Spider's Web</title>
-  </programme>
-  <programme start="20230503235500 +0700" stop="20230504012500 +0700" channel="63203">
-    <title lang="id">Ouija</title>
+  <programme start="20230505220000 +0700" stop="20230506003000 +0700" channel="63145">
+    <title lang="id">Harry Potter &amp; Sorcerer's Stone</title>
   </programme>
   <programme start="20230504012500 +0700" stop="20230504031500 +0700" channel="63203">
     <title lang="id">Never Back Down</title>
@@ -2030,50 +1976,47 @@
   <programme start="20230504224500 +0700" stop="20230505013500 +0700" channel="63203">
     <title lang="id">The Aviator</title>
   </programme>
-  <programme start="20230503004000 +0700" stop="20230503022500 +0700" channel="63439">
-    <title lang="id">Repo Men</title>
+  <programme start="20230505013500 +0700" stop="20230505025500 +0700" channel="63203">
+    <title lang="id">Devil</title>
   </programme>
-  <programme start="20230503022500 +0700" stop="20230503040000 +0700" channel="63439">
-    <title lang="id">48 Hrs.</title>
+  <programme start="20230505025500 +0700" stop="20230505044500 +0700" channel="63203">
+    <title lang="id">Magic Mike XXL</title>
   </programme>
-  <programme start="20230503040000 +0700" stop="20230503055000 +0700" channel="63439">
-    <title lang="id">A Million Ways To Die In West</title>
+  <programme start="20230505044500 +0700" stop="20230505060500 +0700" channel="63203">
+    <title lang="id">Nightingale</title>
   </programme>
-  <programme start="20230503055000 +0700" stop="20230503072000 +0700" channel="63439">
-    <title lang="id">Till Death</title>
+  <programme start="20230505060500 +0700" stop="20230505074000 +0700" channel="63203">
+    <title lang="id">Hostile Waters</title>
   </programme>
-  <programme start="20230503072000 +0700" stop="20230503074500 +0700" channel="63439">
-    <title lang="id">Hollywood On Set</title>
+  <programme start="20230505074000 +0700" stop="20230505092000 +0700" channel="63203">
+    <title lang="id">Perks Of Being A Wallflower</title>
   </programme>
-  <programme start="20230503074500 +0700" stop="20230503092000 +0700" channel="63439">
-    <title lang="id">Brother Nature</title>
+  <programme start="20230505092000 +0700" stop="20230505110500 +0700" channel="63203">
+    <title lang="id">Confirmation</title>
   </programme>
-  <programme start="20230503092000 +0700" stop="20230503105500 +0700" channel="63439">
-    <title lang="id">48 Hrs.</title>
+  <programme start="20230505110500 +0700" stop="20230505135000 +0700" channel="63203">
+    <title lang="id">The Aviator</title>
   </programme>
-  <programme start="20230503105500 +0700" stop="20230503124500 +0700" channel="63439">
-    <title lang="id">Against The Ropes</title>
+  <programme start="20230505135000 +0700" stop="20230505163000 +0700" channel="63203">
+    <title lang="id">Path To War</title>
   </programme>
-  <programme start="20230503124500 +0700" stop="20230503145000 +0700" channel="63439">
-    <title lang="id">Snow White And The Huntsman</title>
+  <programme start="20230505163000 +0700" stop="20230505180000 +0700" channel="63203">
+    <title lang="id">Bright Lights: Starring...</title>
   </programme>
-  <programme start="20230503145000 +0700" stop="20230503162000 +0700" channel="63439">
-    <title lang="id">Everyday People</title>
+  <programme start="20230505180000 +0700" stop="20230505194000 +0700" channel="63203">
+    <title lang="id">The Switch</title>
   </programme>
-  <programme start="20230503162000 +0700" stop="20230503174500 +0700" channel="63439">
-    <title lang="id">The LXD: The Uprising Begins</title>
+  <programme start="20230505194000 +0700" stop="20230505210000 +0700" channel="63203">
+    <title lang="id">Nightingale</title>
   </programme>
-  <programme start="20230503174500 +0700" stop="20230503192500 +0700" channel="63439">
-    <title lang="id">The LXD: The Secrets Of The Ra</title>
+  <programme start="20230505210000 +0700" stop="20230505225000 +0700" channel="63203">
+    <title lang="id">Electrical Life Of Louis Wain</title>
   </programme>
-  <programme start="20230503192500 +0700" stop="20230503210000 +0700" channel="63439">
-    <title lang="id">The Golden Child</title>
+  <programme start="20230505225000 +0700" stop="20230505235000 +0700" channel="63203">
+    <title lang="id">Succession</title>
   </programme>
-  <programme start="20230503210000 +0700" stop="20230503225500 +0700" channel="63439">
-    <title lang="id">Lethal Weapon 2</title>
-  </programme>
-  <programme start="20230503225500 +0700" stop="20230504005000 +0700" channel="63439">
-    <title lang="id">Lethal Weapon 3</title>
+  <programme start="20230505235000 +0700" stop="20230506002000 +0700" channel="63203">
+    <title lang="id">Barry</title>
   </programme>
   <programme start="20230504005000 +0700" stop="20230504025000 +0700" channel="63439">
     <title lang="id">Split</title>
@@ -2114,50 +2057,47 @@
   <programme start="20230504225500 +0700" stop="20230505010000 +0700" channel="63439">
     <title lang="id">Lethal Weapon 4</title>
   </programme>
-  <programme start="20230503004000 +0700" stop="20230503022500 +0700" channel="63177">
-    <title lang="id">Repo Men</title>
+  <programme start="20230505010000 +0700" stop="20230505023000 +0700" channel="63439">
+    <title lang="id">Jolt</title>
   </programme>
-  <programme start="20230503022500 +0700" stop="20230503040000 +0700" channel="63177">
-    <title lang="id">48 Hrs.</title>
+  <programme start="20230505023000 +0700" stop="20230505040500 +0700" channel="63439">
+    <title lang="id">The Nun</title>
   </programme>
-  <programme start="20230503040000 +0700" stop="20230503055000 +0700" channel="63177">
-    <title lang="id">A Million Ways To Die In West</title>
+  <programme start="20230505040500 +0700" stop="20230505054000 +0700" channel="63439">
+    <title lang="id">Another 48 Hrs.</title>
   </programme>
-  <programme start="20230503055000 +0700" stop="20230503072000 +0700" channel="63177">
-    <title lang="id">Till Death</title>
+  <programme start="20230505054000 +0700" stop="20230505075000 +0700" channel="63439">
+    <title lang="id">Van Helsing</title>
   </programme>
-  <programme start="20230503072000 +0700" stop="20230503074500 +0700" channel="63177">
+  <programme start="20230505075000 +0700" stop="20230505091500 +0700" channel="63439">
+    <title lang="id">Green Lantern: Beware My Power</title>
+  </programme>
+  <programme start="20230505091500 +0700" stop="20230505113000 +0700" channel="63439">
+    <title lang="id">The Amazing Spider-Man</title>
+  </programme>
+  <programme start="20230505113000 +0700" stop="20230505132500 +0700" channel="63439">
+    <title lang="id">The General's Daughter</title>
+  </programme>
+  <programme start="20230505132500 +0700" stop="20230505150000 +0700" channel="63439">
+    <title lang="id">Another 48 Hrs.</title>
+  </programme>
+  <programme start="20230505150000 +0700" stop="20230505165000 +0700" channel="63439">
+    <title lang="id">El Diablo</title>
+  </programme>
+  <programme start="20230505165000 +0700" stop="20230505172000 +0700" channel="63439">
     <title lang="id">Hollywood On Set</title>
   </programme>
-  <programme start="20230503074500 +0700" stop="20230503092000 +0700" channel="63177">
-    <title lang="id">Brother Nature</title>
+  <programme start="20230505172000 +0700" stop="20230505185500 +0700" channel="63439">
+    <title lang="id">Cinema Verite: American Family</title>
   </programme>
-  <programme start="20230503092000 +0700" stop="20230503105500 +0700" channel="63177">
-    <title lang="id">48 Hrs.</title>
+  <programme start="20230505185500 +0700" stop="20230505210000 +0700" channel="63439">
+    <title lang="id">Lethal Weapon 4</title>
   </programme>
-  <programme start="20230503105500 +0700" stop="20230503124500 +0700" channel="63177">
-    <title lang="id">Against The Ropes</title>
+  <programme start="20230505210000 +0700" stop="20230505225000 +0700" channel="63439">
+    <title lang="id">The Protege</title>
   </programme>
-  <programme start="20230503124500 +0700" stop="20230503145000 +0700" channel="63177">
-    <title lang="id">Snow White And The Huntsman</title>
-  </programme>
-  <programme start="20230503145000 +0700" stop="20230503162000 +0700" channel="63177">
-    <title lang="id">Everyday People</title>
-  </programme>
-  <programme start="20230503162000 +0700" stop="20230503174500 +0700" channel="63177">
-    <title lang="id">The LXD: The Uprising Begins</title>
-  </programme>
-  <programme start="20230503174500 +0700" stop="20230503192500 +0700" channel="63177">
-    <title lang="id">The LXD: The Secrets Of The Ra</title>
-  </programme>
-  <programme start="20230503192500 +0700" stop="20230503210000 +0700" channel="63177">
-    <title lang="id">The Golden Child</title>
-  </programme>
-  <programme start="20230503210000 +0700" stop="20230503225500 +0700" channel="63177">
-    <title lang="id">Lethal Weapon 2</title>
-  </programme>
-  <programme start="20230503225500 +0700" stop="20230504005000 +0700" channel="63177">
-    <title lang="id">Lethal Weapon 3</title>
+  <programme start="20230505225000 +0700" stop="20230506004000 +0700" channel="63439">
+    <title lang="id">The Hitman's Wife's Bodyguard</title>
   </programme>
   <programme start="20230504005000 +0700" stop="20230504025000 +0700" channel="63177">
     <title lang="id">Split</title>
@@ -2198,41 +2138,47 @@
   <programme start="20230504225500 +0700" stop="20230505010000 +0700" channel="63177">
     <title lang="id">Lethal Weapon 4</title>
   </programme>
-  <programme start="20230503004000 +0700" stop="20230503024500 +0700" channel="63238">
-    <title lang="id">Rampant</title>
+  <programme start="20230505010000 +0700" stop="20230505023000 +0700" channel="63177">
+    <title lang="id">Jolt</title>
   </programme>
-  <programme start="20230503024500 +0700" stop="20230503050000 +0700" channel="63238">
-    <title lang="id">1987: When The Day Comes</title>
+  <programme start="20230505023000 +0700" stop="20230505040500 +0700" channel="63177">
+    <title lang="id">The Nun</title>
   </programme>
-  <programme start="20230503050000 +0700" stop="20230503070000 +0700" channel="63238">
-    <title lang="id">Bank Attack</title>
+  <programme start="20230505040500 +0700" stop="20230505054000 +0700" channel="63177">
+    <title lang="id">Another 48 Hrs.</title>
   </programme>
-  <programme start="20230503070000 +0700" stop="20230503090000 +0700" channel="63238">
-    <title lang="id">The Tenor: Lirico Spinto</title>
+  <programme start="20230505054000 +0700" stop="20230505075000 +0700" channel="63177">
+    <title lang="id">Van Helsing</title>
   </programme>
-  <programme start="20230503090000 +0700" stop="20230503110000 +0700" channel="63238">
-    <title lang="id">The Accidental Detective 2</title>
+  <programme start="20230505075000 +0700" stop="20230505091500 +0700" channel="63177">
+    <title lang="id">Green Lantern: Beware My Power</title>
   </programme>
-  <programme start="20230503110000 +0700" stop="20230503133000 +0700" channel="63238">
-    <title lang="id">Master</title>
+  <programme start="20230505091500 +0700" stop="20230505113000 +0700" channel="63177">
+    <title lang="id">The Amazing Spider-Man</title>
   </programme>
-  <programme start="20230503133000 +0700" stop="20230503153500 +0700" channel="63238">
-    <title lang="id">Countdown</title>
+  <programme start="20230505113000 +0700" stop="20230505132500 +0700" channel="63177">
+    <title lang="id">The General's Daughter</title>
   </programme>
-  <programme start="20230503153500 +0700" stop="20230503172500 +0700" channel="63238">
-    <title lang="id">Hitman: Agent Jun</title>
+  <programme start="20230505132500 +0700" stop="20230505150000 +0700" channel="63177">
+    <title lang="id">Another 48 Hrs.</title>
   </programme>
-  <programme start="20230503172500 +0700" stop="20230503191500 +0700" channel="63238">
-    <title lang="id">Remember You</title>
+  <programme start="20230505150000 +0700" stop="20230505165000 +0700" channel="63177">
+    <title lang="id">El Diablo</title>
   </programme>
-  <programme start="20230503191500 +0700" stop="20230503210000 +0700" channel="63238">
-    <title lang="id">The Swordsman</title>
+  <programme start="20230505165000 +0700" stop="20230505172000 +0700" channel="63177">
+    <title lang="id">Hollywood On Set</title>
   </programme>
-  <programme start="20230503210000 +0700" stop="20230503230000 +0700" channel="63238">
-    <title lang="id">Project Wolf Hunting</title>
+  <programme start="20230505172000 +0700" stop="20230505185500 +0700" channel="63177">
+    <title lang="id">Cinema Verite: American Family</title>
   </programme>
-  <programme start="20230503230000 +0700" stop="20230504005000 +0700" channel="63238">
-    <title lang="id">The Classified File</title>
+  <programme start="20230505185500 +0700" stop="20230505210000 +0700" channel="63177">
+    <title lang="id">Lethal Weapon 4</title>
+  </programme>
+  <programme start="20230505210000 +0700" stop="20230505225000 +0700" channel="63177">
+    <title lang="id">The Protege</title>
+  </programme>
+  <programme start="20230505225000 +0700" stop="20230506004000 +0700" channel="63177">
+    <title lang="id">The Hitman's Wife's Bodyguard</title>
   </programme>
   <programme start="20230504005000 +0700" stop="20230504025500 +0700" channel="63238">
     <title lang="id">The Magician</title>
@@ -2272,5 +2218,44 @@
   </programme>
   <programme start="20230504225000 +0700" stop="20230505003000 +0700" channel="63238">
     <title lang="id">Oh! My Ghost</title>
+  </programme>
+  <programme start="20230505003000 +0700" stop="20230505020000 +0700" channel="63238">
+    <title lang="id">Actionhero</title>
+  </programme>
+  <programme start="20230505020000 +0700" stop="20230505034500 +0700" channel="63238">
+    <title lang="id">Lovers Vanished</title>
+  </programme>
+  <programme start="20230505034500 +0700" stop="20230505054000 +0700" channel="63238">
+    <title lang="id">Go Go 70s</title>
+  </programme>
+  <programme start="20230505054000 +0700" stop="20230505072500 +0700" channel="63238">
+    <title lang="id">Remember You</title>
+  </programme>
+  <programme start="20230505072500 +0700" stop="20230505092000 +0700" channel="63238">
+    <title lang="id">Waiting For Rain</title>
+  </programme>
+  <programme start="20230505092000 +0700" stop="20230505105500 +0700" channel="63238">
+    <title lang="id">Jazzy Misfits</title>
+  </programme>
+  <programme start="20230505105500 +0700" stop="20230505131000 +0700" channel="63238">
+    <title lang="id">The Witch, Pt 2</title>
+  </programme>
+  <programme start="20230505131000 +0700" stop="20230505151000 +0700" channel="63238">
+    <title lang="id">Bank Attack</title>
+  </programme>
+  <programme start="20230505151000 +0700" stop="20230505171500 +0700" channel="63238">
+    <title lang="id">Tunnel</title>
+  </programme>
+  <programme start="20230505171500 +0700" stop="20230505192000 +0700" channel="63238">
+    <title lang="id">The Tenor: Lirico Spinto</title>
+  </programme>
+  <programme start="20230505192000 +0700" stop="20230505210000 +0700" channel="63238">
+    <title lang="id">The Closet</title>
+  </programme>
+  <programme start="20230505210000 +0700" stop="20230505230000 +0700" channel="63238">
+    <title lang="id">The Accidental Detective 2</title>
+  </programme>
+  <programme start="20230505230000 +0700" stop="20230506010000 +0700" channel="63238">
+    <title lang="id">Project Wolf Hunting</title>
   </programme>
 </tv>
